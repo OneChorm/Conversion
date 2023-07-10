@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/nmt/en-cn/Deven2ch.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nmt/en-cn/Testingen2ch.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nmt/en-cn/Trainingen2ch.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/output.txt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

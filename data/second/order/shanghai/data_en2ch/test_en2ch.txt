@@ -1,0 +1,6078 @@
+fat	脂肪
+zinc	锌
+urea	尿素
+alum	明矾
+Pd/C	钯炭
+lime	石灰
+butin	紫铆素
+vinyl	乙烯基
+Rnase	RNA酶
+Topik	顶尖
+Pyran	吡喃
+urate	尿酸盐
+doxal	多虑平
+rosin	松香
+Tuzet	退菌特
+maneb	代森锰
+rutin	芦丁
+Azone	氮酮
+Dwell	氯唑灵
+uvaol	熊果醇
+alliin	蒜氨酸
+benzil	苯偶酰
+phytin	菲汀
+sphene	榍石
+serine	丝氨酸
+tannin	单宁
+Octane	辛烷
+adprin	阿德呋啉
+musk T	麝香T
+acetol	丙酮醇
+butein	紫铆花素
+Kathon	卡松
+ionone	紫罗兰酮
+fuscin	暗褐菌素
+guaiol	愈创木醇
+indigo	靛蓝
+pyrite	硫铁矿
+thujol	侧柏醇
+lipase	脂肪酶
+zeatin	玉米素
+barium	钡
+durene	杜烯
+allose	阿洛糖
+lysine	赖氨酸
+butane	丁烷
+sulfur	硫
+bursin	三肽囊素
+climen	克龄蒙
+fucose	岩藻糖
+picein	云杉素
+ombuin	商陆素
+panose	潘糖
+zebtox	代森锌
+aramid	芳酰胺
+carbon	碳
+Ononin	芒柄花苷
+uracil	尿嘧啶
+endrin	异狄氏剂
+pepsin	胃蛋白酶
+heroin	海洛因
+fraxin	秦皮素苷
+octene	辛烯
+leptin	瘦素
+osthol	蛇床子素
+xylose	木糖
+cartap	杀螟丹
+garnet	石榴石
+Crocin	藏红花素
+bromide	溴化物
+monuron	灭草隆
+leucine	亮氨酸
+Kasumin	加瑞农
+benzoin	安息香
+choline	胆碱
+pulegol	长叶薄荷醇
+uricase	尿酸酶
+rosavin	络萨维
+pp'-DDE	PP'-滴滴伊
+lupenol	扇豆醇
+nepetin	泽兰黄酮
+famesol	法尼醇
+cystine	胱氨酸
+aucubin	桃叶珊瑚苷
+ferrate	高铁酸盐
+hafnium	铪
+narasin	那拉霉素
+tylosin	泰乐菌素
+demeton	内吸磷
+aconine	乌头原碱
+cubebol	荜澄茄油烯醇
+op'-DDT	OP'-滴滴涕
+muscone	麝香酮
+α-ionol	α-紫罗兰醇
+scoline	琥珀胆碱
+salicin	水杨苷
+agarose	琼脂糖
+ouabain	哇巴因
+inosine	肌苷
+Melonal	甜瓜醛
+Sapylin	沙培林
+bixafen	联苯吡菌胺
+fenchol	小茴香醇
+rimuene	芮木泪柏烯
+betaine	甜菜碱
+dalapon	茅草枯
+hexitol	己六醇
+bauxite	铝土矿
+amylase	淀粉酶
+borneol	冰片
+aspisol	赖氨匹林
+diamide	联氨
+amylose	直链淀粉
+icariin	淫羊藿苷
+S-RNase	S-核酸酶
+amitraz	双甲脒
+endoxin	内洋地黄素
+Span 80	司盘80
+phytone	植酮
+luminol	鲁米诺
+inhibin	抑制素
+siduron	环草隆
+peptone	蛋白胨
+curzate	杜邦克露
+obtusin	决明素
+dinoseb	地乐酚
+kestose	蔗果三糖
+maltose	麦芽糖
+emerald	祖母绿
+nitrate	硝酸盐
+effusol	厄弗酚
+fonofos	地虫硫磷
+heptane	庚烷
+lipoxin	脂氧素
+hirudin	水蛭素
+wogonin	汉黄芩素
+zeolite	沸石
+sulfide	硫化物
+mannose	甘露糖
+Protium	氕
+oxazole	噁唑
+adipsin	脂肪细胞素
+taxusin	紫杉素
+TNP-470	烟曲霉醇
+actarit	阿克他利
+octanol	辛醇
+nystose	蔗果四糖
+helicid	豆腐果苷
+analgin	安乃近
+tuftsin	吞噬肽
+boronal	包罗醛
+decorin	核心蛋白聚糖
+arbidol	阿比朵尔
+Botulin	肉毒毒素
+oxidase	氧化酶
+betaloc	倍他乐克
+ghrelin	胃促生长素
+brassin	芸苔素
+aglycin	胰胺肽
+erianin	毛兰素
+thorium	钍
+silicon	硅
+chlorine	氯
+kitazine	异稻瘟净
+oxindole	氧化吲哚
+ramipril	雷米普利
+eudesmin	桉脂素
+domiphen	度米芬
+arabitol	阿拉伯糖醇
+naloxone	纳洛酮
+Brazilin	巴西苏木素
+sabinene	桧烯
+L-lysine	L-赖氨酸
+dahllite	碳酸磷灰石
+squalene	角鲨烯
+ceramide	神经酰胺
+vanadate	钒酸盐
+formazan	甲臜
+cefdinir	头孢地尼
+lentinan	香菇多糖
+rubidate	茜草双酯
+propineb	丙森锌
+propoxur	残杀威
+Fresubin	瑞素
+butylene	丁烯
+geraniin	老鹳草素
+veratrol	白藜芦素
+undecene	十一碳烯
+monascin	红曲素
+apixaban	阿哌沙班
+2-pinene	2-蒎烯
+xylazine	噻拉嗪
+resistin	抵抗素
+ligand 4	配体4
+temephos	双硫磷
+methylal	甲缩醛
+arglabin	阿格拉宾
+bibenzyl	联苄
+diazepam	地西泮
+O-cymene	邻伞花烃
+miglitol	米格列醇
+clobazam	氯巴占
+bacdanol	印檀醇
+macamide	玛咖酰胺
+squalane	角鲨烷
+fentanyl	芬太尼
+heptanol	庚醇
+granzyme	颗粒酶
+glycidol	缩水甘油
+mepronil	灭锈胺
+pediocin	乳酸片球菌素
+fluorite	荧石
+2-carene	2-蒈烯
+Euthyrox	优甲乐
+a-pinene	a-蒎烯
+atromide	安妥明
+lotensin	洛丁新
+xanthine	黄嘌呤
+xenotime	磷钇矿
+linalool	芳樟醇
+menthane	对孟烷
+orientin	荭草苷
+tolmetin	托美丁
+bavachin	补骨脂甲素
+cefotiam	头孢替安
+globulol	蓝桉醇
+triazole	三唑
+curcumin	姜黄素
+malvidin	锦葵色素
+sinigrin	烯丙基芥子油苷
+thiazole	噻唑
+albolene	白凡士林
+ester-30	酯-30
+3-nonene	3-壬烯
+dacromet	达克罗
+picotite	铬尖晶石
+o-xylene	邻二甲苯
+thiazone	噻酮
+survivin	生存蛋白
+pindolol	吲哚洛尔
+Nephrite	软玉
+palmitol	棕榈醇
+neuropad	欧米诺
+gibbsite	三水铝石
+CellCept	骁悉
+1-decyne	1-癸炔
+indoline	吲哚啉
+scopolin	东莨菪苷
+tabanone	烟酮
+ilmenite	钛铁矿
+boscalid	啶酰菌胺
+pachyman	茯苓多糖
+physcion	大黄素甲醚
+cedrenol	雪松烯醇
+alkaline	碱
+piclorma	氨氯吡啶酸
+propofol	丙泊酚
+silicene	硅烯
+trapidil	曲匹地尔
+cefepime	头孢吡肟
+fucoidan	岩藻聚糖硫酸酯
+nicotine	烟碱
+elastase	弹性蛋白酶
+Oleanane	奥利烷
+bromacil	除草定
+butanone	丁酮
+4-cresol	4-甲酚
+Bestatin	贝他定
+avanavil	阿伐那非
+acrylate	丙烯酸酯
+triazine	三嗪
+fluorene	芴
+pulegone	胡薄荷酮
+rectisol	冷甲醇
+pluronic	普朗尼克
+thiirane	环硫乙烷
+zoxamide	苯酰菌胺
+Rishitin	日齐素
+polyurea	聚脲
+poncirin	枸橘苷
+tryptase	类胰蛋白酶
+doxapram	多沙普仑
+chalcone	查尔酮
+anilofos	莎稗磷
+mecoprop	2甲4氯丙酸
+mequinol	对甲氧酚
+cephalin	脑磷脂
+genistin	染料木苷
+Octanone	辛酮
+graphite	石墨
+rhidosin	红景天素
+dolantin	杜冷丁
+crocin-2	西红花苷-2
+bepridil	苄普地尔
+bisultap	杀虫双
+L-valine	L-缬氨酸
+cefteram	头孢特仑
+m-xylene	间二甲苯
+carnosol	鼠尾草酚
+abacavir	阿巴卡韦
+curdione	莪术二酮
+urease B	尿素酶B
+perylene	苝
+myrtenal	桃金娘烯醛
+hexanone	己酮
+alachlor	甲草胺
+collagen	胶原
+p-cymene	对伞花烃
+sativene	蒜头素
+selenium	硒
+selenate	硒酸盐
+isoapiol	异芹菜脑
+adefovir	阿德福韦
+cyanogen	氰根
+bronopol	布罗波尔
+fumarase	延胡索酸酶
+paraffin	石蜡
+theanine	茶氨酸
+fenchene	小茴香烯
+amanitin	鹅膏毒肽
+tementin	特美汀
+visfatin	内脂素
+pebulate	克草猛
+juncusol	灯心草酚
+crocin I	西红花苷I
+fructone	苹果酯
+incretin	肠促胰岛素
+copperas	绿矾
+acetanol	醋丁洛尔
+3-octenol	3-辛烯醇
+tamoxifen	他莫昔芬
+L-glycine	L-甘氨酸
+nivalenol	雪腐镰刀菌烯醇
+cast iron	铸铁
+carotenol	胡萝卜醇
+aspidinol	绵马酚
+fullerene	富勒烯
+ionomycin	离子霉素
+polydatin	虎杖苷
+voglibose	伏格列波糖
+spodumene	锂辉石
+sulfatase	硫酸酯酶
+Laureth-7	月桂醇聚醚-7
+2-cadinol	2-杜松醇
+biochanin	鹰嘴豆芽素
+defibrase	降纤酶
+dithizone	双硫腙
+Catoc-ene	卡托辛
+isobutene	异丁烯
+navelbine	诺维本
+tephrosin	灰叶素
+α-asarone	α-细辛醚
+L-proline	L-脯氨酸
+l-menthol	l-薄荷醇
+invertase	转化酶
+DL-serine	DL-丝氨酸
+austenite	奥氏体
+perdipine	佩尔地平
+polybrene	聚凝胺
+wilforine	雷公藤次碱
+Ibrutinib	依鲁替尼
+flavonoid	类黄酮
+friedelin	木栓酮
+anisidine	茴香胺
+clevudine	克来夫定
+vatalanib	瓦他拉尼
+activin A	激活素A
+6-paradol	6-姜酮酚
+belotecan	贝洛替康
+prognosis	预后
+narcotine	那可汀
+triallate	野麦畏
+taraxerol	蒲公英赛醇
+beraprost	贝前列素
+cymoxanil	霜脲氰
+2-decenol	2-癸烯醇
+saponin A	皂苷a
+3-pcarene	3-皆烯
+2-borneol	2-莰醇
+D-carvone	右旋香芹酮
+arabinose	阿拉伯糖
+disulfide	二硫醚
+docosanol	二十二醇
+rhoifolin	野漆树苷
+D-mannose	D-甘露糖
+Aconifine	10-羟基乌头碱
+quinapril	喹那普利
+oxacillin	苯唑西林
+tetracene	并四苯
+melatonin	褪黑素
+turmerone	姜黄酮
+nano-gold	纳米金
+n-decanal	n-癸醛
+ethaselen	乙烷硒啉
+eicosanal	二十醛
+hexanoate	己酸酯
+eicosanol	二十烷醇
+dibekacin	地贝卡星
+p-toluene	对甲苯
+1-indanol	1-茚醇
+dodecanal	十二醛
+allantoin	尿囊素
+jasmonate	茉莉素
+kanamycin	卡那霉素
+esprocarb	禾草畏
+amphibole	闪石
+Antrycide	安锥赛
+piribedil	吡贝地尔
+omethoate	氧化乐果
+hordenine	大麦芽碱
+γ-guaiene	γ-愈创木烯
+lipoamide	硫辛酰胺
+cefprozil	头孢丙烯
+coumarone	香豆酮
+vitacoxib	维他昔布
+hexadiene	己二烯
+gomisin E	戈米辛E
+idebenone	艾地苯醌
+ketone 10	酮10
+b-cedrene	b-柏木烯
+Acryl-Eze	雅克宜
+coumaphos	蝇毒磷
+troostite	屈氏体
+roxarsone	洛克沙胂
+maackiain	高丽槐素
+carteolol	卡替洛尔
+oxadiazon	噁草酮
+miltirone	丹参新酮
+wulfenite	钼铅矿
+bergapten	佛手柑内酯
+bismutite	泡铋矿
+calpain 3	钙蛋白酶3
+efavirenz	依法韦伦
+Calycosin	毛蕊异黄酮
+almandine	铁铝榴石
+terpilene	萜基烯
+δ4-carene	δ4-蒈烯
+ofloxacin	氧氟沙星
+ketotifen	酮替芬
+ytterbium	镱
+T-cadinol	T-荜澄茄醇
+gelsemine	钩吻素甲
+β-thujone	β-侧柏酮
+ketorolac	酮咯酸
+L-borneol	L-龙脑
+vindesine	长春地辛
+sulfatide	脑硫苷脂
+tegaserod	替加色罗
+pure gold	纯金
+anhydrite	硬石膏
+fenipenol	苯戊醇
+imidapril	咪达普利
+glyceride	甘油脂
+6-shogaol	6-姜烯酚
+methional	蛋硫醛
+vitamin B	维生素B
+n-hexanal	正己醛
+ornithine	鸟氨酸
+D-alanine	D-丙氨酸
+cinnamene	肉桂烯
+handianol	汉地醇
+hexestrol	己烷雌酚
+linezolid	利奈唑胺
+primer P2	引物P2
+sennoside	番泻苷
+triclopyr	三氯吡氧乙酸
+xylobiose	木二糖
+oxaprozin	奥沙普秦
+9-decenal	9-癸烯醛
+glipizide	格列吡嗪
+α-thujone	α-侧柏酮
+neptunium	镎
+lasalocid	拉沙里菌素
+leonuride	益母草苷
+D-allitol	D-阿洛醇
+mannanase	甘露聚糖酶
+lanthanum	镧
+reductase	还原酶
+cadinenol	杜松烯醇
+a-clovene	a-新丁香三环烯
+flammulin	火菇素
+1H-indole	1H-吲哚
+butadiene	丁二烯
+1-nonanol	1-壬醇
+bisacodyl	比沙可啶
+bauerenol	降香醇
+esculetin	七叶内酯
+palytoxin	岩沙海葵毒素
+phenamide	双苯酰草胺
+orthodene	荠苎烯
+alismol G	泽泻醇G
+metformin	二甲双胍
+primer B2	引物B2
+tridecane	十三烷
+L-alanine	L-丙氨酸
+solanesol	茄尼醇
+β-cedrene	β-雪松烯
+biopterin	生物蝶呤
+cinoxacin	西诺沙星
+aragonite	文石
+carbamide	碳酰二胺
+complex I	配合物I
+loliolide	黑麦草内酯
+sisomicin	西索米星
+viaminate	维胺酯
+α-thujene	α-侧柏烯
+n-butanol	正丁醇
+anisodine	樟柳碱
+avicelase	微晶纤维素酶
+cathinone	卡西酮
+dasatinib	达沙替尼
+cellulase	纤维素酶
+boldenone	勃地龙
+Cyclin D1	细胞周期素D1
+polyamine	多胺
+ramelteon	雷美替胺
+L-carveol	L-香芹醇
+mefenacet	苯噻酰草胺
+temazepam	替马西泮
+piracetam	吡拉西坦
+kaolinite	高岭土
+diacerein	双醋瑞因
+closantel	氯氰碘柳胺钠
+exenatide	艾塞那肽
+farnesene	金合欢烯
+Primidome	扑米酮
+mitomycin	丝裂霉素
+threonine	苏氨酸
+tap water	自来水
+Indinavir	茚地那韦
+Silymarin	水飞蓟素
+sweroside	獐牙菜苷
+echinatin	刺甘草查耳酮
+genistein	染料木素
+caspase 3	半胱氨酸蛋白酶3
+phosphate	磷酸盐
+parathion	对硫磷
+inhibin-A	抑制素-A
+plifenate	三氯
+4-nonenal	4-壬烯醛
+diagnosis	诊断
+isoenzyme	同工酶
+ispamicin	异帕米星
+willemite	硅锌矿
+toxaphene	毒杀芬
+protamine	鱼精蛋白
+furantoin	呋喃妥因
+glabridin	光甘草定
+corilagin	柯里拉京
+tenofovir	替诺福韦
+β-glucose	β-葡萄糖
+nitarsone	硝苯胂酸
+pazopanib	帕唑帕尼
+Magnetite	磁铁矿
+Bupropion	安非拉酮
+artemitin	洋艾素
+Enalapril	依那普利
+gehlenite	钙黄长石
+ester-105	酯-105
+acid blue	酸性蓝
+lomustine	洛莫司汀
+δ-guaiene	δ-愈创木烯
+tadalafil	他达拉非
+silatrane	杂氮硅三环
+bensulide	地散磷
+9-icosyne	9-二十炔
+azaperone	阿扎哌隆
+roseoside	长春花苷
+rhamnetin	鼠李素
+carob gum	角豆胶
+panipenem	帕尼培南
+sucralose	三氯蔗糖
+tricosane	二十三烷
+santalene	檀香烯
+β-copaene	β-古巴烯
+capsaicin	辣椒素
+β-catenin	β-连环素
+sulfamate	氨磺酸
+ice water	冰水
+indigotin	靛青
+nobiletin	川陈皮素
+propaphos	丙虫磷
+Cuprizone	环已酮二腙
+cocoonase	溶茧酶
+guanidine	胍
+naltrexol	纳曲醇
+polymyxin	多粘菌素
+bosutinib	伯舒替尼
+1-hexanal	1-己醛
+1-decanol	1-癸醇
+faropenem	法罗培南
+ribavirin	利巴韦林
+rottlerin	粗糠柴霉素
+quercetin	槲皮素
+α-copaene	α-咕吧烯
+tin oxide	氧化锡
+factor Xa	因子Xa
+2-decanol	2-癸醇
+T-muurolol	t-依兰油醇
+lafutidine	拉呋替丁
+mycosporin	克霉素
+β-famesene	beta-金合欢烯
+γ-cadinene	γ-杜松烯
+gentianine	龙胆碱
+decitabine	地西他滨
+adamantane	金刚烷
+Aniracetam	茴拉西坦
+azlocillin	阿洛西林
+β-selinene	β-芹子烯
+ascaridole	驱蛔素
+diploptene	里白烯
+oxymatrine	氧化苦参碱
+lumichrome	光敏素
+glucosides	白芍总苷
+α-sabinene	α-香桧烯
+steel, 10#	10#钢
+methoprene	烯虫酯
+metoprolol	美托洛尔
+15-crown-5	15-冠醚-5
+cefuroxime	头孢呋辛
+etoricoxib	依托昔布
+tachioside	它乔糖苷
+permethrin	氯菊酯
+4-propylol	4-丙基酚
+dipfluzine	双苯氟嗪
+amlodipine	氨氯地平
+theaflavin	茶黄素
+dicyclanil	地昔尼尔
+crizotinib	克唑替尼
+Fluroxypyr	氯氟吡氧乙酸
+ciguatoxin	雪卡毒素
+cladribine	克拉屈滨
+ferrierite	镁碱沸石
+erythroose	赤藓糖
+jaceosidin	棕矢车菊素
+pennogenin	偏诺皂甙元
+scytonemin	伪枝藻素
+tianeptine	噻萘普汀
+tridemorph	十三吗啉
+n-propanol	正丙醇
+oncostatin	制瘤素
+isoamylene	异戊烯
+hexadecene	十六烯
+neprilysin	脑啡肽酶
+liensinine	莲心碱
+δ cadinene	δ杜松烯
+D-sorbitol	D-山梨醇
+dysprosium	镝
+disulfoton	乙拌磷
+robenidine	氯苯胍
+nonadecane	十九烷
+papaverine	罂粟碱
+Gomisin L1	戈米辛L1
+homoserine	高丝氨酸
+hygromycin	潮霉素
+jamesonite	脆硫锑铅矿
+ceftibuten	头孢布烯
+bacitracin	杆菌肽
+mevastatin	美伐他汀
+isosorbide	异山梨醇
+α-amanitin	α-鹅膏毒肽
+α-cadinene	α-杜松烯
+α-camphene	α-莰烯
+aqua regia	王水
+dofetilide	多非利特
+isopyrazam	吡唑萘菌胺
+fleroxacin	氟罗沙星
+dioctyltin	二辛基锡
+4-decanone	癸酮
+ifosfamide	异环磷酰胺
+isocyanide	异腈
+Ubiquinone	泛醌
+vertimicin	威替米星
+zilpaterol	西马特罗
+nitrocefin	头孢硝噻吩
+gellan gum	结冷胶
+cerium ion	铈离子
+raclopride	雷可必利
+vardenafil	伐地那非
+2,3-isatin	2,3-吲哚醌
+eplerenone	依普利酮
+Compound j	化合物j
+D-fructose	D-果糖
+superoxide	超氧化物
+mivacurium	米库氯铵
+p38 kinase	p38激酶
+Thaumasite	碳硫硅钙石
+resorcinol	间苯二酚
+ongifolene	长松叶烯
+2-pentenal	2-戊烯醛
+liquiritin	甘草苷
+peroxidase	过氧化物酶
+dobutamine	多巴酚丁胺
+Apaziquone	阿帕齐醌
+nitrapyrin	氯甲基吡啶
+xanthiside	噻嗪双酮苷
+chrysophan	大黄酚苷
+oplopanone	刺参酮
+flutolanil	氟酰胺
+carthamine	红花红色素
+allitridin	大蒜新素
+coumarin-6	香豆素-6
+1-β-pinene	1-β-蒎烯
+product 14	产物14
+Nelarabine	奈拉滨
+flavomycin	黄霉素
+lacidipine	拉西地平
+Cefalonium	头孢洛宁
+polyphenol	多酚
+octopamine	章鱼胺
+nongru 500	农乳500
+valeranone	缬草酮
+triptonide	雷公藤内酯酮
+binaphthol	联萘酚
+atazanavir	阿扎那韦
+activin βA	活化素βA
+acetone-d6	氘代丙酮
+sulfameter	磺胺甲氧嘧啶
+trisulfide	三硫化合物
+cetirizine	西替利嗪
+1-limonene	1-柠檬烯
+2-myrcenal	2-月桂烯醛
+folic acid	叶酸
+baimuxinol	白木香醇
+nonadienol	2,6-壬二烯醇
+isocitrate	异柠檬酸盐
+L-catechin	L－儿茶素
+moroxydine	病毒灵
+vitamin B3	维生素B3
+prodiamine	氨基丙禾灵
+Mucosolvan	沐舒坦
+cinepazide	桂哌齐特
+cryptopine	隐品碱
+ditalimfos	灭菌磷
+DL-alanine	DL-丙氨酸
+iron, free	游离铁
+flufiprole	丁虫腈
+flurazepam	氟西泮
+betacyanin	甜菜红素
+butylene-1	丁烯-1
+daphnenone	瑞香烯酮
+Galbanolen	格蓬烯
+hexosamine	氨基己糖
+acid red 9	酸性红9
+thiophenol	苯硫酚
+γ-fagarine	γ-花椒碱
+tacrolimus	他克莫司
+Raf kinase	Raf激酶
+ampelopsin	蛇葡萄素
+corynoxine	柯诺辛碱
+alamifovir	阿米福韦
+dimethipin	噻节因
+lindenenol	乌药醇
+vogeloside	断马钱子苷半缩醛内酯
+wilforgine	雷公藤吉碱
+tazobactam	他唑巴坦
+Perifosine	哌立福新
+1-docosene	1-二十二烯
+isoprocarb	异丙威
+octreotide	奥曲肽
+Oleic acid	油酸
+vorinostat	伏立诺他
+xinaomycin	新奥霉素
+L-calamene	L-菖薄烯
+nocodazole	噻氨酯哒唑
+Product 11	产物11
+adalimumab	阿达木单抗
+citrulline	瓜氨酸
+ethambutol	乙胺丁醇
+cefozopran	头孢唑兰
+dichlorvos	敌敌畏
+troxerutin	曲克芦丁
+lomerizine	洛美利嗪
+metadoxine	美他多辛
+Pyrethrins	除虫菊素
+γmuurolene	衣兰油烯
+Transmetil	思美泰
+5-nonanone	5-壬酮
+isoborneol	异龙脑
+isopentane	异戊烷
+intermedin	中介素
+olomoucine	CDK抑制剂
+paclitaxel	紫杉醇
+diaphorase	心肌黄酶
+alprazolam	阿普唑仑
+β-cyperone	β-香附酮
+quinclorac	二氯喹啉酸
+lycoramine	力可拉敏
+jujuboside	酸枣仁皂苷
+Profoxydim	环苯草酮
+3-undecone	3-十一酮
+Chamigrene	花柏烯
+periocline	派丽奥
+isopentene	异戊烯基黄酮
+hexanamide	己酰胺
+protease B	蛋白酶B
+d-menthone	d-薄荷酮
+isocyanate	异氰酸酯
+loperamide	洛哌丁胺
+α-Ylangene	α-依兰烯
+18-crown-6	18-冠-6
+hypaconine	次乌头原碱
+dityrosine	二酪氨酸
+bipyridine	联二吡啶
+infliximab	英夫利西
+grevillone	银桦内酯
+n-pentanal	正戊醛
+suvorexant	苏沃雷生
+travoprost	曲伏前列腺素
+zonisamide	唑尼沙胺
+homosalate	胡莫柳酯
+ketoprofen	酮洛芬
+bavachinin	补骨脂二氢黄酮甲醚
+akermanite	镁黄长石
+3-etcosene	3-二十烯
+ilaprazole	艾普拉唑
+metakaolin	偏高岭土
+α-limonene	α-柠檬烯
+bupirimate	乙嘧酚磺酸酯
+dibutyltin	二丁基锡
+eculizumab	依库珠单抗
+pyridazine	哒嗪
+hesperidin	橙皮苷
+lithionite	锂云母
+usnic acid	松萝酸
+decanediol	癸二醇
+evofolin B	楝叶吴茱萸素B
+Glucophage	格华止
+D-tyrosine	D-酪氨酸
+flutriafol	粉唑醇
+scopoletin	东莨菪内酯
+prochloraz	咪鲜胺
+propionate	丙酸盐
+netilmicin	奈替米星
+methacetin	美沙西丁
+mildronate	米屈肼
+vitamin PP	维生素PP
+Compound 1	化合物1
+bortezomib	硼替佐米
+zingiberol	姜醇
+γ-cubebene	γ-毕澄茄烯
+ketanserin	酮色林
+picrotoxin	印防己毒素
+1-indanone	1-茚满酮
+bendiocarb	恶虫威
+β-santalol	β-檀香醇
+phenacetin	非那西丁
+9-eicosyne	9-二十碳炔
+Compound X	化合物X
+epirubicin	表阿霉素
+evodiamine	吴茱萸碱
+ζ-carotene	ζ-胡萝卜素
+zeaxanthin	玉米黄素
+xanthosine	黄嘌呤核苷
+icodextrin	艾考糊精
+2-furanone	2-呋喃酮
+thiodicarb	硫双威
+alkylamine	烷基胺
+1-heptanal	1-庚醛
+compound 7	化合物7
+verbascose	毛蕊花糖
+myrosinase	黑芥子酶
+lomitapide	洛美他派
+impurity 8	杂质8
+Resinase A	生物酶
+octaglycol	八乙二醇
+Panshengan	盼生安
+lehmannine	莱蔓碱
+tridecanal	十三醛
+epimedin C	朝藿定C
+cyasterone	杯苋甾酮
+neoxanthin	新黄质
+gossypetin	棉皮素
+polygeline	聚明胶肽
+ramiprilat	雷米普利拉
+pennyroyal	薄荷油
+neopentane	新戊烷
+Dextran 70	右旋糖酐70
+chlorition	亚氯酸根
+Rho kinase	Rho 激酶
+retigabine	瑞替加滨
+thiodan II	硫丹II
+tipranavir	替拉那韦
+β-amanitin	β-鹅膏毒肽
+subtilisin	枯草杆菌蛋白酶
+amiodarone	胺碘酮
+2-octanone	2-辛酮
+compound C	化合物C
+citrusin C	枸橼苦素
+isomaltase	异麦芽糖酶
+nizatidine	尼扎替丁
+nootkatone	圆柚酮
+tetramycin	梧宁霉素
+Trometamol	氨丁三醇
+tetradifon	三氯杀螨砜
+product 13	产物13
+Colicin Ia	大肠菌素Ia
+didanosine	去羟肌苷
+etanercept	依那西普
+florasulam	双氟磺草胺
+martensite	马氏体
+arprinocid	氟腺嘌呤
+acid green	酸性绿
+compound 3k	化合物3k
+compound T3	化合物T3
+cumylphenol	枯基酚
+dynorphin A	强啡肽A
+thiocyanide	硫氰酸根
+oxazolidine	噁唑烷
+erigeroside	飞蓬苷
+eszopiclone	右佐匹克隆
+dracorhodin	血竭素
+dichlobenil	敌草腈
+laxogenin C	拉肖皂苷C
+silafluofen	氟硅菊酯
+rifamycin B	利福霉素B
+thymol blue	百里酚蓝
+octanethiol	辛硫醇
+atalafoline	东风桔碱
+compound 9m	化合物9m
+steel, TRIP	TRIP钢
+imidaprilat	咪达普利拉
+simvastatin	辛伐他汀
+pyrazoxyfen	苄草唑
+clopidogrel	氯吡格雷
+compound 8j	化合物8j
+acibenzolar	活化酯
+bergamotene	香柠檬烯
+nitrogenase	固氮酶
+Oxfendazole	奥芬达唑
+1-docosanol	1-二十二醇
+triflumuron	杀铃脲
+Z-6-shogaol	Z-6-姜烯酚
+hexadecanal	十六醛
+L-ornithine	L-鸟氨酸
+Schiff base	席夫碱
+pentraxin 3	五聚素3
+compound 2o	化合物2o
+follistatin	卵泡抑素
+Compound M7	化合物M7
+compound 8f	化合物8f
+iron, salts	铁盐
+lathosterol	7-烯胆甾烷醇
+L-carnosine	L-肌肽
+metalaxyl-M	精甲霜灵
+nitrophenol	硝基苯酚
+a-D-lactose	a-D-乳糖
+acetylfuran	乙酰呋喃
+Compound IX	化合物IX
+compound L4	化合物L4
+hypaphorine	刺桐碱
+guineensine	几内亚胡椒碱
+compound L5	化合物L5
+compound 4s	化合物4s
+policosanol	多廿烷醇
+curzerenone	莪术酮
+compound 4j	化合物4j
+cathepsin C	组织蛋白酶C
+tea pigment	茶色素
+metconazole	叶菌唑
+zearalanone	玉米赤霉酮
+α-vitamin E	α-维生素E
+carbetamide	双酰草胺
+epratuzumab	依帕珠单抗
+xanthotoxin	花椒毒素
+fulvestrant	氟维司群
+pentadecane	十五烷
+vitispirane	葡萄螺烷
+isoabietene	异松香烯
+isomaltitol	异麦芽酮糖醇
+propranolol	普萘洛尔
+sanggenon C	桑根酮C
+penciclovir	喷昔洛韦
+polyactin A	多抗甲素
+phenylcyano	苯基氰
+helium, ion	氦离子
+flavourzyme	风味蛋白酶
+compound 3n	化合物3n
+acid blue 9	酸性蓝9
+droloxifene	屈洛昔芬
+dizocilpine	地卓西平
+cloxacillin	氯唑西林
+caspofungin	卡泊芬净
+acid red 73	酸性红73
+Ti-Ni alloy	钛镍合金
+meisoindigo	甲异靛
+thyrotropin	促甲状腺素
+4-undecanol	4-十一醇
+clerosterol	赤酮甾醇
+compound 3p	化合物3p
+compound 5q	化合物5q
+cortistatin	皮质抑素
+Compound 2a	化合物2a
+calcifediol	骨化二醇
+anisodamine	山莨菪碱
+rimsulfuron	玉嘧磺隆
+propanamide	丙酰胺
+mephosfolan	地安磷
+clofarabine	氯法拉滨
+compound 2k	化合物2k
+τ-gurjunene	t-古芸烯
+tolfenpyrad	唑虫酰胺
+trehalulose	海藻酮糖
+hepcidin-25	铁调素25
+adipophilin	亲脂素
+azaconazole	氧环唑
+compound 3m	化合物3m
+compound 5j	化合物5j
+compound I2	化合物I2
+β-eudesmene	β-桉叶烯
+α-mannatide	α-甘露聚糖肽
+tetranectin	四连接素
+Compound 9l	化合物9l
+compound 2l	化合物2l
+salinomycin	盐霉素
+sevoflurane	七氟醚
+compound 9e	化合物9e
+L-arabinose	L-阿拉伯糖
+cyclodecane	环癸烷
+Eupatorin A	紫茎泽兰素A
+flumioxazin	丙炔氟草胺
+compound 43	化合物43
+prodigiosin	灵菌红素
+nateglinide	那格列奈
+octylphenol	辛基酚
+jasmolin II	茉酮菊素II
+propyzamide	炔苯酰草胺
+trichlorfon	敌百虫
+terfenadine	特非那定
+α-farnesene	α-金合欢烯
+calcium ion	钙离子
+bivalirudin	比伐卢定
+2-dodecanol	2-十二醇
+fluconazole	氟康唑
+prallethrin	炔丙菊酯
+ilexoside B	冬青苷B
+lactuside B	莴苣苷B
+dimethicone	二甲硅油
+bupleurynol	柴胡炔醇
+skimmianine	茵芋碱
+paraldehyde	三聚乙醛
+nornicotine	降烟碱
+erigeside C	飞蓬苷C
+deslanoside	西地兰
+compound B2	化合物B2
+compound T6	化合物T6
+neosolaniol	新茄病镰刀菌烯醇
+haloperidol	氟哌啶醇
+ginsenoside	人参皂苷
+patchoulene	绿叶烯
+sulprostone	硫前列酮
+erucic acid	芥酸
+compound Ia	化合物Ia
+Compound M6	化合物M6
+6-undecanol	6-十一醇
+doxycycline	强力霉素
+Cathepsin S	组织蛋白酶S
+haleniaside	花锚甙
+uronic acid	糖醛酸
+Z-2-nonenal	Z-2-壬烯醛
+musk ketone	酮麝香
+benfluralin	乙丁氟灵
+compound 4u	化合物4u
+compound 3g	化合物3g
+deacetylase	去乙酰化酶
+pariphyllin	蚤休皂苷
+S-ibuprofen	S-布洛芬
+o-toluidine	邻甲苯胺
+perchlorate	高氯酸盐
+diglyceride	甘二酯
+compound E2	化合物E2
+alendronate	阿仑膦酸钠
+(+)-camphor	(+)-樟脑
+betaxanthin	甜菜黄素
+anisic acid	茴香酸
+girinimbine	吉九里香碱
+α-synuclein	α-突触核蛋白
+β-terpinene	β-松油烯
+patchoulane	绿叶烷
+imiprothrin	炔咪菊酯
+fraxiparine	速碧林
+carthamidin	红花素
+compound L3	化合物L3
+compound T8	化合物T8
+amylopectin	支链淀粉
+trepibutone	曲匹布通
+milnacipran	米那普仑
+kadsurenone	海风藤酮
+furaltadone	呋喃它酮
+gonadorelin	戈那瑞林
+amino group	胺基
+compound 3j	化合物3j
+γ-vitamin E	γ-维生素E
+vinylphenol	乙烯基苯酚
+longifolene	长叶烯
+hydralazine	肼苯哒嗪
+Compound 6m	化合物6m
+fucoxanthin	岩藻黄素
+glutathione	谷胱甘肽
+diphacinone	敌鼠钠盐
+ethofenprox	醚菊酯
+nordiazepam	去甲地西泮
+smithsonite	菱锌矿
+toosendanin	川楝素
+α-turmerone	α-姜黄酮
+veratrosine	藜芦新碱
+iso-elemene	异榄香烯
+pentacosane	二十五烷
+phosphorite	金磷矿
+nemonoxacin	奈诺沙星
+1-dodecanol	1-十二醇
+compound 6d	化合物6d
+Damascenone	大马酮
+doxofylline	多索茶碱
+eremophlene	雅榄兰烯
+compound 31	化合物31
+cis-carveol	顺-香芹醇
+compound I6	化合物I6
+kitasamycin	吉他霉素
+lactoferrin	乳铁蛋白
+musk xylene	二甲苯麝香
+nitric acid	硝酸
+β-selinenol	β-蛇床烯醇
+tralkoxydim	三甲苯草酮
+compound 20	化合物20
+total sugar	总糖
+Rhodamine G	罗丹明G
+N-benzamide	N-苯基-甲酰胺
+compound 6q	化合物6q
+fludarabine	氟达拉滨
+cycloxaprid	环氧虫啶
+compound B4	化合物B4
+compound 3f	化合物3f
+biphenylene	联苯烯
+pilocarpine	匹罗卡品
+risperidone	利培酮
+compound 1s	化合物1s
+hederagenin	常春藤皂苷元
+acid red 2G	酸性红2G
+pentylfuran	戊基呋喃
+orphanin FQ	孤啡肽
+picrocrocin	苦藏花素
+pirarubicin	吡柔比星
+p-anisidine	p-茴香胺
+L-histidine	L-组氨酸
+trisiloxane	三硅氧烷
+cammaconine	卡马乌头原碱
+flumetralin	氟节胺
+diazinon-OH	二嗪磷-OH
+cyclodecene	环癸烯
+Compound M8	化合物M8
+compound 24	化合物24
+Compound 7e	化合物7e
+(+)-carvone	(+)-香芹酮
+octocrylene	奥克立林
+ulinastatin	乌司他丁
+ruxolitinib	鲁索利替尼
+secologanin	断马钱子苷
+astrakanite	白钠镁矾
+amarogentin	苦龙胆酯苷
+hypocrellin	竹红菌素
+ondansetron	昂丹司琼
+santamarine	珊塔玛内酯
+Steel, TWIP	TWIP钢
+kasugamycin	春雷霉素
+lysostaphin	溶葡萄球菌酶
+pinocembrin	乔松素
+zaltoprofen	扎托布洛芬
+bromooctane	溴辛烷
+compound 1q	化合物1q
+compound 2f	化合物2f
+compound a2	化合物a2
+compound C8	化合物C8
+gemfibrozil	吉非罗齐
+bromoethane	溴乙烷
+a-muurolene	木罗烯
+compound 34	化合物34
+pyrimithate	氧嘧啶磷
+benzophenid	苯甲酸苯酯
+ceftazidime	头孢他啶
+calcineurin	钙调神经磷酸酶
+acid red 14	酸性红14
+hydrocarbon	碳氢化合物
+methoxamine	甲氧明
+1-verbenone	1-马鞭草烯酮
+compound B1	化合物B1
+compound L2	化合物L2
+liranaftate	利拉萘酯
+D-threonine	D-苏氨酸
+D-trehalose	D-海藻糖
+oxasulfuron	环氧嘧磺隆
+benthiocarb	禾草丹
+pimpinellin	茴芹内酯
+oxandrolone	氧甲氢龙
+casuarictin	木麻黄鞣亭
+fluticasone	氟替卡松
+Compound 4a	化合物4a
+compound 6h	化合物6h
+Compound M9	化合物M9
+octadecanol	十八醇
+Quinhydrone	醌氢醌
+oxyfluorfen	乙氧氟草醚
+kinsenoside	金线莲苷
+red pigment	红色素
+Trypsinogen	胰蛋白酶原
+acid red 18	酸性红18
+acifluorfen	三氟羧草醚
+aldosterone	醛固酮
+(-)-borneol	(-)-冰片
+compound 21	化合物21
+bromobenzyl	溴苄
+domoic acid	软骨藻酸
+epinephrine	肾上腺素
+Schaftoside	夏佛托苷
+paraoxonase	对氧磷酶
+β-thymidine	β-胸苷
+monobenzone	莫诺苯腙
+floridoside	红藻糖苷
+compound 2j	化合物2j
+cathepsin A	组织蛋白A
+1-eicosanol	1-二十醇
+bromate ion	溴酸根
+(-)-camphor	(-)-樟脑
+hydrogenase	氢化酶
+isopiperine	异胡椒碱
+omapatrilat	奥马曲拉
+compound 1c	化合物1c
+compound 5a	化合物5a
+2-pentanone	2-戊酮
+laurylamide	月桂酰胺
+xanthophane	视黄素
+zoledronate	唑来瞵酸
+D-arabinose	D-阿拉伯糖
+Azacitidine	阿扎胞苷
+compound G2	化合物G2
+Compound Ic	化合物Ic
+kainic acid	海人酸
+m-terphenyl	间-三联苯
+tamarixetin	柽柳素
+tiglic acid	惕各酸
+Ferumoxides	菲立磁
+columbamine	非洲防己碱
+compound 6k	化合物6k
+Z-3-hexenal	Z-3-己烯醛
+pinoresinol	松脂素
+nosiheptide	那西肽
+compound 9q	化合物9q
+bezafibrate	苯扎贝特
+2-terpineol	2-松油醇
+compound A4	化合物A4
+bromine ion	溴离子
+1H-pyrazole	1H-吡唑
+araloside A	楤木皂苷A
+nodakenetin	紫花前胡苷元
+rheochrysin	大黄苷
+tropisetron	托烷司琼
+pervanadate	过钒酸钠
+safranine T	藏红T
+cis-lanceol	顺式澳白檀醇
+Compound M1	化合物M1
+bavachalcone	补骨脂查耳酮
+cyclobutanol	环丁醇
+GH4169 alloy	GH4169合金
+topiroxostat	托比司他
+homopregnane	升孕甾烷
+myclobutanil	腈菌唑
+sibricose A6	西伯利亚糖A6
+pantoprazole	泮托拉唑
+rhodoxanthin	紫杉红素
+pyridazinone	哒嗪酮
+proteinase 3	蛋白酶3
+compound C15	化合物C15
+chrysanthene	菊烯
+8-hexadecyne	8-十六炔
+etonogestrel	依托孕烯
+compound C-5	化合物C-5
+compound 11c	化合物11c
+iron carbide	碳化铁
+titanic acid	钛酸
+cis-verbenol	顺-马鞭草烯醇
+cefracycline	盐酸四环素
+Zuogui pills	左归丸
+α-L-rhamnose	α-L-鼠李糖
+scutellarein	野黄芩素
+transcutol P	二乙二醇单乙基醚
+2-undecanone	2-十一酮
+ethychlozate	吲熟酯
+α-agarofuran	α-沉香呋喃
+α-zearalanol	α-玉米赤霉醇
+uranothorite	铀钍石
+germacrene D	大根香叶烯D
+enestroburin	烯肟菌酯
+bromadiolone	溴敌隆
+benzoquinone	苯醌
+dodecylamine	十二胺
+Maytansinoid	美登素
+interferon-γ	干扰素-γ
+picornain 3C	3C蛋白酶
+2-buten-1-ol	2-丁烯-1-醇
+celangulin V	苦皮藤素V
+formononetin	芒柄花素
+compound C10	化合物C10
+basic orange	碱性橙
+β-sitosterol	β-谷甾醇
+istanbulin A	依斯坦布林A
+methoxyfuran	甲氧基呋喃
+laurylglycol	十二烷基乙二醇
+lansoprazole	兰索拉唑
+a-calacorene	A-二去氢菖蒲烯
+(+)-calamene	(+)-白菖烯
+compound C-7	化合物C-7
+E-6-gingerol	E-6-姜酚
+magnolenin C	广玉兰赖宁苷C
+narciclasine	水仙环素
+swertianolin	当药醇苷
+beta-elemene	beta-榄香烯
+docosylamide	二十二烷基酰胺
+sulfobetaine	磺酸甜菜碱
+β-eucalyptol	β-桉叶醇
+compound 3af	化合物3af
+3-nonen-1-ol	3-壬烯-1-醇
+2-hexen-1-ol	2-己烯醛-1-醇
+xanthone III	远志口酮III
+sterane, C29	甾烷
+tebufenozide	虫酰肼
+tirapazamine	替拉扎明
+behenic acid	山俞酸
+cyclohexanol	环己醇
+stellasterol	星鱼甾醇
+pteroic acid	蝶酸
+dalfopristin	达福普汀
+chymotrypsin	糜蛋白酶
+chlorpropham	氯苯胺灵
+gypenoside B	绞股蓝皂苷B
+arsenazo III	偶氮胂III
+Sudan Yellow	苏丹黄
+polyfluorene	聚芴
+lead citrate	柠檬酸铅
+stearylamine	硬脂胺
+streptozocin	链佐星
+rosuvastatin	瑞舒伐他汀
+methotrexate	甲氨蝶呤
+evernic acid	扁枝衣二酸
+bellidifolin	雏菊叶龙胆酮
+compound 3ag	化合物3ag
+benzo pyrene	苯丙芘
+carbodiimide	碳化二亚胺
+icariside E5	淫羊藿苷E5
+B-bourbonene	B-波旁烯
+fluxapyroxad	氟唑菌酰胺
+(2E)-hexenal	(2E)-己烯醛
+1-erythritol	1-赤藻糖醇
+terallethrin	环戊烯丙菊酯
+rhodamine123	罗明丹123
+tepraloxydim	吡喃草酮
+α-calacorene	α-白菖考烯
+isoquercetin	异槲皮素
+arsenopyrite	砷黄铁矿
+compound 3aj	化合物3aj
+compound 3ao	化合物3ao
+isocarbophos	水胺硫磷
+α-zearalenol	α-玉米赤霉烯醇
+hypochlorite	次氯酸盐
+pinonic acid	蒎酮酸
+polyborazine	聚硼氮烷
+pectolinarin	柳穿鱼苷
+2-decen-1-ol	2-癸烯-1-醇
+D-(+)-xylose	D-(+)-木糖
+compound C-9	化合物C-9
+d-δ-cadinene	d-δ-杜松油烯
+bright green	亮绿
+actinorhodin	放线紫红素
+2-nonadecane	2-十九酮
+β defensin 2	β防御素2
+sophocarpine	槐果碱
+pivalic acid	特戊酸
+pepsinogen A	胃蛋白酶原A
+Hydrogen ion	氢离子
+triprolidine	曲普利啶
+Zwittermicin	双效菌素
+campherenone	樟烯酮
+Longifolenal	长叶烯醛
+remifentanil	瑞芬太尼
+β defensin 1	β防御素1
+enzyme, XbaI	XbaI酶
+9-hexacosene	9-二十六烯
+(+)-pulegone	(+)-胡薄荷酮
+(2E)-nonenal	(2E)-壬烯醛
+cryptopinone	右松脂醛
+endosulfan-2	硫丹-2
+cerevisterol	啤酒甾醇
+2,4-dicresol	2,4-二甲酚
+prodynorphin	纯啡肽
+upper primer	上游引物
+solavetivone	螺岩兰草酮
+malonic acid	丙二酸
+methylindene	甲基茚
+6-keto-PGF1α	6-酮-PGF1α
+Compound VII	化合物VII
+sarpogrelate	沙格雷酯
+isocopoletin	异莨菪亭
+lenalidomide	来那度胺
+compound 11e	化合物11e
+dimethirimol	甲菌定
+rhamnocitrin	鼠李柠檬素
+τ-calacorene	t-榄香烯
+pregnenolone	孕烯醇酮
+alkoxysilane	烷氧基硅烷
+antofloxacin	安妥沙星
+homoorientin	异红草素
+ethanolamine	乙醇胺
+p-iodophenol	对碘苯酚
+pheophorbide	脱镁叶绿酸
+α-xylosidase	木糖苷酶
+phosethyl Al	乙铝
+compound 15b	化合物15b
+(+)-cuparene	(+)-花侧柏烯
+chloric acid	氯酸
+cerotic acid	蜡酸
+breviscapine	灯盏花素
+compound T13	化合物T13
+fusaric acid	镰刀菌酸
+pyrazinamide	吡嗪酰胺
+kokusaginine	香草木宁
+obinutuzumab	奥必妥单抗
+antithrombin	抗凝血酶
+butocarboxim	丁酮威
+compound 3ab	化合物3ab
+permethrin-2	氯菊酯-2
+Phenyl ether	苯基醚
+homofuraneol	酱油酮
+isotretinoin	异维A酸
+oncostatin M	抑瘤素M
+γ-tocopherol	γ-生育酚
+pyrophyllite	叶腊石
+taraxasterol	蒲公英甾醇
+nitrous acid	亚硝酸
+D-malic acid	D-苹果酸
+ethene ether	乙烯醚
+chlorophenol	氯苯酚
+cassiaside C	决明子苷C
+imidafenacin	咪达那新
+compound II3	化合物II3
+C6 mercaptan	C6硫醇
+dibrobenzene	二溴苯
+germacrene B	大根香叶烯B
+triphyllin A	三羽新月蕨苷A
+silychristin	水飞蓟亭
+cinosulfuron	醚磺隆
+polydextrose	聚葡萄糖
+sebacic acid	癸二酸
+1,8-eudesmol	1,8-桉叶油醇
+1-pentacosol	1-二十五醇
+Sesbania gum	田菁胶
+phentolamine	酚妥拉明
+parthenolide	小白菊内酯
+fluorapatite	氟磷灰石
+5-Oxoproline	5-羟脯氨酸
+zolmitriptan	佐米曲坦
+spirooxazine	螺噁嗪
+nesquehonite	三水碳酸镁
+aflatoxin G2	黄曲霉毒素G2
+compound 3ae	化合物3ae
+cyclohexanal	环己醛
+3-buten-2-ol	3-丁烯-2-醇
+polyrotaxane	聚轮烷
+n-hexadecane	正十六烷
+compound 10d	化合物10d
+compound 11f	化合物11f
+7,9-docosane	7,9-甘二烷酮
+trachylobane	绰奇烷
+stearylamide	十八酰胺
+geldanamycin	格尔德霉素
+ethylhexanol	乙基己醇
+L-citrulline	L-瓜氨酸
+rutaecarpine	吴茱萸次碱
+terlipressin	特利加压素
+9-cis-lutein	9-顺式叶黄素
+1H-phenalene	1H-非那烯
+1-nonylamine	1-壬胺
+bazedoxifene	苯卓昔芬
+cefaloridine	头孢噻啶
+reactive red	活性红
+oxyenadenine	羟烯腺嘌呤
+norephedrine	去甲基麻黄碱
+elvitegravir	埃替拉韦
+Pregeijerene	前吉枝木烯
+amphotericin	二性霉素
+10-nonadecol	10-十九醇
+bromotoluene	溴甲苯
+isoheptanone	异庚酮
+clionasterol	穿贝海绵甾醇
+lower primer	下游引物
+gelatinase B	明胶酶B
+(Z)-geranial	(Z)-香叶醛
+vanilla acid	香子兰酸
+thalifendine	唐松草酚定
+sulfur oxide	硫氧化物
+penamecillin	哌啦西林
+methylethyne	甲基乙炔
+isoquinoline	异喹啉
+brassinolide	芸苔素内酯
+compound 12b	化合物12b
+α-tocopherol	α-生育酚
+ar-curcumene	芳姜黄烯
+dimepiperate	哌草丹
+1-iodobutane	1-碘丁烷
+acid fuchsin	酸性品红
+Folin-Phenol	福林酚
+azamethiphos	甲基吡噁磷
+thiamethoxam	噻虫嗪
+thiodiglycol	硫二甘醇
+pyrisoxazole	啶菌恶唑
+L-enkephalin	L-脑啡肽
+sibricose A5	西伯利亚糖A5
+dexpanthenol	泛醇
+aromadendrin	香橙素
+compound 3la	化合物3la
+magnocuraine	厚朴碱
+nor-pristane	降姥鲛烷
+11-tricosene	11-二十三烯
+complement 4	补体4
+chlorocetane	氯代十六烷
+bacitracin A	杆菌肽A
+balofloxacin	巴洛沙星
+dryocrassine	绵马贯众素
+stearic acid	硬脂酸
+pentadecanal	十五醛
+abietic acid	枞酸
+compound 3ba	化合物3ba
+eicosylamide	二十烷基酰胺
+procaspase-9	半胱天冬酶-9酶原
+methacriphos	虫螨畏
+calamusenone	菖蒲烯酮
+3-hexen-1-ol	3-己烯醛-1-醇
+compound II4	化合物II4
+Germacrene A	大根香叶烯A
+carbomer-934	卡波姆-934
+halofuginone	常山酮
+nopinic acid	诺蒎酸
+Obtusifoline	姜决明子素
+alkanolamide	烷醇酰胺
+compound 3ca	化合物3ca
+5-hexen-1-ol	5-己烯-1-醇
+(+)-calarene	(+)-卡拉烯
+interferon-α	干扰素-α
+prucalopride	普芦卡必利
+elaidic acid	反油酸
+beta-ocimene	beta-罗勒烯
+anisaldehyde	茴香醛
+allylestrenol	烯丙雌醇
+dextrin, corn	玉米糊精
+dehydrogenase	脱氢酶
+(E)-3-hexenol	(E)-3-己烯醇
+glycolic acid	羟基乙酸
+6-tridecanone	6-十三酮
+DL-malic acid	DL-苹果酸
+catechin acid	儿茶酸
+m-bromophenol	间溴苯酚
+methyl ionone	甲基紫罗酮
+helvolic acid	烟曲霉酸
+ceric sulfate	硫酸铈
+angiotensin 5	血管紧张素5
+4-aminophenol	4-氨基酚
+copper, total	全铜
+chamaejasmine	狼毒素
+siamenoside I	赛门苷I
+sodium humate	腐植酸钠
+fensulfothion	丰索磷
+chlorobutanol	三氯叔丁醇
+3-nonen-2-one	3-壬烯-2-酮
+ethyl acetate	乙酸乙酯
+glycycoumarin	甘草香豆素
+glucinium ion	铍离子
+cis-4-decenol	顺-4-癸烯醇
+ammoniacopper	络氨铜
+3-furaldehyde	3-糠醛
+triallylamine	三烯丙基胺
+N-demethylase	N-脱甲基酶
+vitriol oxide	氧化矾
+benzalacetone	苄叉丙酮
+cyhalodiamide	氯氟氰虫酰胺
+sulfacetamide	磺胺醋酰
+cinobufotalin	华蟾毒它灵
+hemoglobin A2	血红蛋白A2
+fumitremorgin	烟曲霉毒素
+8-nonen-2-one	8-壬烯-2-酮
+ethyl gallate	没食子酸乙酯
+gallocatechin	没食子儿茶素
+coumaric acid	香豆酸
+nortriptyline	去甲替林
+caftaric acid	咖啡酰基酒石酸
+4-penten-1-ol	4-戊烯-1-醇
+malononitrile	丙二腈
+δ-hexalactone	丁位己内酯
+D-Prallethrin	右旋炔丙菊酯
+epoxypropanol	环氧丙醇
+azaethromycin	二氢高红霉素
+chloroethanol	氯乙醇
+trioctylamine	三辛胺
+ergothioneine	麦角硫因
+boron carbide	碳化硼
+procalcitonin	降钙素原
+Jolkinolide B	岩大戟内酯 B
+Toluidine red	甲苯胺红
+β-doxycycline	β-多西环素
+dotriacontane	三十二烷
+trans-menthol	反式薄荷醇
+urea peroxide	过氧化尿素
+sodium iodide	碘化钠
+sulfapyridine	磺胺吡啶
+hinokiflavone	扁柏双黄酮
+pentyldiamine	戊二胺
+2-aminopurine	2-氨基嘌呤
+ferrotitanium	钛铁
+cyclosporin A	环孢菌素A
+2-deoxyribose	2-去氧核醣
+tissue factor	组织因子
+n-octacosanol	正二十八烷醇
+threonic acid	苏糖酸
+aromadendrene	香橙烯
+6-tridecylene	6-十三烯
+4-penten-2-ol	4-戊烯-2-醇
+sulfasalazine	柳氮磺胺吡啶
+isofucosterol	异岩藻甾醇
+esfenvalerate	顺式氰戊菊酯
+itaconic acid	衣康酸
+pronuciferine	前荷叶碱
+triadimenol-b	三唑醇-b
+zinc stannate	锡酸锌
+schisandrol B	五味子醇乙
+2-pinen-4-one	2-蒎烯-4-酮
+(+)-α-elemene	(+)-α-榄香烯
+dihydrouracil	二氢尿嘧啶
+dipsacoside B	川续断皂苷乙
+licarbazepine	利卡西平
+propylsultone	丙磺酸内酯
+cyclododecane	环十二烷
+pseudouridine	假尿嘧啶核苷
+pterostilbene	紫檀芪
+indium iodide	碘化铟
+(E)-2-decenal	(E)-2-癸烯醛
+butyl lactate	乳酸丁酯
+dihydralazine	双肼屈嗪
+ethyl bromide	乙基溴
+n-tetracosane	正二十四烷
+dicyandiamide	双氰胺
+enzyme, Not I	Not I酶
+4-isopropylol	4-异丙基酚
+(S)-2-octanol	(S)-2-辛醇
+o-isopropylol	邻异丙基酚
+α-campholenal	α-龙脑醛
+butyl acetate	乙酸丁酯
+4-hetononanal	4-酮基壬醛
+basic fuchsin	碱性品红
+beta-carotene	β胡萝卜素
+oxoisophorone	氧代异佛尔酮
+dodecalactone	十二内酯
+carbomer 934P	卡波姆934P
+starch, wheat	小麦淀粉
+iridium oxide	氧化铱
+peroxynitrite	过氧亚硝基阴离子
+sulfadimidine	磺胺二甲嘧啶
+cycloeicosane	环二十烷
+acetyleugenol	乙酰丁香油酚
+phloyoside II	螃蟹甲苷II
+Reinecke salt	雷氏盐
+n-heneicosane	正二十一烷
+neryl acetate	乙酸橙花酯
+Timosaponin B	知母皂苷B
+trans-butenal	反式丁烯醛
+(+)-valencene	(+)-巴伦西亚桔烯
+6-isogingerol	6-异姜酚
+13-cis-lutein	13-顺式叶黄素
+enzyme, Pac I	Pac I酶
+acetildenafil	红地那非
+polyphyllin I	重楼皂苷I
+neryl acetone	橙花基丙酮
+α-mannosidase	α-甘露糖苷酶
+p-toluic acid	PT酸
+thiabendazole	噻菌灵
+salbutamol-d3	沙丁胺醇-d3
+cycloundecone	环十一酮
+fluorobenzene	氟苯
+gastrodigenin	天麻苷元
+polycarbonate	聚碳酸酯
+yeast extract	酵母膏
+vinyl alcohol	乙烯醇
+β-panasinsene	β-人参烯
+Sphingomyelin	鞘磷脂
+limonene-diol	柠檬烯二醇
+nitrous oxide	一氧化二氮
+pectate lyase	果胶裂解酶
+4-iodotoluene	对碘甲苯
+ethyl lactate	乳酸乙酯
+disperse blue	分散蓝
+cyclofenchene	环葑烯
+decyl formate	甲酸癸酯
+complement C4	补体C4
+carbonyl iron	羰基铁粉
+mogroside IVe	罗汉果皂苷IVe
+violuric acid	紫尿酸
+transaldolase	转醛醇酶
+isobutylamine	异丁胺
+8-gingerdione	8-姜二酮
+acetylpyrrole	乙酰基吡咯
+phenobarbital	苯巴比妥
+yolk lecithin	蛋黄卵磷脂
+βphellandrene	β水芹烯
+4-octen-3-one	4-辛烯-3-酮
+cis-4-decenal	顺-4-癸烯醛
+3-aminophenol	3-氨基苯酚
+2-nonen-4-one	2-壬烯-4-酮
+3-caren-10-al	3-蒈烯-10-醛
+carminic acid	胭脂红酸
+propylgallate	棓丙酯
+ammonia, free	游离氨
+beta defensin	β防御素
+n-propylamine	正丙胺
+hexanoic acid	己酸
+homocapsaicin	高辣椒碱
+methylparaben	4-羟基苯甲酸甲酯
+nitrofurazone	呋喃西林
+ethyl anisate	大茴香酸乙酯
+n-hexadecanol	正十六烷醇
+phthalic acid	苯二甲酸
+forsythiaside	连翘酯苷
+pepsinogen II	胃蛋白酶原II
+nickel, total	全镍
+(E)-farnesene	(E)-金合欢烯
+carbon, total	全碳
+n-octanethiol	正辛硫醇
+N-heptacosane	正二十七烷
+pristinamycin	普那霉素
+tridecadienal	十三二烯醛
+meclofenoxate	甲氯芬酯
+thiamphenicol	甲砜霉素
+(E)-nerolidol	(E)-橙花叔醇
+guanfu base I	关附壬素
+decarboxylase	脱羧酶
+iso-tricosane	异二十三烷
+proline, free	游离脯氨酸
+3-octadecanal	3-十八烯
+chlordimeform	杀虫脒
+beta-cubebene	β-毕拔烯
+dimethylamine	二甲胺
+(Z)-2-hexenol	(Z)-2-己烯醇
+ethyl cholate	胆酸乙酯
+fluvalinate I	氟胺氰菊酯I
+bromogeramine	新洁尔灭
+3-methylfuran	3-甲基呋喃
+1-pentadecyne	1-十五炔
+konjak mannan	魔芋葡甘聚糖
+jolkinolide A	岩大戟内酯A
+tofogliflozin	托格列净
+pentoxyverine	喷托维林
+ε-caprolactam	ε-己内酰胺
+4(10)-thujene	4(10)-崖柏烯
+2-furoic acid	2-呋喃甲酸
+bromfenvinfos	溴苯烯磷
+interleukin-6	白细胞介素6
+epoxiconazole	氟环唑
+jinggangmycin	井冈霉素
+chlorotoluene	氯甲苯
+Catalpic acid	梓树酸
+pinellic acid	半夏酸
+propionitrile	丙腈
+7-tetradecyne	7-十四炔
+anthocyanidin	花色素
+2,4-nonadiene	2,4-壬二烯
+fenvalerate I	氰戊菊酯I
+polyanhydride	聚酸酐
+β-glucosidase	β-葡萄糖苷酶
+cis-β-ocimene	顺-β-罗勒烯
+cholylglycine	甘胆酸
+quinazolinone	喹唑啉酮
+1-heptadecene	1-十七烯
+aspartokinase	天冬氨酸激酶
+(E)-2-hexanal	(E)-2-己醛
+S-transferase	S-转移酶
+selenocystine	硒代胱氨酸
+silica, fumed	白炭黑
+neoeriocitrin	新北美圣草苷
+cis-3-nonenol	顺-3-壬烯醇
+meperfluthrin	氯氟醚菊酯
+jasmonic acid	茉莉酸
+β-daucosterol	β-胡萝卜苷
+sertaconazole	舍他康唑
+pyrophosphate	焦磷酸盐
+quillaic acid	皂皮酸
+p-cymene-8-ol	对伞花烃-8-醇
+junipene-(V4)	长叶烯-(V4)
+canthaxanthin	角黄素
+cephalotaxine	三尖杉碱
+chlorobenzene	氯苯
+cystathionine	胱硫醚
+1,1-diacetate	1,1-二乙酸酯
+o-tolunitrile	邻甲苯腈
+nornuciferine	亚美罂粟碱
+gamabufotalin	日蟾毒它灵
+ceruloplasmin	铜蓝蛋白
+benzothiazole	苯并噻唑
+4-butylphenol	4-丁基苯酚
+1,3-butadiene	1,3-丁二烯
+methanobactin	甲烷氧化菌素
+beta-ylangene	β-衣兰烯
+beta-linalool	beta-芳樟醇
+batyl alcohol	鲨肝醇
+(Z)-β-ocimene	(Z)-β-罗勒烯
+acid orange 7	酸性橙7
+trans-carveol	反-香芹醇
+atropaldehyde	阿托醛
+dimethametryn	异戊乙净
+4,4'-biphenol	4,4'-联苯二酚
+(-)-isoledene	(-)-异喇叭烯
+veratric acid	藜芦酸
+tubeimoside I	土贝母苷甲
+momordicoside	苦瓜皂苷
+polydioxanone	聚二氧环己酮
+acetophenones	芳乙酮
+amicarthiazol	拌种灵
+arsenocholine	砷胆碱
+nickle, Raney	雷尼镍
+catharanthine	长春质碱
+(E)-3-hexenal	(E)-3-己烯醛
+2-bromophenol	2-溴苯酚
+(E)-2-octenol	(E)-2-辛烯醇
+methoprotryne	盖草津
+methyl phenol	甲基苯酚
+5-tridecanone	5-十三酮
+1,3-octadiene	1,3-辛二烯
+ethyl valerate	戊酸乙酯
+sodium sulfide	硫化钠
+Ruigefeinipian	瑞格菲尼
+procyanidin B2	原花青素B2
+prothrombinase	凝血酶原酶
+saikosaponin b	柴胡皂苷b
+3-chlorophenol	3-氯苯酚
+(-)-thujopsene	(-)-罗汉柏烯
+allomadendrene	芳萜烯
+brilliant blue	亮蓝
+chlorophyllase	叶绿素酶
+dimenhydrinate	茶苯海明
+Ψ-taraxasterol	Ψ-蒲公英甾醇
+cleomiscosin B	臭矢菜素B
+delta-cadinene	delta-荜澄茄烯
+mudanpioside E	牡丹皮苷E
+iso-nonacosane	异二十九烷
+Isolongifolene	异长叶烯
+1-ethoxybutane	1-乙氧基丁烷
+D-hydantoinase	D-海因酶
+Chlorphenamine	氯苯那敏
+silver sulfide	硫化银
+ophiopogonin D	麦冬皂苷D
+(-)-lavandulol	(-)-熏衣草醇
+1,9-nonanediol	1,9-壬二醇
+isobutyl ester	异丁酯
+gum tragacanth	西黄蓍胶
+heme oxygenase	血红素氧合酶
+2,6-nonadienal	2,6-壬二烯醛
+butyl caffeate	咖啡酸丁酯
+p-nitrobenzene	对硝基苯
+isosakuranetin	异樱花素
+erythromycin C	红霉素C
+cinnamaldehyde	肉桂醛
+bromopropylate	溴螨酯
+benzo(α)pyrene	苯并(α)芘
+2-acrylic acid	2-丙烯酸
+metanil yellow	皂黄
+kynurenic acid	犬尿喹啉酸
+terbuthylazine	特丁津
+Sini Decoction	四逆汤
+triethylborane	三乙基硼
+α-cyclodextrin	α-环糊精
+glyoxylic acid	乙醛酸
+2,3-dioctanone	2,3-二辛酮
+Direct Red 4BE	直接大红4BE
+dihydrocarvone	二氢香芹酮
+mugwort-triene	艾蒿三烯
+selenium, nano	纳米硒
+tanshinlactone	丹参内酯
+14-octadecenal	14-十八碳烯醛
+lithium borate	四硼酸锂
+dibenzyl ether	二苄醚
+lead hydroxide	氢氧化铅
+R-lansoprazole	R-兰索拉唑
+glutamate zinc	谷氨酸锌
+4-ethyltoluene	4-乙基甲苯
+1,3-β-D glucan	1,3-β-D葡聚糖
+zinc phosphate	磷酸锌
+propyl laurate	月桂酸丙酯
+Zinc glutarate	戊二酸锌
+amide nitrogen	酰胺态氮
+free carnitine	游离肉碱
+dodecanylthiol	十二烷基硫醇
+trans-2-octene	反-2-辛烯
+(E)-5-undecene	(E)-5-十一碳烯
+cadmium, total	总镉
+ammonium urate	尿酸铵
+benzo[e]pyrene	苯并[e]芘
+caderofloxacin	卡德沙星
+copper acetate	醋酸铜
+2-acetyl furan	2-乙酰呋喃
+1-octanol-3-ol	1-辛醇-3-醇
+1,2-decanediol	1,2-癸二醇
+isocitronellol	异香茅醇
+senkyunolide F	洋川芎内酯F
+D-ribofuranose	D-呋喃核糖
+β-1,3-D-glucan	β-1,3-D-葡聚糖
+tridecan-2-one	十三烷-2-酮
+Berlin alcohol	柏林醇
+angiopoietin 6	血管生成素6
+cyhalofop acid	氰氟草酸
+4-methylindole	4-甲基吲哚
+androstenediol	雄烯二醇
+cadmium iodide	碘化镉
+octyl benzoate	苯甲酸辛酯
+ethoxysulfuron	乙氧嘧磺隆
+azinphos-ethyl	益棉磷
+1-naphthalenol	1-萘醇
+(+)-β-cadinene	(+)-β-杜松烯
+3-bromoaniline	3-溴苯胺
+triethyl ester	三乙酯
+isocitric acid	异柠檬酸
+humulene oxide	氧化葎草烯
+p-methylphenol	对甲酚
+acetate kinase	乙酸激酶
+(+)-nootkatone	(+)-香柏酮
+cis-pinen-3-ol	顺-蒎烯-3-醇
+acryl-thiourea	丙烯基硫脲
+vinyl silazane	乙烯基硅氮烷
+grosmomoside I	光果木鳖皂苷I
+Tungsten oxide	氧化钨
+yellow pigment	黄色素
+lupane acetate	羽扇豆烷乙酸酯
+neuropeptide B	神经肽B
+citrate starch	柠檬酸酯淀粉
+cerium sulfate	硫酸高铈
+nickel formate	甲酸镍
+m-ethyltoluene	间-乙基甲苯
+levonorgestrel	左炔诺孕酮
+beta-farnesene	β-合金欢烯
+cleomiscosin A	臭矢菜素A
+jasminaldehyde	茉莉醛
+metaproterenol	奥西那林
+thymyl acetate	麝香草酚醋酸酯
+trans-2-butene	反-2-丁烯
+dimethylsilane	二甲基硅烷
+angiotensin-II	血管紧张素-II
+acetyl borneol	乙酰冰片
+bitespiramycin	必特螺旋霉素
+2-pentanethiol	2-戊硫醇
+2-bromoaniline	2-溴苯胺
+hydroxyapatite	羟基磷灰石
+Meldrum's acid	米氏酸
+sulfonic group	磺酸基
+Zuojin pellets	左金丸
+phenyl mercury	苯基汞
+salazinic acid	水杨嗪酸
+n-pentadecanal	正十五醛
+(2Z)-2-decenal	(2Z)-2-癸烯醛
+dihydrojasmone	二氢茉莉酮
+cyclododecanol	环十二醇
+titanium oxide	氧化钛
+sophorabioside	槐属双苷
+sodium laurate	月桂酸钠
+iron molybdate	钼酸铁
+flavouric acid	黄尿酸
+E-3-hexen-1-ol	E-3-己烯-1-醇
+barium nitrate	硝酸钡
+2-piperazinone	2-哌嗪酮
+oleanonic acid	齐墩果酮酸
+α-terthiophene	α-三联噻吩
+wheat esterase	小麦酯酶
+trans-anethole	反式茴香脑
+9-anthraceneal	9-蒽醛
+amyl octanoate	辛酸戊酯
+glucocorticoid	糖皮质激素
+dichlorobenzyl	二氯苄
+17-β estradiol	17-β雌二醇
+α-pinene oxide	α-蒎烯氧化物
+thromboxane A2	血栓素A2
+Toluidine blue	甲苯胺蓝
+ginsenoside Rd	人参皂苷Rd
+acetylglycitin	乙酰黄豆苷
+27-deoxyactein	27-脱氧升麻亭
+benzophenone-6	二苯酮-6
+pyrogallol red	邻苯三酚红
+deoxyadenosine	脱氧腺苷
+5-fluorouracil	5-氟尿嘧啶
+1,6-heptadiyne	1,6-庚二炔
+basic orange 2	碱性橙2
+cyclohexadiene	环己二烯
+1,8-octanediol	1,8-辛二醇
+2,4-decadienal	2,4-癸二烯醛
+polyesteramide	聚酯酰胺
+Propenyl ether	丙烯基乙醚
+laurylaldehyde	月桂烯醛
+naphthaleneone	萘酮
+carplon red R4	卡布龙红R4
+collagenase IV	胶原酶IV
+isomaltotriose	异麦芽三糖
+methyl lactate	乳酸甲酯
+monochloramine	氯氨
+capreomycin IB	卷曲霉素IB
+2-chlorethanol	2-氯乙醇
+carbon, atomic	碳元素
+β-heliotropene	β-胡椒烯
+oxaziclomefone	噁嗪草酮
+amine sulphate	硫酸胺
+ferric nitrate	硝酸铁
+hexadecylamine	十六胺
+trans-butene-2	反丁烯-2
+calcium, total	总钙
+anisyl alcohol	大茴香醇
+3-octene-2-one	3-辛烯-2-酮
+phosphodiester	磷酸双酯
+xanthoceraside	文冠果壳苷
+camphorquinone	樟脑醌
+3-Allylanisole	甲基胡椒酚
+isoamylfuroate	糠酸异戊酯
+galloylglucose	没食子酰葡萄糖
+cobalt ferrite	铁酸镧
+butyl acrylate	丙烯酸丁酯
+2,3-butanediol	2,3-丁二醇
+kirschsteinite	钙铁橄榄石
+jasmin lactone	茉莉内酯
+secbutyl ether	仲丁基醚
+ganoderic acid	灵芝酸
+cyclotridecane	环十三烷
+cis-rose oxide	顺式玫瑰醚
+performic acid	过甲酸
+propyl acetate	乙酸正丙酯
+2-methylindole	2-甲基吲哚
+(E)-2-pentenol	(E)-2-戊烯醇
+1-methylpyrene	1-甲基芘
+1-phellandrene	1-水芹烯
+ammonia borane	氨硼烷
+diphenylethyne	二苯基乙炔
+Cobalt sulfide	二硫化钴
+sarsasapogenin	菝葜皂苷元
+methyl lithium	甲基锂
+α-melanotropin	α-促黑素
+(-)-calamenene	(-)-去氢白菖烯
+cis-oleic acid	顺式-油酸
+praeruptorin B	白花前胡乙素
+methyl-furoate	糠酸甲酯
+microcystin-LR	微囊藻毒素-LR
+Allyl butyrate	丁酸烯丙酯
+2-methyl-furan	2-甲基-呋喃
+p-chlorophenol	对氯苯酚
+(+)spathulenol	(+)匙叶桉油烯醇
+(-)spathulenol	(-)斯巴醇
+benzo[α]pyrene	苯[α]芘
+methyl nitrite	亚硝酸甲酯
+glycolaldehyde	乙醇醛
+2-nonadecanone	2-十九烷酮
+bacillomycin D	杆菌霉素D
+palmitonitrile	十六腈
+cobalt sulfate	硫酸钴
+a-cyclodextrin	a-环式糊精
+sodium oxybate	羟丁酸钠
+pirinixic acid	匹立尼酸
+nickel sulfate	硫酸镍
+isocyclocitral	异环柠檬醛
+Lutetium oxide	氧化镥
+ε-caprolactone	ε-己内酯
+benzophenone-1	二苯酮-1
+2-hexenic acid	2-己烯酸
+n-tetradecanol	正十四醇
+tormentic acid	委陵菜酸
+tetanus toxoid	破伤风类毒素
+S-bioallethrin	S-生物烯丙菊酯
+6-hepten-3-one	6-庚烯-3-酮
+Acid Black 10B	酸性黑10B
+2,7-octadienol	2,7-辛二烯醇
+2-pentyl furan	2-戊基呋喃
+cerium dioxide	二氧化铈
+β-aromadendrin	β-香树精
+trans-geraniol	反式香叶醇
+praeruptorin C	前胡丙素
+p-anisaldehyde	对甲氧基苯甲醛
+4-ethyl-octane	4-乙基-辛烷
+(+)-β-selinene	(+)-β-芹子烯
+angiopoietin-1	血管生成素-1
+D-cyphenothrin	右旋苯氰菊酯
+diaminobenzene	苯二胺
+metoclopramide	甲氧氯普胺
+nickel nitrate	硝酸镍
+preskimmianine	前茵芋碱
+S-lansoprazole	S-兰索拉唑
+phosphamidon I	磷胺I
+levoamlodipine	左旋氨氯地平
+diphenylethane	二芳基乙烷
+Gamma-selinene	gamma-芹子烯
+methoxyl group	甲氧基
+Neuropeptide S	神经肽S
+organic sulfur	有机硫
+vinyl guaiacol	乙烯基愈创木酚
+organic matter	有机质
+allocryptopine	别隐品碱
+benzophenone-5	二苯酮-5
+2,3-hexanediol	2,3-己二醇
+erbium nitrate	硝酸铒
+dextrin, white	白糊精
+dimethylaniline	二甲基苯胺
+4-propyl phenol	4-丙基苯酚
+pristinamycin I	普那霉素I
+hydrogen iodide	碘化氢
+peroxyl radical	过氧化自由基
+acetamidophenol	醋氨酚
+E-caryophyllene	E-石竹烯
+dechlorane plus	德克隆
+cyclohexylamine	环己胺
+barium chromate	铬酸钡
+ledene oxide II	喇叭烯氧化物II
+starch xanthate	淀粉黄原酸酯
+sodium fusidate	夫西地酸钠
+kresoxim methyl	苯醚菌酯
+epoxy anhydride	环氧酸酐
+2-butoxyethanol	2-丁氧基乙醇
+alpha.-cubebene	α-荜橙茄烯
+calcium formate	甲酸钙
+p-chlorotoluene	对氯甲苯
+n-octanoic acid	正辛酸
+sophororicoside	槐属苷
+dextran sulfate	硫酸葡聚糖
+gardenia yellow	栀子黄
+2-n-pentylfuran	2-n-正戊基呋喃
+n-tridecan-1-ol	n-十三烷醇
+heparan sulfate	硫酸乙酰肝素
+spirulinakinase	螺旋藻激酶
+ε-poly-L-lysine	ε聚赖氨酸
+brassinosteroid	油菜素甾醇
+cis-α-bisabolol	cis-α-红没药烯
+docosyl alcohol	山嵛醇
+2-phenylethanol	2-苯乙醇
+p-phthalic acid	1,4-苯二甲酸
+propiconazole I	丙环唑I
+n-hexyl acetate	酸正己酯
+Z-2-penten-1-ol	Z-2-戊烯-1-醇
+γ-dodecalactone	γ-十二内酯
+1,2-epoxybutane	1,2-环氧丁烷
+calcium lactate	乳酸钙
+arabinogalactan	聚阿拉伯半乳糖
+ferrous glycine	甘氨酸亚铁
+cypermethrin IV	氯氰菊酯IV
+timolol maleate	马来酸噻吗洛尔
+lilac alcohol D	紫丁香醇D
+listeriolysin O	溶血素O
+peroxiredoxin 4	过氧化物还原酶4
+schisantherin D	五味子酯丁
+olsalazine zinc	奥柳氮锌
+3-ethylpyridine	3-乙基吡啶
+methyl ferulate	阿魏酸甲酯
+sodium stannate	锡酸钠
+veratryl methyl	藜芦酸甲酯
+benzal chloride	苄叉二氯
+benzoylecgonine	苯甲酰爱康宁
+hydroxy vaillin	羟基香草醛
+trans-2-nonenal	反-2-壬烯醛
+β-cyclolimonene	β-环柠檬烯
+geranyl tiglate	惕各酸香叶酯
+δ-dodecalactone	δ-十二内酯
+tetrasaccharide	四糖
+cis-oak lactone	顺式-橡木内酯
+methyl vanillin	甲基香兰素
+triptophenolide	雷酚内酯
+calcium acetate	醋酸钙
+benzenepropanal	苯丙醛
+d-δ-tocotrienol	d-δ-三烯生育酚
+cyclooctasulfur	环辛硫
+n-Butyronitrile	正丁腈
+rhodium nitrate	硝酸铑
+silver chromate	铬酸银
+ethylenediamine	乙二胺
+enzyme, Taq DNA	Taq DNA酶
+ethyl vanillate	香草酸乙酯
+Dehydrofukinone	去氢蜂菜酮
+amide black 10B	氨基黑10B
+2-methyl phenol	2-甲基苯酚
+flucetosulfuron	氟吡磺隆
+ginsenoside Rg1	人参皂苷Rg1
+L-ethyl lactate	l-乳酸乙酯
+polyphenylether	聚苯醚
+4-conmaric acid	4-香豆酸
+dibutyl adipate	己二酸二丁酯
+cyhalofop-butyl	氰氟草酯
+chlorempenthrin	氯烯炔菊酯
+2-heptadecanone	2-十七烷酮
+(Z)-ligustilide	(Z)-藁本内酯
+dichloromethane	二氯甲烷
+bismuth citrate	柠檬酸铋
+linalyl acetate	乙酸芳樟酯
+trans-β-ocimene	反式-β-罗勒烯
+secbutylbenzene	仲丁苯
+trans-2-pinanol	反-2-蒎烷醇
+p-ethenylphenol	对乙烯基苯酚
+hydroxybutyrate	羟基丁酸酯
+16-heptadecenal	16-十七烯醛
+cucurbit[8]uril	八元瓜环
+DL-trptophyanan	DL-色氨酸
+dichloroaniline	二氯苯胺
+cucurbit[6]uril	葫芦[6]脲
+N-methylaniline	N-甲基苯胺
+M-Chlorotoluene	间氯甲苯
+zinc methionine	蛋氨酸锌
+thiocyanic acid	硫氰酸
+oxypaeoniflorin	氧化芍药苷
+bromobutylimide	溴代丁二酰亚胺
+1-methyl-indene	1-甲基-茚
+malachite green	孔雀石绿
+rehmannioside D	地黄苷D
+cobalt chloride	氯化钴
+2'-deoxyuridine	2-脱氧尿嘧啶核苷
+(+)-pinoresinol	(+)-松脂素
+3-methylheptene	3-甲基庚烯
+cesium fluoride	氟化铯
+barium chloride	氯化钡
+ferrous sulfate	硫酸亚铁
+gypenoside XLIX	绞股蓝皂苷XLIX
+neoabietic acid	新枞酸
+lactoperoxidase	乳过氧化物酶
+Zhongshengmycin	中生菌素
+2,3-butanedione	2,3-丁二酮
+desferrioxamine	去铁敏
+chloroacetylene	氯乙炔
+3-methylpentane	3-甲基苯酚甲酯
+silane, chloro-	氯硅烷
+soluble arsenic	可溶性砷
+trioxymethylene	三聚甲醛
+obtucarbamate A	钝叶扁柏氨基甲酸酯
+methyl stearate	硬脂酸甲酯
+ethenyl benzene	乙烯基苯
+homoeriodictyol	高圣草酚
+calcium sulfate	硫酸钙
+aminoacyl ester	胺鲜酯
+methyl pyrazine	甲基吡嗪
+o-chlorostyrene	邻氯苯乙烯
+4-allylguaiacol	4-烯丙基愈创木酚
+iodine glycerin	碘甘油
+1-bromododecane	1-溴代十二烷
+(Z)-cyclodecene	(Z)-环癸烯
+octadecanethiol	十八硫醇
+posfolan-methyl	甲基硫环磷
+phosphoric acid	磷酸
+streptogramin B	链阳菌素B
+menthyl lactate	乳酸薄荷酯
+cadmium nitrate	硝酸镉
+acetylhydrolase	乙酰水解酶
+beryllium oxide	氧化铍
+forsythiaside B	连翘酯苷B
+benz[ghi]pyrene	苯并[ghi]芘
+cupric arsenite	亚砷酸铜
+13-docosenamide	13-二十二烯酰胺
+2-methylpentene	2-甲基戊烯
+neotanshinone A	丹参新醌甲
+niobium oxalate	草酸铌
+2-aminopyridine	2-氨基吡啶
+1-caryophyllene	1-石竹烯
+2,4'-bipyridine	2,4'-联吡啶
+acetylene black	乙炔黑
+epoxy resin E44	环氧树脂E44
+homoplantaginin	高车前苷
+2-methyl-octane	2-甲基-辛烷
+calcium carbide	电石
+flomoxef sodium	氟氧头孢钠
+momordicoside L	苦瓜皂苷L
+cesium chloride	氯化铯
+cuprous bromide	溴化亚铜
+4-methyl-octane	4-甲基-辛烷
+2-butylpyridine	2-丁基吡啶
+sulfate radical	硫酸根自由基
+trihexyphenidyl	苯海索
+gaultheroside A	滇白珠苷A
+iron, available	有效铁
+hydroxysodalite	羟基方钠石
+menthyl acetate	乙酸薄荷酯
+N-methyltaurine	N-甲基牛磺酸
+schisantherin A	五味子酯甲
+3-methylaniline	3-甲基苯胺
+barium fluoride	氟化钡
+atractyloside A	苍术苷A
+diallyl maleate	马来酸二烯丙酯
+kallidinogenase	血管舒缓素
+reactive yellow	活性黄
+p-cresylsulfate	硫酸对甲酚
+methyl benzoate	苯甲酸甲酯
+sodium acrylate	丙烯酸钠
+alphitolic acid	麦珠子酸
+(E)-β-farnesene	(E)-β-金合欢烯
+gold, colloidal	胶体金
+D-tartaric acid	D-酒石酸
+diallyl sulfone	烯丙基砜
+starch synthase	淀粉合成酶
+rutin hydrolase	芦丁降解酶
+trichloroethane	三氯乙烷
+norstictic acid	降斑点酸
+o-chloroaniline	邻氯苯胺
+(+)-α-terpineol	（+）-α-松油醇
+D-2-glucosamine	D-2-氨基葡萄糖
+Dicosanoic acid	二十二碳酸
+Glucosidase, β-	β葡萄糖苷酶
+isoamyl acetate	乙酸异戊酯
+sinapyl alcohol	芥子醇
+alcohol benzene	苯醇
+aluminum silica	铝硅酸盐
+borneol acetate	龙脑乙酸酯
+diethyl oxalate	草酸二乙酯
+oxygen, singlet	单线态氧
+myrcene epoxide	月桂烯环氧化物
+mercaptoethanol	巯基乙醇
+silver peroxide	氧化高银
+silver behenate	山嵛酸银
+lactate oxidase	乳酸氧化酶
+methyl behenate	二十二烷酸甲酯
+N-benzylaniline	N-苄基苯胺
+3-aminotriazole	3-氨基三唑
+butene-fipronil	丁烯氟虫腈
+6-nonenal, (E)-	(E)-6-壬烯醛
+7-nitroindazole	7-硝基吲唑
+Arabinoxylanase	阿拉伯木聚糖酶
+2-ethylpyrazine	2-乙基吡嗪
+fluquinconazole	氟喹唑
+2-nitropyridine	2-硝基吡啶
+2-nonynoic acid	2-壬炔酸
+iodine fluoride	五氟化碘
+ligupurpuroside	女贞苷
+β-cryptoxanthin	β-隐黄质
+γ-butyrolactone	γ-丁内酯
+prothioconazole	丙硫菌唑
+barium alginate	海藻酸钡
+bayberry tannin	杨梅单宁
+diethyl adipate	己二酸二乙酯
+(2E)-2-heptenal	(2E)-2-庚烯醛
+acetylferrocene	乙酰二茂铁
+propyl lactoate	乳酸丙酯
+polydiacetylene	聚丁二炔
+A-Phellandrenol	A-非兰烯醇
+2-fluoroaniline	2-氟苯胺
+3-octyl acetate	3-辛醇乙酸酯
+rupestonic acid	一枝蒿酮酸
+Peroxiredoxin-1	过氧化还原酶
+calcium phytate	植酸钙
+isoverbascoside	异毛蕊花苷
+aclacinomycin A	阿克拉霉素A
+2,5-hexanedione	2,5-己二酮
+1-iodotridecane	1-碘十三烷
+trimethylxazole	三甲基恶唑
+ethyl linoleate	亚油酸乙酯
+chlorobenzilate	乙酯杀螨醇
+1,2-epoxyhexane	1，2-环氧己烷
+L-aspartic acid	L-天冬氨酸
+4-aminocoumarin	4-氨基香豆素
+7-octenoic acid	7-辛烯酸
+8-cedrene-13-ol	8-雪松烯-13-醇
+aegyrite-augite	霓辉石
+dimethylglycine	二甲基甘氨酸
+flucythrinate I	氟氰戊菊酯I
+2-undecene-1-ol	2-十一烯-1-醇
+prostaglandin E	前列腺素E
+phospholipase D	磷脂酶D
+lovastatin acid	洛伐他汀酸
+m-chlorostyrene	间氯苯乙烯
+goshuyuamide II	吴茱萸果酰胺II
+epidaunorubicin	表柔红霉素
+carbon monoxide	一氧化碳
+chrysosplenol-D	猫眼草酚
+iridium dioxide	二氧化铱
+alkaline lipase	碱性脂肪酶
+tridecylbenzene	十三烷基苯
+2-pentenylfuran	2-戊烯基呋喃
+succinylcholine	琥珀酰胆碱
+3-hydroxyoctene	3-羟基辛烯
+complement C5b9	补体C5b9
+β-galactosidase	β-半乳糖苷酶
+phorate sulfone	甲拌磷砜
+aromadendrene 2	脱氢香橙烯2
+benzylhydrazine	苄基肼
+Wenxin Granules	稳心颗粒
+Xianglian Pills	香连 丸
+L-mandelic acid	L-扁桃酸
+acridine yellow	吖啶黄
+dibromobiphenyl	二溴联苯
+basic orange 21	碱性橙21
+butyl phthalide	丁苯酞
+Bronze, aluminum	铝青铜
+ammonium bromide	溴化铵
+copper hemioxide	一氧化二铜
+β-(1,3)-D-glucan	β-(1,3)-D-葡聚糖
+guanoxan sulfate	硫酸胍生
+eleostearic acid	桐油酸
+geraniol acetate	香叶醇乙酸酯
+1(10)-aristolene	1(10)-马兜铃烯
+ammonium sulfite	亚硫酸铵
+boron difluoride	二氟化硼
+sandimmun neoral	新山地明
+proanthocyanidin	原花色素
+ledrite, HPb59-1	铅黄铜
+methyl butanoate	丁酸甲基酯
+cerium hydroxide	氢氧化铈
+(Z)-7-hexadecene	(z)-7-十六烯
+5-hydroxyflavone	5-羟基黄酮
+4-ene-1-pentanol	4-烯-1-戊醇
+p-methylbiphenyl	对甲基联苯
+oxacillin sodium	苯唑西林钠
+β-hexosaminidase	β-氨基己糖苷酶
+steel, 30CrMnSiA	30CrMnSiA钢
+silicate silicon	硅酸盐硅
+foscarnet sodium	膦甲酸钠
+reactive black B	活性黑
+L-(-)-malic acid	L-(-)-苹果酸
+bainitic ferrite	贝氏体铁素体
+isooctanoic acid	异辛酸
+lutetium nitrate	硝酸镥
+poly-L-ornithine	L-多聚鸟氨酸
+tri-n-octylamine	三正辛胺
+furfuryl alcohol	糠醇
+diapause hormone	滞育激素
+9-tricosene,(Z)-	(Z)-9-二十三烯
+cyclamate sodium	环己基氨基磺酸钠
+E-cinnamaldehyde	E-肉桂醛
+octane-4,5-dione	4,5-辛二酮
+pantothenic acid	泛酸
+thrombospondin-1	血小板反应素-1
+thiourea dioxide	二氧化硫脲
+N-vinylimidazole	N-乙烯基咪唑
+chlorpheniramine	扑尔敏
+ferrous chloride	氯化亚铁
+diglycidyl ether	二缩水甘油醚
+phosphoadenosine	磷酸腺苷
+myrtenol acetate	乙酸桃金娘酯
+magnesium, total	全镁
+Thiofanox-sulfon	久效威砜
+methyl carbamate	氨基甲酸甲酯
+3-deoxyaconitine	3-去氧乌头碱
+4-secbutylphenol	4-仲丁基苯酚
+carbon, residual	残炭
+cyclopropanamine	环丙胺
+diphenyl methane	二苯基甲烷
+diethylphosphate	磷酸二乙酯
+stibium chloride	氯化锑
+red ferric oxide	红氧化铁
+potassium malate	苹果酸钾
+isopropylbenzene	枯烯
+sucrose ester-15	蔗糖酯-15
+phenylethylamine	苯乙胺
+methyl glycolate	羟乙酸甲酯
+validoxylamine A	井冈羟胺
+N-ethylmaleimide	N-乙基顺丁烯二酰亚胺
+etimicin sulfate	硫酸依替米星
+Xiao Chaihu Tang	小柴胡汤
+longipinocarveol	长松香芹醇
+m-dinitrobenzene	间二硝基苯
+hydroxyl radical	羟基自由基
+methoxyl acetone	甲氧基丙酮
+deoxyschisandrin	去氧五味子素
+cis-2-octen-1-ol	顺-2-辛烯-1-醇
+p-toluenenitrile	对甲苯腈
+sodium myristate	肉豆蔻酸钠
+β-cary ophyllene	β石竹烯
+6-acetylmorphine	6-乙酰基吗啡
+deuterated water	重水
+beta-panasinsene	beta-人参烯
+oxaloacetic acid	草酰乙酸
+tridecyl-oxirane	十三烷基环氧乙烷
+isolongifolenone	异长叶烯酮
+isobutyl bromide	异丁基溴
+isovanillic acid	异香草酸
+phospholipase A2	磷脂酶A2
+acetyl hydrazine	乙酰肼
+lilac aldehyde B	丁香醛B
+N-methylcytisine	N-甲基金雀花碱
+cadmium selenide	硒化镉
+9-octyl-Docosane	9-辛基二十烷
+ertapenem sodium	厄他培南钠
+2-methylthiazole	2-甲基噻唑
+veratryl alcohol	藜芦醇
+dichloropropanol	二氯丙醇
+ammonium oxalate	草酸铵
+choline chloride	氯化胆碱
+4-methoxy-phenol	4-甲氧基酚
+protein kinase C	蛋白激酶C
+L(+)-lactic acid	L(+)-乳酸
+2,3-dihydrofuran	2,3-二氢呋喃
+butanedioic acid	丁烯二酸
+atropine sulfate	硫酸阿托品
+mercuric nitrate	硝酸汞
+thrombospondin 1	血栓素蛋白1
+trans-rose oxide	反式玫瑰醚
+monoethanolamine	单乙醇胺
+stem cell factor	干细胞因子
+8-aminoquinoline	8-氨基喹啉
+bromotetradecane	溴代十四烷
+hydroxyoctanoate	羟基辛酸
+linalool acetate	芳樟乙酸酯
+sphingomyelinase	鞘磷脂酶
+cheiranthoside G	强心苷G
+(Z)-2-octen-1-ol	(Z)-2-辛烯-1-醇
+isolariciresinol	异落叶松树脂醇
+myrtenyl acetate	乙酸桃金娘烯酯
+methylhydrindene	甲基茚满
+terpene synthase	萜烯合成酶
+trimethylbutanal	三甲基丁醛
+chloroethylamine	氯乙胺
+depleted uranium	贫铀
+1-methylpyrazine	1-甲基吡嗪
+3-methyl-butanol	3-甲基-丁醇
+protein kinase A	蛋白激酶A
+terbium chloride	氯化铽
+transspathulenol	反式斯巴醇
+adenylate kinase	腺苷酸激酶
+boron tribromide	三溴化硼
+transpinocarveol	反松香芹醇
+uric acid, serum	血清尿酸
+glucosyl-vitexin	牡荆素葡萄糖苷
+fenbutatin oxide	苯丁锡
+dodecyl acrylate	丙烯酸十二酯
+ceftiofur sodium	头孢噻呋钠
+phosphoglyceride	磷酸甘油
+sodium tungstate	钨酸钠
+sodium diacetate	双乙酸钠
+starch, oxidized	氧化淀粉
+ribonucleic acid	核糖核酸
+terpinyl acetate	乙酸松油酯
+β-methylcinnamal	β-甲基肉桂醛
+phosphotungstate	磷钨酸盐
+N6-benzyladenine	N6-苄基腺嘌呤
+ammonium citrate	柠檬酸铵
+Cationic Red 2GL	阳离子红
+methyl vanillate	香草酸甲酯
+xylose isomerase	木糖异构酶
+valeryl chloride	正戊酰氯
+trans-2-pentenal	反式-2-戊烯醛
+methyl carbazate	肼基甲酸甲酯
+casbene synthase	蓖麻烯合成酶
+3-methyl-heptane	3-甲基-庚烷
+3-pentenenitrile	3-戊烯腈
+heme oxygenase 1	血红素氧合酶1
+propyl octanoate	辛酸丙酯
+iodobenzoic acid	对碘苯甲酸
+Nitrogen, atomic	氮元素
+cis-3-octen-1-ol	Cis-3-辛烯-1-醇
+ethylvinylketone	乙基乙烯基酮
+cyclooxygenase 2	环氧化物酶2
+cyanoacetic acid	氰乙酸
+3-methoxybutanol	3-甲氧基丁醇
+4-methyl-heptane	4-甲基-庚烷
+sodium phosphate	磷酸钠
+piperitone oxide	薄荷酮氧化物
+methyl caprylate	正辛酸甲酯
+timosaponin AIII	知母皂苷AIII
+potassium, total	总钾
+o-dinitrobenzene	邻二硝基苯
+hyptadienic acid	山香二烯酸
+3-methyl butanol	3-甲基正丁醇
+cis-α-bisabolene	顺-α-没药烯
+ammonium adipate	己二酸铵
+chrysotobibenzyl	鼓槌联苄
+colistin sulfate	硫酸粘杆菌素
+cephalosporinase	头孢菌素酶
+bile acid, total	总胆汁酸
+n-propyl bromide	溴代正丙烷
+pentadecyl-2-one	十五烷-2-酮
+5-butyl-Docosane	5-丁基-二十二烷
+n-butyl benzoate	苯甲酸正丁酯
+lithium chloride	氯化锂
+butylacetic acid	正己酸
+cinnamyl acetate	乙酸肉桂酯
+cochinchinenin C	剑叶龙血素C
+methyl-acetylene	甲基-乙炔
+salvianic acid A	丹参素A
+polyethylenimine	多聚乙烯亚胺
+sulfobutyl ether	磺丁基醚
+diethyl pimelate	庚二酸二乙酯
+acid rhodamine B	酸性玫瑰红
+3-hydroxybutanal	3-羟基丁醛
+2-pentylpyridine	2-戊基吡啶
+polyacrylic acid	聚丙烯酸
+myristyl alcohol	豆蔻醇
+faropenem sodium	法罗培南钠
+fluoroboric acid	氟硼酸
+cefonicid sodium	头孢尼西钠
+neutral protease	中性酶
+Xiangju Capsules	香菊胶囊
+α-aluminum oxide	α-氧化铝
+methyl triglycol	三乙二醇单甲醚
+isobutyl laurate	月桂酸异丁酯
+oxygenase, mono-	单加氧酶
+shikimate kinase	莽草酸激酶
+tricosanoic acid	二十三烷酸
+8,14-cedranoxide	8,14-雪松烯环氧化物
+(Z)-3-hexen-1-ol	(Z)-3-己烯-1-醇
+dimethyl sulfite	亚硫酸二甲酯
+Acid Mordant Red	酸性媒介红
+brilliant pink B	玫瑰红B
+1,4-hydroquinone	1,4-对苯二酚
+isoaromadendrene	异香橙烯
+noracetildenafil	那红地那非
+N-methylimidazol	N-甲基咪唑
+2-methoxyl furan	2-甲氧基呋喃
+hexadienoic acid	己二烯酸
+4-phenoxyaniline	4-苯氧基苯胺
+cysteinylglycine	半胱氨酰甘氨酸
+Steel, manganese	锰钢
+secoctyl acetate	乙酸仲辛酯
+preproenkephalin	前脑啡肽原
+penicilloic acid	青霉噻唑酸
+trans-2-heptenal	反式-2-庚烯醛
+propiconazole II	丙环唑II
+bilirubin, total	总胆红素
+1,2-dithioglycol	1,2-乙二硫醇
+(-)-α-neoclovene	(-)-α-新丁香三环烯
+3-butene nitrile	3-丁烯腈
+4-chlorom-cresol	4-氯间甲酚
+trimethyl borate	硼酸三甲酯
+sodium hydroxide	氢氧化钠
+mafenide acetate	醋酸磺胺米隆
+3-decenoate-1-ol	3-癸烯-1-醇
+α-methylpyridine	α-甲基吡啶
+phosphate starch	磷酸酯淀粉
+(Z)-3-hexadecene	(Z)-3-十六碳烯
+3-deoxyadenosine	3-脱氧腺苷
+Huangkui capsule	黄葵胶囊
+lauric anhydride	月桂酸酐
+protein kinase D	蛋白激酶D
+neryl propionate	丙酸橙花酯
+methane, hydrate	甲烷水合物
+butyryl chloride	丁酰氯
+antimony acetate	醋酸锑
+ganodermanondiol	灵芝酮二醇
+diaminobenzidine	二氨基联苯胺
+(E)-4-hexen-1-ol	(E)-4-己烯-1-醇
+azodicarbonamide	偶氮二甲酰胺
+xenon difluoride	二氟化氙
+longipinocarvone	长叶松香芹酮
+p-propyl anisole	对丙基茴香醚
+hypobromous acid	次溴酸
+dimethylpyridine	二甲基吡啶
+12-crown ether-4	12-冠醚-4
+2-methyl-heptane	2-甲基-庚烷
+n-butyl butyrate	丁酸正丁酯
+N-acetyl glycine	乙酰甘氨酸
+magnesium borate	硼酸镁
+5-methylchrysene	5-甲基屈
+ferrous tartrate	酒石酸亚铁
+Z-9-pentadecenol	Z-9-十五烯醇
+trianyltertamine	三烷基叔胺
+sodium bisulfate	硫酸氢钠
+(Z)-6-nonen-1-ol	(Z)-6-壬烯-1-醇
+boron, available	有效硼
+2-picolinic acid	2-甲酸吡啶
+4-nitroimidazole	4-硝基咪唑
+isopropyl oleate	油酸异丙酯
+nitrogen mustard	氮芥
+insulin degludec	德谷胰岛素
+isooxypeucedanin	异氧化前胡素
+methyl-triclosan	甲基三氯生
+Eudesma-11-diene	11-桉叶二烯
+3-ethylthiophene	3-乙基噻吩
+2,4,6-octatriene	2,4,6-辛三烯
+DNA polymerase β	DNA聚合酶β
+citrate synthase	柠檬酸合酶
+isoalantolactone	异土木香内酯
+sodium molybdate	钼酸钠
+sinapyl aldehyde	芥子醛
+meglumine emodin	大黄素葡甲胺
+high speed steel	高速钢
+trimethylpentane	三甲基戊烷
+3,6-nondien-1-ol	3,6-壬二烯-1-醇
+benz[k]anthracene	苯并[k]蒽
+1,5-pentyldiamine	1,5-戊二胺
+(E)-caryophyllene	(E)-石竹烯
+2, 2'-DM-5, 5'-AT	2，2二甲基-5，5-偶氮四唑
+galacturonic acid	半乳糖醛酸
+neutral cellulase	中性纤维素酶
+nitidine chloride	氯化两面针碱
+phosphatase, acid	酒石酸盐磷酸酶
+2,3-dihydroindene	2,3-二氢茚
+hydroxyadamantane	羟基金刚烷
+pyroligneous acid	木醋酸
+potassium sulfate	硫酸钾
+pentylcyclohexane	正戊基环己烷
+acetylcyclohexene	乙酰基环己烯
+formyltransferase	甲酰基转移酶
+2-ethyl-2-hexenal	2-乙基-2-己烯醛
+1,2-dibromoethane	1,2-二溴乙烷
+8-hydroxydaidzein	8-羟基大豆苷元
+nitrogen, mineral	矿质氮
+neoisolongifolene	新异长叶烯
+p-menth-1-en-9-al	对-孟烯-9-醛
+penicillin sodium	青霉素钠
+dimethylamiloride	二甲基氨氯吡咪
+cholest-3,5-diene	胆甾-3,5-二烯
+9α-hydroxymatrine	9α-羟基苦参碱
+Aminoglutethimide	氨鲁米特
+angiotensin-(1-7)	血管紧张素-(1-7)
+(E,Z)-α-Farnesene	(E,Z)-α-法呢烯
+2-tridecacarbenal	2-十三碳烯醛
+2,6-nonadien-1-ol	2,6-壬二烯-1-醇
+cadmium telluride	碲化镉
+carbonhexasulfide	碳六硫醚
+esterase, choline	拟胆碱酯酶
+9-eicosenoic acid	9-二十碳烯酸
+8-methoxypsoralen	8-甲氧补骨脂素
+2,4-decadien-1-ol	2,4-癸二烯-1-醇
+rubidium chloride	氯化铷
+trans-resveratrol	反式白藜芦醇
+α-cedrene epoxide	α-雪松烯环氧化物
+atractylenolide I	白术内酯I
+Glucuronidase, β-	beta葡萄苷酸酶
+2-methoxybiphenyl	2-甲氧基联苯
+aminocaproic acid	氨基己酸
+polyvinyl acetate	聚醋酸乙烯
+vitamin C lactate	维生素C乳酸酯
+Shenmai injection	参麦注射液
+taraxeryl acetate	蒲公英赛醇乙酸酯
+calcium ascorbate	抗坏血酸钙
+3-methyl-2-hexene	3-甲基-2-己烯
+2,4-dinitrophenol	2,4-二硝基苯酚
+(-)-terpinen-4-ol	(-)-4-萜品醇
+bismuth tungstate	钨酸铋
+L-calcium lactate	L-乳酸钙
+isopropyl bromide	溴代异丙烷
+methylnitrosourea	甲基亚硝基脲
+urushibara nickel	漆原镍
+(E)-2-tetradecene	(E)-2-十四烯
+2-ethyl thiophene	2-乙基噻吩
+2-butyl-1-octanol	2-丁基-1-辛醇
+phosphodiesterase	磷酸二酯酶
+cadmium tungstate	钨酸镉
+ammonium nitrogen	铵态氮
+2-butenyl-benzene	2-丁烯基-苯
+4-aminoantipyrine	4-氨基安替比林
+4-methyl-2-hexene	4-甲基-2-己烯
+Cobalt iron oxide	铁酸钴
+α-ketoisocaproate	α-酮异乙酸
+trans-γ-bisbolene	反-γ-红没药烯
+Z-11-pentadecenol	Z-11-十五烷烯醇
+ethyl 9-decanoate	9-癸酸乙酯
+p-menth-1-en-8-ol	p-薄荷-1-烯-8-醇
+phorate sulfoxide	甲拌磷亚砜
+1,12-tridecadiene	1,12-十三二烯
+o-aminothiophenol	邻氨基苯硫酚
+n-hentriacontanol	正三十一碳醇
+9-nitroanthracene	9-硝基蒽
+ammonium chloride	氯化铵
+ammonium tartrate	酒石酸铵
+dimethylquinoline	二甲基喹啉
+ammonium vanadate	钒酸铵
+4-aminoazobenzene	4-氨基偶氮苯
+α-isomethylionone	α-异甲基紫罗兰酮
+oligosaccharidase	低聚糖酶
+heme oxygenase, 2	血红素氧合酶2
+(1R)-(+)-α-pinene	(1R)-(+)-α-蒎烯
+m-resorcylic acid	间二羟基苯甲酸
+hydrogen peroxide	过氧化氢
+β-D-galactosidase	β-D-半乳糖苷酶
+N-ethylpiperazine	N-乙基哌嗪
+isoamyl cinnamate	肉桂酸异戊酯
+3-isopropylphenol	3-异丙基苯酚
+cis-9-octadecenal	顺-9-十八烯醛
+arginine esterase	精氨酸酯酶
+cucumber aldehyde	黄瓜醛
+p-methoxybiphenyl	对甲氧基联苯
+1,4-succinic acid	1,4-丁二酸
+artemisia alcohol	蒿醇
+1-furfurylpyrrole	1-糠基吡咯
+4-methoxy anisole	对甲氧基苯甲醚
+hexafluoropropene	六氟丙烯
+nitrogen, soluble	可溶性氮
+p-Menth-8-en-2-ol	p-孟-8-烯-2-醇
+dodecyl phosphate	十二烷基磷酸酯
+dioctyl phthalate	邻苯二甲酸二辛酯
+ethoxyacetic acid	乙氧基乙酸
+cellobiohydrolase	纤维二糖水解酶
+calcium carbonate	碳酸钙
+(E)-2-penten-1-ol	(E)-2-戊烯-1-醇
+1,2-diaminoethane	1,2-二氨基乙烷
+2,6-dibromophenol	2,6-二溴苯酚
+pentylenetetrazol	戊四氮
+glyceryl butyrate	丁酸甘油酯
+serratagenic acid	三对节酸
+2-ethyl-1-hexenol	2-乙基-1-己烯醇
+2,4,7-decatrienal	2,4,7-癸三烯醛
+ascorbate oxidase	抗坏血酸酶
+diisopropyl ether	二异丙醚
+(trans)-2-octenal	(反)-2-辛烯醛
+2'-deoxyadenosine	2'-脱氧腺苷
+3-hexen-2,5-dione	3-己烯-2,5-二酮
+cinnamyl chloride	肉桂酰氯
+cyclamen aldehyde	兔耳草醛
+mercury hydroxide	氢氧化汞
+p-dichlorobenzene	对二氯苯
+glycidyl acrylate	丙烯酸缩水甘油酯
+3-nitro-2-butanol	3-硝基-2-丁醇
+6-methylquinoline	6-甲基喹啉
+2-ethyl-1-hexanol	2-乙基-1-己醇
+o-dimethylbenzene	邻-二甲苯
+N-acetylaspartate	N-乙酰天门冬氨酸
+n-amyl propionate	丙酸正戊酯
+fluroxypr-mepthyl	氯氟吡氧乙酸异辛酯
+dimethyl sebacate	癸二酸二甲酯
+2-hydroxypyridine	2-羟基吡啶
+dimethyl fumarate	富马酸二甲酯
+ethylhaematommate	赤星衣酸乙酯
+tributylphosphine	三丁基膦
+phenylacetic acid	苯乙酸
+propylenethiourea	丙撑硫脲
+potassium acetate	醋酸钾
+germanium dioxide	二氧化锗
+butyl-cyclohexane	丁基环己烷
+cyclic nucleotide	环核苷酸
+2-methyl pentanol	2-甲基戊醇
+3-methoxybiphenyl	3-甲氧基联苯
+bismuth phosphate	磷酸铋
+methyl 6-gingerol	甲基-6-姜酚
+mercuric chloride	氯化汞
+zirconium sulfate	硫酸锆
+magnesium acetate	醋酸镁
+1,4-butanedithiol	1，4-丁二硫醇
+dimethyl-peroxide	二甲基过氧化物
+deoxyelephantopin	去氧地胆草内酯
+Colistin Sulphate	硫粘菌素
+5,5-dibutylnonane	5,5-二丁基壬烷
+1,2-glycolacetate	1,2-乙二醇乙酸酯
+2-dodecenoic acid	2-十二碳烯酸
+propargyl alcohol	丙炔醇
+sulfur, available	有效硫
+tetramethylsilane	四甲基硅烷
+tert-butyllithium	叔丁基锂
+isobornyl acetate	乙酸异冰片酯
+propylene epoxide	甲基氧丙环
+aristolochic acid	马兜铃酸
+cefazedone sodium	头孢西酮钠
+borneol camphanol	龙脑莰醇
+tissue kallikrein	组织激肽释放酶
+benzyl salicylate	水杨酸苄酯
+diarylheptanoid A	二苯基庚烷 A
+4-benzyloxyphenol	4-苄氧基苯酚
+phenyl isocyanate	苯基异氰酸酯
+trimethylpyridine	三甲基吡啶
+(-)-epiafzelechin	(-)-表阿夫儿茶精
+1,12-dodecanediol	1,12-十二醇
+dibenzoanthracene	二苯并蒽
+Kjeldahl nitrogen	凯氏氮
+heptyl pentanoate	戊酸庚酯
+potassium formate	甲酸钾
+acryloyl chloride	丙烯酰氯
+thiazolidinedione	噻唑烷二酮
+tetraethoxysilane	正硅酸乙酯
+protease, neutral	中性蛋白酶
+1-hentriacontanol	三十一烷醇
+magnesium sulfide	硫化镁
+linalool oxide IV	芳樟醇氧化物IV
+phosphorus, serum	血清磷
+m-hydroxybiphenyl	间羟基联苯
+2-Hydroxychalcone	2-羟基查耳酮
+(E)-5-tetradecane	(E)-5-十四烷
+(Z)-9-hexadecenal	(Z)-9-十六碳烯醛
+dihydrofolic acid	二氢叶酸
+clomifene citrate	枸橼酸氯米芬
+clozapine-N-oxide	N-氧化氯氮平
+1,6-octadien-3-ol	1,6-辛二烯-3-醇
+hydrazine hydrate	水合肼
+polyurethane-urea	聚氨酯脲
+sarcosine oxidase	肌氨酸氧化酶
+dibutyl phosphite	亚磷酸二丁酯
+Ferrous gluconate	葡萄糖酸亚铁
+N-ethyl maleimide	N-乙基马来酰亚胺
+peroxymonosulfate	过氧单硫酸盐
+cortisone acetate	醋酸可的松
+calcium phosphite	亚磷酸钙
+octyl-epoxyethane	辛基-环氧乙烷
+benzyl isocyanate	异氰酸苄酯
+2-acetylthiophene	2-乙酰噻吩
+2,4-D sodium salt	2,4-滴钠盐
+nitrate reductase	硝酸还原酶
+stannous chloride	氯化亚锡
+α-cis-himachalene	α-顺式-雪松烯
+4-methyl guaiacol	4-甲基愈疮木酚
+benzeniranebutene	苯丙环丁烯
+fluthiacet-methyl	嗪草酸甲酯
+tetrafluoroethane	四氟乙烷
+butyl flufenamate	氟芬那酸丁酯
+cadmium hydroxide	氢氧化镉
+epoxide hydrolase	环氧化物水解酶
+desmethylicaritin	去甲淫羊藿素
+astaxanthin ester	虾青素酯
+polyglutamic acid	多聚谷氨酸
+polyvinylsiloxane	聚乙烯基硅氧烷
+potassium nitrate	硝酸钾
+methyl nicotinate	烟酸甲酯
+isobornyl formate	甲酸异龙脑酯
+trans-beta-ionone	反-β-紫罗兰酮
+ytterbium acetate	醋酸镱
+propyl heptanoate	庚酸丙酯
+1,4-butanediamine	1,4-丁二胺
+7-ketocholesterol	7-酮基胆固醇
+(+)-α-longipinene	(+)-α-长叶蒎烯
+2,3-epoxygeranial	2,3-环氧香叶醛
+ethinyl estradiol	乙炔雌二醇
+ethyl 2-hexanoate	2-己酸乙酯
+t-butyl mercaptan	叔丁硫醇
+chalcone synthase	查儿酮合成酶
+menthane-1,8-diol	薄荷烷-1,8-二醇
+m-xylylenediamine	间苯二甲胺
+7-methyl-1-octene	7-甲基-1-辛烯
+decabromobiphenyl	十溴联苯
+cis-α-bergamotene	顺式-α-香柠檬烯
+insulin Aspart 30	门冬胰岛素30
+samarium chloride	氯化钐
+guanylate cyclase	鸟苷酸环化酶
+bilirubin oxidase	胆红素氧化酶
+bispyribac-sodium	双草醚
+antimony chloride	三氯化锑
+3-thiophenylthiol	3-噻吩基硫醇
+diclofenac sodium	双氯芬酸钠
+chlorocyclohexane	氯代环己烷
+aluminium nitrate	硝酸铝
+tamoxifen citrate	枸橼酸他莫昔芬
+farnesol isomer A	金合欢醇异构体A
+calcium gluconate	葡萄糖酸钙
+1-bromohexadecane	1-溴代十六烷
+2-ethyl n-butanal	2-乙基正丁醛
+7-hydroxycoumarin	7-羟基香豆素
+methyl oleanolate	齐墩果酸甲酯
+Potassium cyanate	氰酸钾
+octacosanoic acid	二十八烷酸
+normal octadecane	正十八碳烷
+potassium niobate	铌酸钾
+methyl betulinate	白桦脂酸甲酯
+4-methyl-1-decene	4-甲基-1-癸烯
+ardipusilloside I	九节龙皂苷I
+cholesterol, free	游离胆固醇
+acetyl coenzyme-A	乙酰辅酶A
+boronoate lithium	硼酸锂
+(R)-mandelic acid	(R)-扁桃酸
+(-)-caryophyllene	(-)-石竹烯
+vitamin E acetate	维生素E乙酸酯
+nonylcyclopropane	壬基环丙烷
+carbon, amorphous	无定形碳
+cyanuric chloride	三聚氯氰
+elsholtzia ketone	香薷酮
+3-phenyl dodecane	3-苯基十二烷
+methacrylonitrile	甲基丙烯腈
+potassium lactate	乳酸钾
+terpineyl acetate	乙酸松油醇
+trimethylolethane	三羟甲基乙烷
+ethyl-4-decenoate	4-癸烯酸乙酯
+2,7-octadien-1-ol	2,7-辛二烯-1-醇
+(Z,E)-α-farnesene	(Z,E)-α-法尼烯
+dioxopromethazine	二氧丙嗪
+sulfite reductase	亚硫酸盐还原酶
+strontium sulfate	硫酸锶
+glycyrrhizic acid	甘草酸
+creatine pyruvate	丙酮酸肌酸
+2-ethylhexylamine	异辛胺
+2-propylthiophene	2-丙基噻吩
+1-fluoro-dodecane	1-氟-十二烷
+cyclocaric acid B	青钱柳酸B
+C16:1, fatty acid	脂肪酸C16:1
+ethenyl hexanoate	己酸乙烯基酯
+ATP-citrate lyase	ATP-柠檬酸裂解酶
+sec.-butylbenzene	仲丁基苯
+timosaponin B III	知母皂苷B III
+trimethyl citrate	柠檬酸三甲酯
+linolelaidic acid	反亚油酸
+diethyl succinate	琥珀酸二乙酯
+dipentene dioxide	二氧化萜二烯
+calcium ionophore	实电解质钙
+caffeoyl glyceride	咖啡酰基甘油酯
+cinepazide maleate	马来酸桂哌齐特
+2,5-dimethylphenol	2,5-二甲酚
+trimethylcarbazole	三甲基咔唑
+isopropyl stearate	硬脂酸异丙酯
+rosin starch ester	松香淀粉酯
+4-methyl-1-hexanol	4-甲基-1-己醇
+cholesterol, total	总胆固醇
+1,3-cyclohexadiene	1，3-环己二烯
+flavonol glucoside	黄酮醇苷
+furan tebufenozide	呋喃虫酰肼
+o-sec-butyl phenol	邻仲丁基酚
+lactone mevalonate	甲羟戊酸内酯
+tert-butylcatechol	叔丁基邻苯二酚
+cloxacillin sodium	氯唑西林钠
+1,1-diethoxyoctane	1,1-二乙氧基辛烷
+1-chlorooctadecane	1-氯十八烷
+methabenzthiazuron	甲草苯隆
+strontium fluoride	氟化锶
+sodium bicarbonate	碳酸氢钠
+Z-2-octadecen-1-ol	Z-2-十八烯-1-醇
+tobramycin sulfate	硫酸妥布霉素
+1-nitronaphthalene	1-硝基萘
+2-octen-1-ol, (E)-	(E)-2-辛烯-1-醇
+diisooctyl maleate	马来酸二异辛酯
+D-pantothenic acid	D-泛酸
+sucrose distearate	硬脂酸蔗糖二酯
+palmitoyl chloride	棕榈酰氯
+cyclohexyl acetate	乙酸环己酯
+cis-11-hexadecenal	顺-11-十六烯醛
+nonyl-cyclopropane	壬基-环丙烷
+Oxygenase, choline	胆碱单氧化物酶
+D-galactoselactone	D-半乳糖内酯
+3-toluene chloride	3-氯甲苯
+butyl 2-propenoate	2-丙烯酸丁酯
+bibenzenepropanone	二苯丙酮
+firefly luciferase	萤火虫荧光素酶
+galactocerebroside	半乳糖脑苷脂
+heptadecylaldehyde	十七醛
+triisopropylsilane	三异丙基硅烷
+TC4 titanium alloy	TC4钛合金
+5-propyl-tridecane	5-丙基十三烷
+24-epibrassinolide	24-表油菜素内酯
+heneicosenoic acid	二十一碳烯酸
+glucose, tolerance	糖耐量
+decyl bromoacetate	溴乙酸癸酯
+5-ethyl-2-heptanol	5-乙基-2-庚醇
+aldicarb sulfoxide	涕灭威亚砜
+magnesium chloride	氯化镁
+sodium hyaluronate	透明质酸钠
+safflower yellow A	红花黄素A
+trimesoyl chloride	均苯三甲酰氯
+thiosalicylic acid	硫代水杨酸
+pulcherryl acetate	齐墩果烷醋酸酯
+trans-2-tridecenal	反-2-十三烯醛
+disperse blue 2BLN	分散蓝2BLN
+fucosyltransferase	岩藻糖基转移酶
+sulfhydryl acetone	巯基丙酮
+tetramethylprazine	川穹嗪
+N-isopropylaniline	N-异丙基苯胺
+lipopolysaccharide	脂多糖
+5-methyl-2-hexanol	5-甲基-2-己醇
+trans-9-oleic acid	反-9-油酸
+chloroacetonitrile	氯乙腈
+β-phenylethylamine	β-苯乙胺
+piperonyl chloride	胡椒基氯
+octen-3-yl acetate	乙酸-3-辛烯酯
+methylacrylic acid	异丁烯酸
+magnesium diboride	二硼化镁
+cis-2-peneten-1-ol	顺式-2-戊烯-1-醇
+dihydroartemisinin	双氢青蒿素
+2,6-diethylaniline	2,6-二乙基苯胺
+piperitenone oxide	胡椒烯酮氧化物
+methyl tricosanate	二十三碳酸甲酯
+isopropyl xanthate	异丙基黄药
+methylnonylethanal	甲基壬乙醛
+titanic acid ester	钛酸酯偶联剂
+oxygen free copper	无氧铜
+3,4-benzo[a]pyrene	3,4苯并[a]芘
+aluminum phosphate	磷酸铝
+aristolene epoxide	马兜铃烯环氧化物
+antimony tin oxide	氧化锡锑
+ethylmethylbenzene	乙基甲苯
+sodium diphacinone	敌鼠钠
+methylethylbenzene	甲基乙基苯
+2-methyl-tricosane	2-甲基二十三烷
+disulfoton sulfone	乙拌磷砜
+creatine kinase MB	肌酸激酶MB
+L-perillyl alcohol	L-紫苏醇
+magnesium silicate	硅酸镁
+quercetin xyloside	槲皮素-木糖苷
+octyl cyclopropane	辛基环丙烷
+cytochrome P4501A1	细胞色素P4501A1
+2-vinylnaphthalene	萘乙烯
+dihydric phosphate	磷酸二氢盐
+industrial silicon	工业硅
+sodium borohydride	硼氢化钠
+dibenzo(a,e)pyrene	二苯并(a,e)芘
+esterase isoenzyme	酯酶同工酶
+cinnamyl cinnamate	肉桂酸肉桂酯
+2,4-diaminoanisole	2,4-二氨基苯甲醚
+7-palmitoleic acid	7-十六碳烯酸
+sesquiphellandrene	倍半水芹烯
+trans-2-octen-1-ol	反-2-辛烯-1-醇
+zirconium diboride	二硼化锆
+inorganic nitrogen	无机氮
+methyl 2-butynoate	2-丁炔酸甲酯
+dimethyl itaconate	亚甲基-丁酸-二甲酯
+calcium phosphorus	钙磷
+DL-isopinocampheol	DL-异松蒎醇
+trans-γ-bisabolene	反-r-红没药烯
+monosulfuron ester	单嘧磺酯
+myristoyl Chloride	肉豆蔻酰氯
+1,6,10-dodeatriene	1,6,10-十二碳三烯
+ammonium molybdate	钼酸铵
+cis-limonene oxide	cis-柠檬烯氧化物
+ribose 5-phosphate	5-磷酸核糖
+manganese chloride	氯化锰
+lithium metaborate	偏硼酸锂
+tetraiodothyronine	四碘甲腺原氨酸
+Xiangdan injection	香丹注射液
+19-nortestosterone	19-去甲睾酮
+notoginsenoside Fe	三七皂苷Fe
+propylcyclopentane	丙基环戊烷
+dibenzo(a,i)pyrene	二苯并(a,i)芘
+cyclopentadecanone	环十五烷酮
+2,15-hexacanedione	2,15-十六烷二酮
+2-ethylnaphthalene	2-乙基萘
+2,5-dimethyl furan	2,5-二甲基呋喃
+glucobrassicanapin	4-戊烯基硫苷
+n-butyryl chloride	正丁酰氯
+proteinase, 3CLpro	3CL蛋白酶
+m-phenylenediamine	间苯二胺
+tetrathiomolybdate	四硫钼酸盐
+triphenylphosphate	三苯基磷酸酯
+sulfonated styrene	磺化苯乙烯
+4-methylmorpholine	４-甲基吗啉
+3-Methyl-2-heptene	3-甲基-2-庚烯
+(E)-cinnamaldehyde	(E)-肉桂醛
+trimethyl pyrazine	三甲基吡嗪
+polyvinyl chloride	聚氯乙烯
+(E)-geranylacetone	(E)-香叶基丙酮
+emamectin benzoate	甲氨基阿维菌素苯甲酸盐
+thiophanate methyl	硫菌灵
+α-naphthyl acetate	α-乙酸萘酯
+titanium hydroxide	氢氧化钛
+trimethylquinoline	三甲基喹啉
+polyvinyl fluoride	聚氟乙烯
+pentadecenoic acid	十五烯酸
+p-propenyl-anisole	丙烯基茴香醚
+Molybdenum sulfide	硫化钼
+1-octanol, 2-butyl	1-辛醇, 2-丁基
+4-methyl-3-hexanol	4-甲基-3-己醇
+androstadienedione	1,4-雄烯二酮
+cobalt naphthenate	环烷酸钴
+3-hexadecene, (Z)-	(Z)-3-十六烯
+(-)-syringaresinol	(-)-丁香脂素
+phosphatidylserine	磷脂酰丝氨酸
+tetradecanoic acid	十四酸
+magnesium silicide	硅化镁
+quizalofop-P-ethyl	精喹禾灵
+amine molluscicide	杀螺胺
+cyclic diguanylate	环二鸟苷酸
+endosulfan sulfate	硫丹硫酸酯
+dodecylcyclohexane	十二烷基环己烷
+fenthion sulfoxide	倍硫磷亚砜
+D-sodium gluconate	D-葡萄糖酸钠
+3-methoxy pyridine	3-甲氧基-吡啶
+ammonium carbonate	碳酸铵
+D-isoascorbic acid	D-异抗坏血酸
+cefditoren pivoxil	头孢妥仑匹酯
+piperonyl butoxide	增效醚
+nopyl propyl ether	诺卜丙基醚
+konjac glucomannan	魔芋葡甘露聚糖
+δ-tetradecalactone	δ-十四内酯
+α-mannoglycosidase	α-甘露糖苷酶
+Shengmai injection	生脉注射液
+ethyl cyclopentane	乙基环戊烷
+ammonium sulfamate	氨基磺酸铵
+desethylamiodarone	去乙基胺碘酮
+1,4-cyclohexadiene	1,4-环己二烯
+2-ethylhexyl ester	2-乙基己基酯
+6-methyl tridecane	6-甲基十三烷
+4-terpinyl acetate	4-乙酸松油酯
+manganese silicate	硅酸锰
+R,R-2,3-butanediol	R,R-2,3-丁二醇
+tert-butyl formate	甲酸叔丁酯
+m-isopropyltoluene	m-异丙基甲苯
+hexahydrofarnesone	六氢金合欢酮
+ethoxy citronellal	乙氧基香茅醛
+dimethylpropenoate	二甲基丙烯酸酯
+antistreptolysin O	抗链球菌溶血素O
+butyl 2-propanoate	2-丙酸丁酯
+haloxyfop-P-methyl	高效氟吡甲禾灵
+phosphorus, organo	有机磷
+(Z)-linalool oxide	(Z)-芳樟醇氧化物
+3-ethyl-3-heptanol	3-乙基-3-庚醇
+diisobutylmethanol	二异丁基甲醇
+glycerol carbonate	碳酸甘油酯
+helioscopinolide D	泽漆内酯丁
+adipic dihydrazide	己二酸二酰肼
+(S)-(+)-2-pentanol	(S)-(+)-2-戊醇
+7-methyl-tridecane	7-甲基-十三烷
+atractylenolide II	白术内酯II
+13-heptadecyn-1-ol	13-十七炔-1-醇
+biphenyl phthalate	邻苯二甲酸二苯酯
+4-iodobenzaldehyde	4-碘苯甲醛
+polyferric sulfate	聚合硫酸铁
+dimethyl silandiol	二甲基硅二醇
+allyl methacrylate	甲基丙烯酸烯丙酯
+ammonium succinate	丁二酸铵
+2-methyl-1-propene	2-甲基-1-丙烯
+strontium ranelate	雷尼酸锶
+3,4-dimethylhexane	3,4-二甲基己烷
+chloroacetaldehyde	氯乙醛
+bensulfuron-methyl	苄嘧磺隆
+doxazosin mesylate	甲磺酸多沙唑嗪
+cyanidin-3-glucose	矢车菊-3-葡萄糖苷
+acrylic acid resin	丙烯酸树脂
+8-isoprostaglandin	8-异前列腺素
+1,2-benzenedithiol	1,2-苯二硫醇
+4-cyanoiodobenzene	4-氰基碘苯
+2-ethenyl-pyridine	2-乙烯基-吡啶
+isopentenyladenine	异戊烯基腺嘌呤
+methyl palmitolate	棕榈烯酸甲酯
+n-amyl isovalerate	异戊酸戊酯
+microperoxidase-11	微过氧化物酶-11
+mutiple isocyanate	多异氰酸酯
+lithium disilicate	二硅酸锂
+1,5-hexadien-3-yne	1,5-己二烯-3-炔
+2,5-diaminotoluene	2,5-二氨基甲苯
+decafluorobiphenyl	十氟联苯
+farnesyl acetone B	金合欢基丙酮B
+helioscopinolide A	泽漆内酯甲
+3,6-dimethyldecane	3,6-二甲基癸烷
+pyropheophorbide-a	焦脱镁叶绿酸a
+oteracil potassium	氧嗪酸钾
+α-ketobutyric acid	α-丁酮酸
+immobilized enzyme	固定化酶
+strontium titanate	钛酸锶
+angeloyl gomisin Q	当归酰戈米辛Q
+blood lactate acid	血乳酸
+9,12-linoleic acid	9，12-亚油酸
+1,3-Cyclooctadiene	1,3-环辛二烯
+(E,E,E,E)-squalene	(E,E,E,E)-角鲨烯
+lutenizing hormone	黄体激素
+sildenafil citrate	枸橼酸西地那非
+silver perchlorate	高氯酸银
+2-acetoxytridecane	2-乙酸基十三烷
+1,3-dinitrobenzene	1,3-二硝基苯
+carboxylesterase 1	羧酸酯酶1
+astragaloside VIII	黄芪皂苷VIII
+phosphorus diamine	磷酸二胺
+N-acetylmorpholine	N-乙酰吗啉
+linalyl propionate	丙酸芳樟酯
+heptachlor epoxide	七氯环氧化物
+13-docosanoic acid	二十二烯酸
+silicon oxynitride	氮氧化硅
+monomethyl maleate	马来酸单甲酯
+ketotifen fumarate	富马酸酮替芬
+3-methyl-2-butanol	3-甲基-2-丁醇
+endo-1-bourbonanol	内型-1-波旁醇
+carbamide peroxide	过氧化脲
+n-propyl cinnamate	肉桂酸正丙酯
+proteolytic enzyme	蛋白水解酶
+methylhydroquinone	甲基氢醌
+cimicifugoside H-1	升麻苷H-1
+potassium chlorate	氯酸钾
+4-(2-allyl)-phenol	4-(2-丙烯基)-苯酚
+(E)-linalool oxide	(E)-氧化芳樟醇
+1-propyl mercaptan	1-丙硫醇
+12/15-lipoxygenase	12/15-脂氧合酶
+pyruvate kinase M2	丙酮酸激酶M2
+Lanthanum silicate	硅酸镧
+pentachloroanisole	五氯甲氧基苯
+2-methyl-2-butanal	2-甲基-2-丁醛
+3,3-dimethyloctane	3,3-二甲基辛烷
+diethylenetriamine	二乙烯三胺
+glyceryl palmitate	棕榈酸甘油酯
+haloxyfop-R-methyl	吡氟氯禾灵
+isoamyl salicylate	水杨酸异戊酯
+Ni-Ti memory alloy	镍钛记忆合金
+propionylcarnitine	丙酰肉碱
+gentamycin sulfate	硫酸庆大霉素
+cholesta-4-en-3-ol	胆甾-5-烯-3-醇
+2-methyl-2-hexanol	2-甲基-2-己醇
+2,6-dichloropurine	2,6-二氯嘌呤
+2,3-dichlorophenol	2,3-二氯苯酚
+3-methylbenzofuran	3-甲基苯并呋喃
+(3E)-3-decen-2-one	(3E)-3-癸烯-2-酮
+Disperse Orange 37	分散橙37
+doxazosin mesilate	甲磺酸多沙唑
+cellulose synthase	纤维素合成酶
+pentachlorobenzene	五氯苯
+N-nitrosodianiline	n-亚硝基二苯胺
+N-benzylpiperazine	N-苄基哌嗪
+methylcyclohexanol	甲基环己醇
+isopropyl butyrate	丁酸异丙酯
+molybdenum nitride	氮化钼
+diniobium trioxide	三氧化二铌
+fluroxypyr-dodecyl	氯氟吡氧乙酸十二酯
+compound phosphate	复合磷酸盐
+2,6-dinitrotoluene	2,6-二硝基甲苯
+1,3-dimethylpyrene	1,3-二甲基芘
+iron disodium EDTA	EDTA二钠铁
+Lavandulyl acetate	乙酸熏衣草酯
+thiodiazole copper	噻菌铜
+3,5-diethyl phenol	3,5-二乙基苯酚
+2-methylpiperazine	2-甲基哌嗪
+1,2-benzenediamine	1,2-苯二胺
+dimethyl thioether	二甲基硫醚
+diallylmethylamine	二烯丙基甲基胺
+cubic boron nitride	立方氮化硼
+2-methyl-piperazine	2-甲基-哌嗪
+α-hydroxyalprazolam	α-羟基阿普唑仑
+3-methyl-hexadecane	3-甲基-十六烷
+4-ethylacetophenone	4-乙基苯乙酮
+aristololactam A II	马兜铃内酰胺A II
+lauric alkanolamide	月桂酸二乙醇酰胺
+methyl-testosterone	甲基睾酮
+Sucrose monolaurate	月桂酸蔗糖酯
+p-aminobenzaldehyde	对氨基苯甲醛
+p-isopropenylphenol	对异丙烯基苯酚
+allyl chloroformate	氯甲酸烯丙酯
+1-iodine-hexadecane	1-碘-十六烷
+2,2-dimethyl-decane	2,2-二甲基-癸烷
+3-phenyl-2-butanone	3-苯基-2-丁酮
+1,2-epoxyhexadecane	1,2-环氧十六烷
+galloylpaeoniflorin	没食子酰芍药苷
+desmethyl-clozapine	去甲氯氮平
+potassium bisulfate	硫酸氢钾
+ethyl chloroformate	氯甲酸乙酯
+trans-β-damascenone	反式-β-大马酮
+dibromoacetonitrile	二溴乙腈
+albendazole sulfone	阿苯达唑砜
+tripropyl phosphate	磷酸三丙酯
+phytoene desatruase	八氢番茄红素脱氢酶
+N,N-dimethylformide	N,N-二甲基二酰胺
+γ-aminobutyric acid	γ-氨基丁酸
+sodium deoxycholate	脱氧胆酸钠
+oxidase, cytochrome	线粒体复合体IV
+protocatechuic acid	原儿茶酸
+glacial acetic acid	冰醋酸
+3,4-diethylbiphenyl	3,4-二乙基联苯
+7075 aluminum alloy	7075Al合金
+3-cyano-benzylamine	3-氰基苄胺
+2,2-dimethyl butane	2,2-二甲基丁烷
+alogliptin benzoate	苯甲酸阿格列汀
+methylcyclohexanone	甲基环己酮
+1,5-heptadien-4-one	1，5-庚二烯-4-酮
+4-ethylbenzaldehyde	4-乙基苯甲醛
+ethyl hexacosanoate	乙基十六烷酸酯
+heptyl isobutanoate	异丁酸庚酯
+tungstosilicic acid	钨硅酸
+triptorelin acetate	醋酸曲普瑞林
+Antimony triacetate	乙酸锑
+3-phenyl-2-acrolein	3-苯基-2-丙烯醛
+Lup-20(29)-en-3-one	羽扇-20(29)-烯-3-酮
+γ-gurjunene epoxide	γ-古芸烯环氧化物
+3-nitrobenzaldehyde	3-硝基苯甲醛
+Cardamom oleic acid	豆蔻油酸
+citronellol acetate	香茅醇乙酯
+sulfometuron-methyl	甲嘧磺隆
+Tanreqing Injection	痰热清注射液
+isoamyl isovalerate	异戊酸异戊酯
+gadolinium chloride	氯化钆
+di-tert-butylphenol	二叔丁基苯酚
+esomeprazole sodium	埃索美拉唑钠
+butyl chloroacetate	氯乙酸正丁酯
+2-propenylbutyloate	2-丙烯基丁酸酯
+1,4-diethyl-benzene	1,4-二乙基-苯
+1,2-epoxynonadecane	1,2-环氧十九烷
+undecyl-cyclohexane	十一烷基环己烷
+phosphoenolpyruvate	磷酸烯醇式丙酮酸
+fluvoxamine maleate	马来酸氟伏沙明
+thymyl methyl ether	白里香甲醚
+9-methylheptadecane	9-甲基十七烷
+cobaltous carbonate	碱式碳酸钴
+diethyl ethylacetal	二乙基乙缩醛
+caryophyllene oxide	石竹烯氧化物
+xylooligosaccharide	低聚木糖
+tetrachloroethylene	四氯乙烯
+neryl phenylacetate	苯乙酸橙花酯
+3-methyl-4-nonanone	3-甲基-4-壬酮
+4-acetylcycloethane	4-乙酰环乙烷
+cytochrome P450 3A4	细胞色素P450 3A4
+tert-butyl acrylate	丙烯酸叔丁酯
+phenamiphos sulfone	苯胺磷砜
+phosphoethanolamine	磷乙醇胺
+p-chloracetophenone	对氯苯乙酮
+tetradecyl chloride	氯代十四烷
+tedizolid phosphate	泰地唑利磷酸酯
+protein phosphatase	蛋白磷酸酶
+phenylacetylglycine	苯乙酰甘氨酸
+hyodeoxycholic acid	猪去氧胆酸
+4-methyl-3-hexanone	4-甲基-3-己酮
+adenosine deaminase	腺苷脱氨酶
+calcium naphthenate	环烷酸钙
+manganese phosphide	磷化锰
+isochlorogenic acid	异绿原酸
+3-O-methylquercetin	3-O-甲基槲皮素
+1-bromo-tetracosane	1-溴-二十四烷
+2,4-epibrassinolide	2,4-表油菜素内酯
+13-chloro-β-elemene	13-氯-β-榄香烯
+isoamyl isobutyrate	异丁酸异戊酯
+β-1,3-1,4-glucanase	β-1,3-1,4-葡聚糖酶
+diisopentyl oxalate	草酸二异戊酯
+3-aminobenzoic acid	3-氨基苯甲酸
+Humulene epoxide II	环氧化蛇麻烯II
+Jinshuibao Capsules	金水宝胶囊
+Src tyrosine kinase	Src酪氨酸激酶
+3-isopropyl toluene	3-异丙基甲苯
+2-methoxy-2-heptene	2-甲氧基-2-庚烯
+amino acid sequence	氨基酸序列
+cycloisolongifolene	环异长叶烯
+1,1-diethoxymethane	1,1-二乙氧基甲烷
+caffeoylquinic acid	咖啡奎宁酸
+cetrimonium bromide	西曲溴铵
+silver sulfadiazine	磺胺嘧啶银
+3-phenyllactic acid	3-苯基乳酸
+trans-linoleic acid	反式亚油酸
+isopropenyl toluene	异丙烯基甲苯
+peptide N-glycanase	N-糖苷酶
+phytoene desaturase	八氢番茄红素脱青酶
+lithospermic acid B	紫草酸B
+7-hexadecenoic acid	7-十六烯酸
+1,8-octanoicdithiol	1，8－辛二硫醇
+ethyl octadecenoate	十八烯酸乙酯
+aluminum phosphorus	铝磷
+9-hexadecenoic acid	9-十六碳烯酸
+3-methyl-3-pentanol	3-甲基-3-戊醇
+2,2-dimethyloctanol	2,2-二甲基辛醇
+2,6-dimethyl decane	2,6-二甲基癸烷
+D-(-)-tartaric acid	D-(-)-酒石酸
+chondroitin sulfate	硫酸软骨素
+thiofanox-sulfoxide	久效威亚砜
+m-bromobenzaldehyde	间溴苯甲醛
+indole formaldehyde	吲哚甲醛
+E3 ubiquitin ligase	E3泛素连接酶
+2-methyl-5-decanone	2-甲基-5-癸酮
+2,3-dimethyl butane	2,3-二甲基丁烷
+di-ammonium citrate	柠檬酸二铵
+Gamma-pentyllactone	戊内酯
+laurylethenyl ether	十二烷基乙烯基醚
+tetramethyl benzene	四甲苯
+lipase, lipoprotein	脂蛋白酶
+nano-hydroxyapatite	纳米羟基磷灰石
+methyl furanformate	呋喃甲酸甲酯
+trans-11-oleic acid	反-11-油酸
+Sodium dicyanoamide	二氰胺钠
+glycosyltransferase	糖基转移酶
+ammonium bichromate	重铬酸铵
+ipratropium bromide	异丙托溴铵
+5-bromovaleric acid	5-溴戊酸
+2,2-dimethyl octane	2,2-二甲基辛烷
+trisodium phosphate	磷酸三钠
+L-pyroglutamic acid	L-焦谷氨酸
+2,4-dimethylstyrene	2,4-二甲基苯乙烯
+1-ethyl-cyclohexene	1-乙基-环己烯
+butylhydroxytoluene	二叔丁基对甲酚
+1-Hexene, 4-methyl-	4-甲基-1-己烯
+3-methyleneundecane	3-亚甲基十一烷
+4-ethyl-tetradecane	4－乙基－十四烷
+guanidine carbonate	碳酸胍
+amino oligochitosan	氨基寡糖素
+n-Tridecyl aldehyde	正十三醛
+natriuretic peptide	尿钠肽
+Cast iron, chromium	高铬铸铁
+3,5-dimethyl-octane	3，5-二甲基-辛烷
+silicotungstic acid	硅钨酸
+saquinavir mesylate	甲磺酸杀喹那韦
+2-bromobenzaldehyde	2-溴苯甲醛
+1-methoxy-4-toluene	1-甲氧基-4-甲苯
+3-methyl-butanamide	3-甲基丁酰胺
+4-bromobutyric acid	4-溴丁酸
+barium borosilicate	钡硼硅酸盐
+dehydroabietic acid	脱氢枞酸
+dimethyl tryptamine	二甲基色胺
+aconitate hydratase	乌头酸水合酶
+acryloyl morpholine	丙烯酰吗啉
+enoyl-CoA hydratase	烯脂酰CoA水合酶
+trimebutine maleate	马来酸曲美布汀
+p-nitrobromobenzene	对硝基溴苯
+hydroperoxide lyase	过氧化物裂解酶
+1,2-diethoxybenzene	邻苯二乙醚
+phosphate monoester	磷酸单酯
+2-methyl-3-pentanol	2-甲基-3-戊醇
+selenium methionine	蛋氨酸硒
+N-methylbenzylamine	N-甲基苄胺
+vincristine sulfate	硫酸长春新碱
+octaethylene glycol	八甘醇
+trans-3(10)-en-2-ol	反式-3(10)-烯-2-醇
+Sodium metavanadate	偏钒酸钠
+4,6-dinitroo-cresol	4,6-二硝基邻甲酚
+3,8-dimethyl-decane	3,8-二甲基-癸烷
+2,2-dimethyl decane	2,2-二甲基癸烷
+2-bromine-octadecal	2-溴-十八碳醛
+3-methylcyclohexane	3-甲基环己烷
+triphenyl phosphate	磷酸三苯酯
+deapio-platycodin D	去芹糖桔梗皂苷D
+secobarbital sodium	司可巴比妥钠
+titanium silicalite	钛硅
+methyl thiobutyrate	硫代丁酸甲酯
+liquiritin apioside	芹糖甘草苷
+12-methyltridecanal	12-甲基十三醛
+benzyl methyl ether	苄基甲基醚
+dodecane, 1-chloro-	1-氯十二烷
+denatonium benzoate	苯甲地那铵
+pentanal, 3-methyl-	3-甲基戊醛
+Tetrahydrocoptisine	四氢黄连碱
+4-hydroxyisoleucine	4-羟基异亮氨酸
+1,3-cyclopentadiene	1,3-环戊二烯
+2,9-dimethyl decane	2,9-二甲基癸烷
+isoflavone, soybean	大豆异黄酮
+1,5-naphthalenediol	1,5-萘二酚
+2,5-dimethylpyrrole	2,5-二甲基吡咯
+himachala-2,4-diene	2,4-雪松二烯
+furan, 2,5-dihydro-	2,5-二氢呋喃
+citronellyl formate	甲酸香茅酯
+cyclopentanoic acid	环戊酸
+docosatrienoic acid	二十二碳三烯酸
+4-ethylbenzoic acid	4-乙基苯甲酸
+5-pentyl-2-furanone	5-戊基-2-呋喃酮
+N,N-dimethylaniline	N,N-二甲基苯胺
+2,4-dimethylpyrrole	2,4-二甲基吡咯
+3-butyl-cyclohexene	3-丁基环己烯
+metoprolol fumarate	富马酸美托洛尔
+polyhydroxybutyrate	聚羟基丁酸酯
+(+)-trans-nerolidol	(+)-反-橙花叔醇
+1,4-difluorobenzene	1,4-二氟苯
+5-hydroxyomeprazole	5-羟基奥美拉唑
+butylisothiocyanate	丁基异硫氰酸酯
+4-phenyl-2-butanone	4-苯基-2-丁酮
+9-methyl-2-undecene	9-甲基-2-十一烯
+3-methylcyclohexene	3-甲基环己烯
+phenyl pyruvic acid	苯丙酮酸
+tetraethoxysilicane	正癸酸乙酯
+2,6-dimethyl noname	2,6-二甲基壬烷
+4-bromobenzaldehyde	4-溴苯甲醛
+tetramethylpyrazine	四甲基吡嗪
+1,2-dichloropropane	1,2-二氯丙烷
+2,4-dichlorotoluene	2,4-二氯甲苯
+2,4-dimethylanisole	2,4-二甲基苯甲醚
+biboronoate pinacol	联硼酸频哪醇酯
+E-farnesene epoxide	E-金合欢醇环氧化物
+pentachlorobiphenyl	五氯联苯
+methoxybenzaldehyde	甲氧基苯甲醛
+potassium gluconate	葡萄糖酸钾
+(E)-2-hexenoic acid	(E)-2-己烯酸
+1,1-diethoxy-butane	1,1-二乙氧基丁烷
+methane, trifluoro-	三氟甲烷
+acetoxy-2-propanone	乙酰氧基-2-丙酮
+3,5-dichloroaniline	3，5-二氯苯胺
+graphite, orbicular	球状石墨
+methyl ferulic acid	甲基阿魏酸
+sucrose octasulfate	蔗糖八硫酸酯
+α-trans-bergamotene	α-反-香柑油烯
+thymol methyl ether	百里酚甲醚
+sodium methacrylate	甲基丙烯酸钠
+p-aminobenzoic acid	对氨基苯甲酸
+8-heptylpentadecane	8-庚基十五烷
+4-oxopentanoic acid	4-羰基戊酸
+alpha-caryophyllene	alpha石竹烯
+ent-kaurene oxidase	贝壳杉烯氧化酶
+dihydroferulic acid	二氢阿魏酸
+Ruthenium tetroxide	氯钌酸
+N-formyl morpholine	N-甲酰基吗啉
+γ-methyl linolenate	γ-亚麻酸甲酯
+tetrafluoroethylene	四氟乙烯
+Reactive Black KN-B	活性黑KN-B
+capric triglyceride	癸酸甘油三酯
+2,2-dimethylpentane	2,2-二甲基戊烷
+9,12-octadecadienal	9,12-十八碳二烯醛
+benzene, 1-butenyl-	1-丁烯基苯
+1,2-diethenebenzene	1,2-二乙烯苯
+Ningxinbao capsules	宁心宝胶囊
+muscular amino acid	肌氨肽苷
+3-thienyl mercaptan	3-噻吩硫醇
+2-chloroNaphthalene	2-氯萘
+(E)-2-tridecen-1-ol	(E)-2-十三烯-1-醇
+2,4-undecadien-1-ol	2,4-二烯十一醇
+p-tertbutyl toluene	对叔丁基甲苯
+(Z)-sabinenehydrate	(Z)-水合桧烯
+disulfide isomerase	二硫化物异构酶
+hydrocinnamaldehyde	氢化肉桂醛
+magnesium aluminate	铝酸镁
+dehydrodiisoeugenol	氢二异丁香酚
+glucose-6-phosphate	六磷酸葡萄糖
+ethyl benzimidazole	2-乙基苯并咪唑
+9-octadecynoic acid	9-炔十八酸
+3,4-diaminopyridine	3,4-二氨基吡啶
+bromoacetyl bromide	溴乙酰溴
+hexafluoropropylene	六氟丙稀
+tricalcium silicate	硅酸三钙
+testosterone, total	总睾酮
+N-phenylbenzylamine	N-苯基苄胺
+3-methyl-3-heptanol	3-甲基-3-庚醇
+6-methoxynaringenin	6-甲氧基柚皮素
+1-phenylhexan-1-one	1-苯基-1-己酮
+1(2H)-naphthalenone	1(2H)-萘满酮
+dihydrosanguinarine	二氢血根碱
+cedryl propyl ester	丙酸雪松酯
+deoxypodophyllotoxin	脱氧鬼臼毒素
+1-octen-3-ol acetate	1-辛烯-3-醇乙酸酯
+4-fluorobromobenzene	4-氟溴苯
+disperse magenta P-R	分散红紫
+methyl phenylacetate	苯乙酸甲酯
+α-amylase, inhibitor	α-淀粉酶抑制剂
+sodium thioglycolate	巯基乙酸钠
+sodium hypophosphite	次磷酸钠
+2-ethyl-1-dodecylene	2-乙基-1-十二烯
+2,4-hexadienoic acid	2,4-己二烯酸
+2-methyl naphthalene	2-甲基萘
+3,4-dimethylpyridine	3,4-二甲基吡啶
+4-chloroacetophenone	4-氯苯乙酮
+methyl cedryl ketone	甲基柏木酮
+sodium diaquaformate	二水甲酸钠
+(E,E)-2,4-octadienal	(E,E)-2,4-辛二烯醛
+methyl pentyl ketone	甲基正戊基酮
+sodium sulfacetamide	磺胺醋酰钠
+xanthinol nicotinate	烟酸占替诺
+1,2-epoxytetradecane	1,2-环氧十四烷
+2,4-dimethylthiazole	2,4-二甲基噻唑
+1-phenyl-2-propanone	1-苯基-2-丙酮
+Dehydropachymic acid	去氢乙酰茯苓酸
+dihydroporphinedione	二氢卟吩二酮
+neoisothujyl alcohol	新异侧柏醇
+N-methylstearylamine	N-甲基十八胺
+3-methylbenzaldehyde	3-甲基苯甲醛
+7-methyl pentadecane	7-甲基十五烷
+bipyridine ruthenium	钌联吡啶
+butyl hydroxytoluene	二丁基羟基对甲酚
+chitooligosaccharide	壳寡糖
+carbenoxolone sodium	甘珀酸钠
+dinitrochlorobenzene	二硝基氯苯
+8-heptyl-pentadecane	8-庚基-十五烷
+m-methylbenzoic acid	间甲基苯甲酸
+m-chloronitrobenzene	间氯硝基苯
+1-butylheptylbenzene	1-丁基庚基苯
+2,5-dibromothiophene	2,5-二溴噻吩
+monodansylcadaverine	单丹磺酰尸胺
+mannooligosaccharide	甘露低聚糖
+isobutyl isobutyrate	异丁酸异丁酯
+2,2-difurfuryl ether	2,2-二糠基醚
+4-methyl-iodobenzene	4-甲基碘苯
+4'-hydroxydiclofenac	4'-羟基双氯芬酸
+1,4-dimethyl benzene	1，4-二甲基苯
+diisononyl phthalate	邻苯二甲酸二异壬酯
+dimethyltetrasulfide	二甲基四硫化合物
+encephalon glycoside	脑苷肌肽
+homodihydrocapsaicin	高二氢辣椒碱
+cyclin depend kinase	细胞周期蛋白依赖激酶
+3-carboxy-2-butanone	3-羧基-2-丁酮
+3,4-dimethoxystyrene	3,4-二甲氧基苯乙烯
+4-chlorobenzaldehyde	4-氯苯甲醛
+2,4-dimethylpyridine	2,4-二甲基吡啶
+2-methyl-tetradecane	2-甲基-十四烷
+6,8-epitrioctic acid	6,8-上硫辛烷酸
+abscission cellulase	脱落纤维素酶
+diglycol butyl ether	二乙二醇丁醚
+2-acetyl-1-pyrroline	2-乙酰基-1-吡咯啉
+L-3-n-butylphthalide	左旋丁基苯酞
+thioacetic anhydride	硫代乙酸酐
+ropivacaine mesylate	甲磺酸罗哌卡因
+2,4-dimethyl pentane	2，4-二甲基戊烷
+2,5-dimethylundecane	2,5-二甲基十一烷
+cadina-1(10),4-diene	1(10),4-杜松二烯
+carboxymethyl chitin	羧甲基甲壳素
+carbon tetrafluoride	四氟化碳
+alpha-linolenic acid	alpha-亚麻酸
+eicosapentanoic acid	二十五碳五烯酸
+trans-2-dodecen-1-ol	反-2-十二烯-1-醇
+N-nitrosonornicotine	N-亚硝基去甲基烟碱
+2-chlorobenzoic acid	2-氯苯甲酸
+DNA topoisomerase II	DNA拓扑异构酶II
+uroporphyrinogen III	尿卟啉原
+cyanidin arabinoside	矢车菊素-阿拉伯糖苷
+6-methyl-5-heptenone	6-甲基-5-庚烯酮
+erythromycin A oxime	红霉素A肟
+Homovanillyl alcohol	高香草醇
+oxirane, heptadecyl-	十七基-环氧乙烷
+phenyl chloroformate	氯甲酸苯酯
+p-hydroxybenzylamine	对羟基苄胺
+methylaminoabamectin	甲氨基阿维菌素
+enepropyl heptanoate	庚酸烯丙酯
+E,E-2,4-heptandienal	E,E-2，4-庚二烯醛
+(E,Z)-2,6-nonadienal	(E,Z)-2,6-壬二烯醛
+2-nitrochlorobenzene	2-硝基氯苯
+tri-n-octylphosphine	三正辛基膦
+p,p-chlorophenothane	p,p-滴滴涕
+Phenyl enanthic acid	苯庚酸
+hexadecane, 5-butyl-	5-丁基十六烷
+phenylethanolamine A	苯乙醇胺A
+potassium propenoate	丙烯酸钾
+hydroxy-pioglitazone	羟基吡格列酮
+3-methyl-tetradecane	3-甲基十四烷
+metoprolol succinate	琥珀酸美托洛尔
+trans-geranylacetone	反-香叶基丙酮
+3-hexen-1-ol acetate	3-己烯-1-醇乙酸酯
+benzene hexachloride	六六六
+ammonium thiosulfate	硫代硫酸铵
+phenylglyoxylic acid	苯乙醛酸
+peroxide tertbutanol	过氧叔丁醇
+Yinchenhao Decoction	茵陈蒿汤
+taraxasteryl acetate	蒲公英甾醇醋酸酯
+calcium levofolinate	左亚叶酸钙
+sodium pyrophosphate	焦磷酸钠
+proteinase, aspartic	天冬氨酸蛋白酶
+pyruvate carboxylase	丙酮酸羧化酶
+p-methylacetophenone	对甲基苯乙酮
+4-ethyl cyclohexanol	4-乙基环己醇
+(Z)-9-hexadecen-1-ol	(Z)-9-十六烯-1-醇
+2,4-pyrrolidinedione	2,4-吡咯烷二酮
+cytochrome C oxidase	细胞色素c氧化酶
+2-propanol,2-methyl-	2-甲基异丙醇
+activated factor VII	活化因子VII
+p-methoxybenzylamine	对甲氧基苄胺
+methyl fluoroacetate	氟乙酸甲酯
+isopicropodophyllone	异鬼臼苦酮
+n-desethyloxybutynin	去乙基奥昔布宁
+2,7-dibromocarbazole	2,7-二溴咔唑
+(+)-beta-citronellol	(+)-beta-香茅醇
+dimethyl dicarbonate	二碳酸二甲酯
+heptadecendioic acid	十七碳二烯酸
+3-hydroxy carbofuran	3-羟基克百威
+4-ethoxy-2-pentanone	4-乙氧基-2-戊酮
+10-octadecenoic acid	10-十八碳烯酸
+2-isopropylimidazole	2-异丙基咪唑
+2,2-dimethylpentanal	2,2-二甲基戊醛
+rosuvastatin calcium	瑞舒伐他汀钙
+sulfation pachymaran	硫酸化茯苓多糖
+methoxy phenyl oxime	甲氧基苯基肟
+poly(urethane-imide)	聚(氨酯-酰亚胺)
+2-chloroethylbenzene	2-氯乙基苯
+1-methylcycloheptane	1-甲基环庚烷
+4-fluorobenzaldehyde	4-氟苯甲醛
+3,3-diindolylmethane	3,3-二吲哚甲烷
+4-butoxybenzoic acid	4-丁氧基苯甲酸
+2,4-decadienoic acid	2,4-癸二烯酸
+tetrahydrocannabinol	四氢大麻酚
+sodium Nipagin ester	尼泊金复合酯钠
+(E,E)-2,4-decadienal	(E,E)-2,4-癸二烯醛
+carboxyl methyl guar	羧甲基瓜尔胶
+(E,E)-2,6-nonadienal	(E,E)-2,6-壬二烯醛
+tricosacarbonic acid	二十三碳酸
+graphite, expandable	可膨胀石墨
+levofloxacin lactate	乳酸左氧氟沙星
+methyl octadecenoate	十八烯酸甲酯
+octadecenedioic acid	十八碳烯二酸
+methylpropenylketone	甲基丙烯基酮
+compound amoxicillin	复方阿莫西林
+4-methylbenzoic acid	4-甲基苯甲酸
+2,4-dimethylundecane	2,4-二甲基十一烷
+ethyl tetradecanoate	十四烷酸乙基酯
+decahydronaphthalene	十氢萘
+creatine monohydrate	一水肌酸
+8-hydroxy-2-octanone	8-羟基-2-辛酮
+t-butyl bromoacetate	溴乙酸叔丁酯
+iminodisuccinic acid	亚氨基二琥珀酸
+methyl tetradecanate	十四碳酸甲酯
+o-Fluorobenzonirmile	邻氟苯腈
+11-O-galloylbergenin	11-O-没食子酰岩白菜素
+1-methylphenanthrene	1-甲基菲
+chloramphenicol diol	氯霉素二醇
+dimethyl silicon oil	二甲基硅油
+sinapine thiocyanate	芥子碱硫氰酸盐
+o-nitrophenol sodium	邻硝基苯酚钠
+xylooligoasaccharide	木寡糖
+9-methylene-fluorene	9-亚甲基芴
+arginine dihydrolase	精氨酸双水解酶
+diphosphate fructose	二磷酸果糖
+N-ntryl-1-butylamine	N-硝基-1-丁胺
+glucose pentaacetate	葡萄糖五乙酸酯
+scandium sesquioxide	氧化钪
+dibromofluoromethane	二溴氟甲烷
+Cytochrome P 450 2B1	细胞色素P450同工酶2B1
+ammonium bicarbonate	碳酸氢铵
+ribulose-5-phosphate	5-磷酸核酮糖
+propyl chloroacetate	氯乙酸丙酯
+Sulfachlorpyridazine	磺胺氯哒嗪
+ethyl iso alcoholate	乙基异丙基醇
+exo-2-hydroxycineole	2-羟基桉树脑
+allyl phenoxyacetate	苯氧乙酸烯丙酯
+1,3-dimethyl-benzene	1,3-二甲基-苯
+3-methyl-heneicosane	3-甲基-二十一烷
+atorvastatin calcium	阿托伐他汀钙
+diepicedrene-1-oxide	1-氧化双环外雪松烯
+zinc polycarboxylate	聚羧酸锌
+4-fluorobenzophenone	4-氟二苯甲酮
+4-hexen-1-ol acetate	乙酸-4-己烯酯
+sodium fluoroacetate	氟乙酸钠
+polyphosphate kinase	多聚磷酸激酶
+5-hydroxy-4-octanone	5-羟基-4-辛酮
+α-galactosylceramide	α-半乳糖苷神经酰胺
+4-ethyl-1-hexyn-3-ol	4-乙基-1-己炔-3-醇
+deoxycytidine kinase	脱氧胞苷激酶
+ethyl-isocholesterin	乙基异胆甾醇
+dihydrochelerythrine	二氢白屈菜红碱
+tri-ammonium citrate	柠檬酸三铵
+sodium n-propanolate	正丙醇钠
+N-benzenylbutylamine	N-亚苄基丁胺
+benzo(a,h)anthracene	苯并(a,h)蒽
+18-nonadecenoic acid	18-十九碳烯酸
+cytochrome P 450 1B1	细胞色素P450 1B1
+pro-transglutaminase	转谷氨酰胺酶酶原
+collagenase, type IV	IV型胶原酶
+endo-β-1,3-glucanase	内切&beta-1，3-葡聚糖酶
+2-ethyl hexylalcohol	2-乙基正己醇
+hydrogen rich saline	氢饱和生理盐水
+dibutylphthalic acid	二丁基邻苯二甲酸
+manganese peroxidase	锰过氧化物酶
+oxygen, free radical	氧自由基
+1,4-dinitroimidazole	1,4-二硝基咪唑
+2-hydroxynaphthalene	2-羟基萘
+dehydrocostuslactone	去氢木香内酯
+carbon tetrachloride	四氯化碳
+methanesulfonic acid	甲磺酸
+2,3-dehydro-α-ionone	2,3-去氢-α-紫罗兰酮
+1,1-diethoxy-pentane	1,1-二乙氧基-戊烷
+m-methylethylbenzene	间甲乙苯
+2-ethylbutanoic acid	2-乙基丁酸
+3,4-dimethylpentanol	3,4-二甲基戊醇
+p-chlorobenzonitrile	对氯苯甲腈
+megastigmatrienone 2	巨豆三烯酮2
+4-nitrochlorobenzene	4-硝基氯苯
+2-methylacetophenone	邻甲基苯乙酮
+methyl sulfochloride	甲基磺酰氯
+streptomycin sulfate	硫酸链霉素
+β-methyl-D-glucoside	β-甲基-D-葡萄糖苷
+thifensulfuronmethyl	噻磺隆
+pemirolast potassium	吡嘧司特钾
+Methylseleninic acid	甲基硒酸
+levothyroxine sodium	左甲状腺素钠
+carboxyatractyloside	羧基苍术苷
+2-ethylanthraquinone	2-乙基蒽醌
+2,6-diacetylpyridine	2,6-二乙酰基吡啶
+(E,Z)-2,4-dodecadien	(E,Z)-2,4-十二碳二烯
+octadecen-9-oic acid	十八碳烯-9-酸
+p-methoxyiodobenzene	对甲氧基碘苯
+tridecafluorooctanol	十三氟辛醇
+3-methylethylbenzene	3-甲基乙苯
+dichlorofluoromethane	二氯氟甲烷
+1,1,1-trifluoroethane	1,1,1-三氟乙烷
+2,6-dimethyl pyridine	2,6-二甲基吡啶
+4,7-dimethyl-undecane	4,7-二甲基-十一烷
+2,4,6-Octadecatrienal	2，4，6-辛三烯醛
+4,5-dimethyl-thiazole	4,5-二甲基-噻唑
+5-bromonicotinic acid	5-溴烟酸
+Deuterated chloroform	氘代氯仿
+N-octyl-cyanoacrylate	氰基丙烯酸酯
+α-caryophyllene oxide	α-氧化石竹烯
+hydroxymethylfuranone	羟甲基呋喃酮
+Alanine dehydrogenase	丙氨酸脱氢酶
+floxuridine diacetate	氟尿苷二醋酸酯
+2,4-dimethylthiophene	2，4－二甲基噻吩
+4-carboxybenzaldehyde	4-羧基苯甲醛
+5-methyl-5-hexen-2-ol	5-甲基-5-己烯-2-醇
+(-)-dihydrovomifoliol	(-)-二氢催吐萝芙叶醇
+3-methyl-butyric acid	3-甲基-丁酸
+4-penten-1-yl acetate	4-戊烯-1-乙酸酯
+5'-deoxyguanylic acid	5'-脱氧鸟苷酸
+ammonium polyacrylate	聚丙烯酰酸铵
+emedastine difumarate	富马酸依美斯汀
+fosfomycin trometamol	磷霉素氨丁三醇
+ammonia monooxygenase	氨单加氧酶
+Hexatriemethoxysilane	十六烷基三甲氧基硅烷
+tetrahydrocolumbamine	四氢非洲防己碱
+chlormadinone acetate	醋酸氯地孕酮
+Cis-linalool oxide II	顺-氧化芳樟醇II
+Z-7-hexadecenoic acid	Z-7-十六碳烯酸
+zirconium n-propoxide	正丙醇锆
+N-nitrosodiethylamine	N-亚硝基二乙胺
+thioredoxin reductase	硫氧还蛋白还原酶
+molybdenum disilicide	二硅化钼
+4-methyl acetophenone	4-甲基苯乙酮
+2-methylallyl alcohol	2-甲基烯丙醇
+2-naphthylacetic acid	2-萘乙酸
+2,4-thiazolidinedione	2,4-噻唑烷二酮
+2,5-dimethyl pyrazine	2,5-二甲基吡嗪
+cis 3-hyxenyl acetate	顺-乙酸-3-己烯酯
+mycophenolate mofetil	霉酚酸酯
+tetraphenyl porphyrin	四苯基卟啉
+titanocene dichloride	二氯二茂钛
+ethyl-4-hydrobutyrate	4-羟基丁酸乙酯
+4,8-dimethyl-undecane	4,8-二甲基-十一烷
+ethylidene norbornene	亚乙基降冰片烯
+3-hydroxy-damascenone	3-羟基大马酮
+3,4,5-trichlorophenol	3,4,5-三氯苯酚
+15-tetracosenoic acid	15-二十四碳烯酸
+2,3-dihydrobenzofuran	2,3-二氢苯并呋喃
+2,6,7-trimethyldecane	2,6,7-三甲基癸烷
+sulfide, allyl methyl	烯丙基甲硫醚
+N-phenylhydroxylamine	N-苯基羟胺
+tungsten hexachloride	氯化钨
+2-hydroxybenzoic acid	2-羟苯甲酸
+3-aminohydroxybenzene	3-氨基酚
+ticarcillin/sulbactam	替卡西林/舒巴坦
+pipotiazine palmitate	棕榈哌泊噻嗪
+nefopam hydrochloride	盐酸奈福泮
+danofloxacin mesylate	甲磺酸达氟沙星
+caryophyllene epoxide	石竹烯环氧化物
+3-nitro-1,1'-biphenyl	3-硝基-1,1'-联苯
+4-amino-3-nitrophenol	4-氨基-3-硝基苯酚
+4-methyloctanoic acid	4-甲基辛酸
+4-nitrobenzyl bromide	4-硝基苄基溴
+2-methyl methacrylate	2-甲基丙烯酸甲酯
+dinonyl diphenylamine	壬基二苯胺
+hexafluoroisopropanol	六氟异丙醇
+butyl hydroxy toluene	丁羟基甲苯
+4,6-dimethyl-dodecane	4,6-二甲基-十二烷
+3-methyl-5-hexen-3-ol	3-甲基-5-己烯-3-醇
+m-hydroxybenzaldehyde	间羟基苯甲醛
+piperaquine phosphate	磷酸哌喹
+ethyl-9-hexadecenoate	乙基-9-十六碳烯酸酯
+tert-butylcyclohexane	叔丁基环己烷
+benzethonium chloride	苄索氯铵
+2,3,4-trichlorophenol	2,3,4-三氯苯酚
+1,3-cyclopentanedione	1,3-环戊二酮
+3-methyl-3-enebutanol	3-甲基-3-烯丁醇
+octafluoronaphthalene	八氟萘
+p-acetoxybenzoic acid	对乙酰氧基苯甲酸
+phosphotransacetylase	磷酸转移酶
+peptide-N-glycanase F	肽N-糖苷酶F
+imazamethabenz-methyl	咪草酸
+isobutylnonyl oxalate	草酸异丁基壬基酯
+1-methylene-1H-indene	1-亚甲基-1H-茚
+octenyl succinic acid	辛烯基琥珀酸
+saponified oleic acid	皂化油酸
+daucosterol palmitate	胡萝卜苷棕榈酸酯
+α-amino acid nitrogen	α-氨基酸态氮
+nickel phthalocyanine	酞菁镍
+methoxyl-phenyl-oxime	甲氧基-苯基-肟
+3-mercapto-2-butanone	3-巯基-2-丁酮
+3-Phenoxybenzaldehyde	间苯氧基苯甲醛
+[E,E]-farnesylacetone	[E,E]-法呢丙酮
+potassium pyrosulfate	焦硫酸钾
+4,4'-dichlorobiphenyl	4,4'-二氯联苯
+4-methylaminopyridine	4-甲氨基吡啶
+2-aminonicotinic acid	2-氨基烟酸
+2-benzenethyl formate	甲酸-2-苯乙酯
+sodium fluorosilicate	氟硅酸钠
+benzocycloheptatriene	苯并环庚三烯
+3-butyl-1-cyclohexene	3-丁基-1-环己烯
+methylethoxylsilicone	甲基乙氧基硅油
+polyaluminum chloride	聚氯化铝
+pseudoginsenoside-F11	人参皂苷F11
+trimethylphenanthrene	三甲基菲
+isochlorogenic acid B	异绿原酸B
+lauric aciddibutyltin	月桂酸二丁基锡
+prostacyclin synthase	前列环素合成酶
+17-pentatriacontanene	17-三十五烷烯
+3-methyl benzoic acid	3-甲基苯甲酸
+methyltrichlorosilane	甲基三氯硅烷
+ethyl hydroxybenzoate	羟苯乙酯
+exo-polygalacturonase	外切多聚半乳糖醛酸酶
+benzyl glycidyl ether	苄基缩水甘油醚
+bromobutanedioic acid	溴代丁二酸
+casein phosphopeptide	酪蛋白磷酸肽
+7β-hydroxycholesterol	7β-羟基胆固醇
+Glycidyl phenyl ether	苯基缩水甘油醚
+zinc phosphotungstate	磷钨酸锌
+trisulfide, dimethyl-	二甲基三硫化物
+tosufloxacin tosylate	甲苯磺酸妥舒沙星
+diisopropyl carbonate	碳酸二异丙酯
+butyl butyryl lactate	丁酰乳酸丁酯
+chloroacetyl chloride	氯乙酰氯
+clopidogrel bisulfate	硫酸氢氯吡格雷
+(Z)-3-hexenyl acetate	乙酸-(Z)-3-己烯酯
+manganese perchlorate	高氯酸锰
+trans-2-hexenoic acid	反式-2-己烯酸
+3-ethyl-1,4-hexadiene	3-乙基-1,4-己二烯
+4-methyl-2-hexanamine	4-甲基-2-己胺
+2,3-epoxy-beta-ionone	2，3-环氧-beta-紫罗酮
+1,3-diphenyl-1-butene	1,3-二苯基-1-丁烯
+4-propyl benzaldehyde	4-丙基安息香醛
+methyl tetradecanoate	十四酸甲酯
+2H-1-benzopyran-2-one	2H-1-苯并吡喃-2-酮
+tribromooxyphosphorus	三溴氧磷
+1-cyclopropyl-ethanol	1-环丙基乙醇
+3-bromopropionic acid	三溴丙酸
+3-methoxybenzaldehyde	3-甲氧基苯甲醛
+1,1-dimethylhydrazine	偏二甲肼
+(Z)-8-methyl-2-decene	(Z)-8-甲基-2-癸烯
+vitamin A, deficiency	维生素A缺乏
+polyvinyl pyrrolidone	聚乙烯基吡咯烷酮
+glycidyl methacrylate	甲基丙烯酸缩水甘油酯
+acetylastragaloside I	乙酰黄芪皂苷I
+glucose dehydrogenase	葡萄糖脱氢酶
+tribasic lead sulfate	三盐基硫酸铅
+mannan-binding lectin	甘露聚糖结合凝集素
+tertbutyl perbenzoate	过苯甲酸叔丁酯
+acetylbritannilactone	旋覆花素
+2-methyl-7-nonadecene	2-甲基-7-十九碳烯
+ethyl 2-oxopropanoate	2-氧代丙酸乙酯
+dimethyl tetrasulfide	二甲基四硫醚
+4-ethyl-3-nonen-5-yne	4-乙基-3-壬烯-炔
+trimellitic anhydride	偏苯三酸酐
+solifenacin succinate	琥珀酸索非那新
+N,N-diethylacrylamide	N,N-二乙基丙烯酰胺
+1-phenoxy-2-propanone	1-苯氧基-2-丙酮
+4-nitro-1,1'-biphenyl	4-硝基-1,1'-联苯
+5'-guanine nucleotide	5'-鸟苷酸
+2-methyl-3-furanthiol	2-甲基-3-呋喃硫醇
+basic copper chloride	碱式氯化铜
+polyoxyethylene ether	聚氧乙烯醚
+silicon tetrachloride	四氯化硅
+dibutyltin dichloride	二氯二丁基锡
+3,4-dehydro-β-irisone	3,4-脱氢-β-紫罗兰酮
+piperonylketone oxide	氧化胡椒酮
+megastigmatrienone II	巨豆三烯酮II
+isopropyl naphthalene	异丙基萘
+titanium silicalite-1	钛硅-1
+triacetyl gallic acid	三乙酰没食子酸
+1,2-dimethylhydrazine	二甲肼
+3,4-dimethyl-1-decene	3,4-二甲基-1-癸烯
+glyceryl monostearate	单硬脂酸甘油酯
+octadecatrienoic acid	十八碳三烯酸
+2,4-dimethyl-1-decane	2,4-二甲基-1-癸烷
+2,3,5-trichlorophenol	2,3,5-三氯苯酚
+2-methylcyclopentanol	2-甲基环戊醇
+acrylate polyurethane	丙烯酸酯聚氨酯
+4-hydroxyacetophenone	对羟基苯乙酮
+potassium thiocyanate	硫氰酸钾
+spleen aminopeptidase	脾氨肽
+magnesium perchlorate	高氯酸镁
+L-arabinose isomerase	L-阿拉伯糖异构酶
+methyl heptadecanoate	十七酸甲酯
+mercaptobenzothiazole	巯基苯并噻唑
+potassium tetraborate	四硼酸钾
+3-methyl-diadamantane	3-甲基双金刚烷
+3-ethyl-1,5-octadiene	3-乙基-1,5-辛二烯
+nitroblue tetrazolium	氮蓝四唑
+tetrahydronaphthalene	四氢萘
+glycerol monostearate	单甘脂
+1,4-dimethoxy benzene	1,4-二甲氧基苯
+3-butylcyclopentanone	3-丁基环戊酮
+n-phenyl-propionamide	n-苯基-丙酰胺
+γ-hydroxybutyric acid	γ羟基丁酸
+1,3,5-cyclooctatriene	1,3,5-环辛三烯
+chondroitin sulfate-A	硫酸软骨素A
+cyclohexyl propionate	丙酸环己酯
+3-methyl-benzaldehyde	3-甲基-苯甲醛
+2,6-dimethyl-pyrazine	2，6-二甲基-吡嗪
+1,3,5-triethylbenzene	1,3,5-三乙基苯
+chavicol methyl ether	胡椒酚甲醚
+lasofoxifene tartrate	酒石酸拉索昔芬
+glycodeoxycholic acid	甘氨脱氧胆酸
+genipin gentiobioside	京尼平龙胆双糖苷
+1,1,2-trichloroethene	1,1,2-三氯乙烯
+quercetin galactoside	槲皮素-半乳糖苷
+nanotube titanic acid	纳米管钛酸
+dimethylpalmitylamine	二甲基棕榈基胺
+4-methyl-diadamantane	4-甲基双金刚烷
+methane monooxygenase	甲烷单加氧酶
+α-isopentanolateethyl	α-异戊醇酸乙酯
+histone deacetylase 1	组蛋白去乙酰化酶1
+2,5-ditertbutylphenol	2,5-二叔丁基苯酚
+candesartan cilexetil	坎地沙坦酯
+potassium thioacetate	硫代乙酸钾
+diisopropyl succinate	丁二酸二异丙酯
+benzylbutyl phthalate	邻苯二甲酸苄基丁基酯
+2,6-dimethyl-pyridine	2，6-二甲基-吡啶
+1-cyclopropyl propane	1-环丙基丙烷
+(E)-1,3-butadien-1-ol	(E)-1,3-丁二烯-1-醇
+(E,Z)-2,4-heptadienal	(E,Z)-2,4-庚二烯醛
+2-hydroxyphenanthrene	2-羟基菲
+phosphate, dihydrogen	磷酸二氢根
+methylthiocyclohexane	甲硫基环己烷
+loteprednol etabonate	氯替泼诺
+leucine dehydrogenase	亮氨酸脱氢酶
+hyaluronan synthase 2	透明质酸合成酶2
+synthase, thymidylate	胸苷酸合酶
+20(S)-ginsenoside Rg3	20(S)-人参皂苷Rg3
+ethanol, ethyleneoxyl	2-乙烯氧基乙醇
+Carboxymethyl chitosan	羧甲基壳聚糖
+doxapram hydrochloride	盐酸多沙普仑
+2-methyl-cyclobutanone	2-甲基-环丁酮
+titanium tetrachloride	四氯化钛
+ion-sulfur nanocluster	铁硫簇
+isooctyl chloroacetate	氯乙酸异辛酯
+β-sitosterol glucoside	β-谷甾醇葡萄糖苷
+2,3,6-trimethylaniline	2,3,6-三甲基吡啶
+aflatoxin-detoxifizyme	黄曲霉毒素解毒酶
+5-chlorosalicylic acid	5-氯水杨酸
+5-nitrosalicylaldehyde	5-硝基水杨醛
+dibenzylidene sorbitol	二亚苄基山梨糖醇
+indeno[1,2,3-cd]pyrene	茚并[1,2,3-cd]芘
+sodium octanesulfonate	辛烷磺酸钠
+ethyl dichloroaluminum	二氯乙基铝
+(+)-(E)-limonene oxide	(+)-(E)-柠檬烯氧化物
+4,6-dichloropyrimidine	4,6-二氯嘧啶
+peonidin-3-O-glucoside	甲基花青素-3-O-葡萄糖苷
+2,3,5-trimethyl phenol	2,3,5-三甲酚
+propane, 2,2-diethoxy-	2,2-二乙氧基丙烷
+tricyclohexylphosphine	三环己基膦
+3-acetyloleanolic acid	3-乙酰齐墩果酸
+cis-3-hexenolhexanoate	顺-3-己烯醇己酸酯
+compound sulphonamides	磺胺复合物
+heptane, 3,4-dimethyl-	3,4-二甲基庚烷
+2-hydroxy-benzaldehyde	2-羟基-苯甲醛
+2-amino-4-nitrotoluene	2-氨基-4-硝基甲苯
+3-pyridinecarbonitrile	3-吡啶腈
+gamma-octanoic lactone	丙位辛内酯
+hydrolyzation nitrogen	水解氮
+tert-amyl methyl ether	甲基叔戊基醚
+methylmercury chloride	氯化甲基汞
+monochlorodibromethane	一氯溴甲烷
+p-chlorobenzylchloride	对氯氯苄
+hydroxypropyl acrylate	丙烯酸羟丙酯
+Hexadecyl methacrylate	甲基丙烯酸十六酯
+Lyase, chondroitin ABC	软骨素酶ABC
+3-heptanone, 4-methyl-	4-甲基-3-庚酮
+20 (S)-protopanaxadiol	20 (S)-原人参二醇
+bacillus thuringiensis	B. t. 生物杀虫剂
+1,1'-diacetylferrocene	1,1'-二乙酰基二茂铁
+p-fluorinebromobenzene	对氟溴苯
+isonicotinyl hydrazide	异烟酰肼
+trimanganese tetroxide	四氧化三锰
+3-Mercapto-2-pentanone	3-巯基-2-戊酮
+4-bromo-2-nitrotoluene	4-溴-2-硝基甲苯
+1,3-dihydroxy xanthone	1,3-二羟基山酮
+Aminopeptidase, leucyl	亮氨酰氨肽酶
+arginine decarboxylase	精氨酸脱氢酶
+methyl allyl disulfide	烯丙基甲基二硫醚
+tert-butylmethacrylate	甲基丙烯酸叔丁酯
+vinyl chloride monomer	氯乙烯单体
+potassium fluotitanate	氟钛酸钾
+vitamin D, 25-hydroxy-	25羟基维生素D
+trimethyl orthoformate	三甲基原甲酸酯
+cyanidin-3-galactoside	矢车菊素-3-半乳糖苷
+4-methyl-3-penten-1-ol	4-甲基-3-戊烯-1-醇
+2-bromoethanesulfonate	2-溴乙烷磺酸盐
+1,2-dimethyl hydrazine	1,2-二甲基肼
+buthionine sulfoximine	丁胱亚磺酰亚胺
+methyl 2-octadecenoate	2-十八烯酸甲酯
+D-alanine methyl ester	D-丙氨酸甲酯
+4'-hydroxy-mephenytoin	4'-羟基美芬妥英
+2,5-dimethyl thiophene	2,5-二甲基噻吩
+2-methyl-cyclopentanol	2-甲基-环戊醇
+2,3,6-trimethyl-octane	2,3,6-三甲基辛烷
+21-hydroxypregnenolone	21-羟基孕烯醇酮
+prazosin hydrochloride	盐酸哌唑嗪
+fasting plasma glucose	空腹血浆葡萄糖
+O-desmethylvenlafaxine	甲文拉法辛
+methyl 5-octadecenoate	5-十八碳烯酸甲酯
+2-methyl butyraldehyde	2-甲基丁醛
+dipeptidyl peptidase-4	二肽基肽酶-4
+ethyl 2-methoxyacetate	2-甲氧基乙酸乙酯
+pectin methyl esterase	果胶甲基酯酶
+β-monomethyl itaconate	β-衣康酸单甲酯
+opiomelanocortin, pro-	阿片促黑素皮质激素原
+4-methyl-cyclohexanone	4-甲基-环己酮
+D-camphorsulfonic acid	D-樟脑磺酸
+ligustrazine phosphate	磷酸川芎嗪
+osteoprotegerin ligand	骨保护素配体
+aldehyde dehydrogenase	醛脱氢酶
+2-methyl-1-penten-3-ol	2-甲基-1-戊烯-3-醇
+7,8-dimethylalloxazine	7,8-二甲基咯嗪
+m-methoxy acetophenone	间甲氧基苯乙酮
+glycerin monocaprylate	单辛酸甘油酯
+methyl 7-octadecenoate	7-十八碳烯酸甲酯
+n-octyltriethoxysilane	正辛基三乙氧基硅烷
+n-propyl chloroformate	氯甲酸正丙酯
+1H-cycloprop[e]azulene	1H-环丙基[e]甘菊环烃
+1,2,4-trichlorobenzene	1，2，4-三氯苯
+3-heptanone, 5-methyl-	5-甲基-3-庚酮
+3'-dephosphocoenzyme A	3'-脱磷酸辅酶A
+4-acetoxy benzoic acid	4-乙酰氧基苯甲酸
+cis-3-hexenyl benzoate	苯甲酸叶醇酯
+calcium citrate malate	果酸钙
+4-hydroxy-butyric acid	γ-羟丁酸
+3-ethyl cyclopentanone	3-乙基环戊酮
+2-chloropropionic acid	2-氯丙酸
+3-methyl cyclopentanol	3-甲基环戊醇
+2,3,5-trimethyl-decane	2,3,5-三甲基-癸烷
+N-dimethyl nitrosamine	N-二甲基亚硝胺
+polyglycolmethyl ether	聚乙二醇甲醚
+2-methyl butanoic acid	2-甲基丁酸
+docosatetratenoic acid	二十二碳四烯酸
+cyanidin-3-arabinoside	矢车菊素-3-阿拉伯糖苷
+dihydric phosphate ion	磷酸二氢根离子
+4-methyl benzemethanol	4-甲基-苯甲醇
+2-one-isohexanoic acid	2-酮-异己酸
+3,7-dimethyl-6-octenal	3，7-二甲基-6-辛烯醛
+methylthio acetic acid	甲基硫代乙酸
+n-dotriacontyl alcohol	正三十二烷醇
+2,3,4-trimethyl-hexane	2,3,4-三甲基己烷
+3-methyl-2,3-(2H)furan	3-甲基2,3-(2H)呋喃
+2-pyrazinylethanethiol	乙硫基吡嗪
+dimethyldichlorosilane	二甲基二氯硅烷
+megastigmatrienone III	巨豆三烯酮III
+N-acetyl-β-glucosidase	N-乙酰-β-葡萄糖苷酶
+naphthalene, 1-methyl-	1-甲基萘烷
+pentadecane, 5-methyl-	5-甲基十五烷
+ethyl 2-ethylhexanoate	2-乙基己酸乙酯
+3-(2-furan)-2-acrolein	3-(2-呋喃)-2-丙烯醛
+2-oxo methyl hexanoate	2-氧代己酸甲酯
+ethyl tert-butyl ether	乙基叔丁基醚
+Norethisterone acetate	醋酸炔诺酮
+phenylacetyl choloride	苯乙酰氯
+salicylhydroxamic acid	水杨羟肟酸
+trimethylene carbonate	三亚甲基碳酸酯
+chrysanthemyl chloride	菊酰氯
+chikusetsusaponin IV a	竹节参皂苷IV a
+3-buten-1-ol, 2-methyl	2-甲基-3-丁烯-1-醇
+4-acetamidoantipyrinyl	4-乙酰氨基安替比林
+4-Amino-3-chlorophenol	4-氨基-3-氯苯酚
+bendazol hydrochloride	盐酸地巴唑
+2-pentylcyclopentanone	2-戊基环戊酮
+N,N-dimethyldodecamide	N,N-二甲基十二酰胺
+heptamethyltrisiloxane	七甲基三硅氧烷
+polyacrylamide-pyrrole	聚丙烯酰吡咯
+pentacosacarbonic acid	二十五碳酸
+itopride hydrochloride	盐酸伊托必利
+(2E)-2,7-octadien-1-ol	(2E)-2,7-辛二烯-1-醇
+3-furan-methyl acetate	3-呋喃甲基乙酸酯
+butylidene cyclohexane	丁烯基环己烷
+bromocriptine mesylate	甲磺酸溴隐亭
+methyl isobutyl ketone	甲基异丁基酮
+2,3,8-trimethyl-decane	2,3,8-三甲基-癸烷
+5-methyl-1,4-hexadiene	5-甲基-1,4-己二烯
+3,3,4-trimethylheptane	3,3,4-三甲基庚烷
+polyether glycol 20000	聚乙二醇20000
+2-ethyl-5-methylphenol	2-乙基-5-甲基苯酚
+apigenin-7-O-glucoside	芹菜素-7-O-葡萄糖苷
+Placenta growth factor	胎盘生长因子
+tetrahydrophenanthrene	四氢菲
+aluminum hypophosphite	次磷酸铝
+1-N-ethyl-micronomicin	1-N-乙基小诺霉素
+2-methyl benzothiazole	2-甲基苯并噻唑
+estramustine phosphate	雌二醇氮芥
+diphenylpicrylhydrazyl	二苯代苦味酰自由基
+cis-3-hexenolbutanoate	顺-3-己烯醇丁酸酯
+cis-3-hexenyl butyrate	丁酸-顺-3-己烯酯
+para-terephthalic acid	精对苯二甲酸
+α-methylcinnamaldehyde	α-甲基肉桂醛
+chlorphenamine maleate	马来酸氯苯那敏
+copper acetylacetonate	乙酰丙酮铜
+dextran sulfate sodium	葡聚糖硫酸钠
+2-allyl-4-methylphenol	2-烯丙基-4-甲基苯酚
+4-ethyldiphenylmethane	4-乙基二苯基甲烷
+adenylosuccinate lyase	腺苷琥珀酸裂解酶
+methylhydroxy chalcone	甲基查尔斯多酮
+Iron, 2-Ethylhexanoate	2-乙基己酸铁
+p-amino salicylic acid	对氨基水杨酸
+D-sodium isoascorbiate	异Vc钠
+E-9-tetradecenoic acid	E-9-十四碳烯酸
+1,2-Dihydronaphthalene	1,2-二氢萘
+2-methyl-1-pentadecene	2-甲基-1-十五烯
+2-hydroxypropylnitrile	2-羟基丙腈
+mannan oligosaccharide	甘露寡糖
+4-coumarate:CoA ligase	4-香豆酸辅酶A连接酶
+2-methyl-6-hepten-3-ol	2-甲基-6-庚烯-3-醇
+adamantane acetic acid	金刚烷乙酸
+adenosine triphosphate	三磷酸腺苷
+butyl 2-methyl acetate	2-甲基-2-乙酸-丁酯
+di-epi-cedrene-1-oxide	双表柏木烯-1-氧化物
+2-acetylcyclopentanone	2-乙酰环戊酮
+levamlodipine besylate	苯磺酸左旋氨氯地平
+malvidin-3-arabinoside	锦葵色素-3-阿拉伯糖苷
+trypsin inhibitor, α1-	alpha1抗胰蛋白酶
+trifluoromethylbenzene	三氟甲基苯
+2,5,5-trimethylheptane	2,5,5-三甲基庚烷
+2-methyl-3-pentylthiol	2-甲基-3-戊基硫醇
+10-methyl-9-nonadecene	10-甲基-9-十九烯
+3-phenoxy benzaldehyde	3-苯氧基苯甲醛
+ethyl 2-hydroxyacetate	2-羟基乙酸乙酯
+ketorolac tromethamine	酮咯酸氨丁三醇
+morphine hydrochloride	盐酸吗啡
+α-bromoarylethylketone	α-溴代芳基乙酮
+6,9-pentadecadien-1-ol	6，9-十五碳二烯-1-醇
+molybdenum naphthenate	环烷酸钼
+2,5-dimethyl-3-hexanol	2,5-二甲基-3-己醇
+(-)-caryophyllene-(II)	(-)-石竹烯-(II)
+(Z)-3-heptadecen-5-yne	(Z)-3-十七烯－5-炔
+3-phenylpropionic acid	3-苯丙酸
+4-ethylbenzenemethanol	4-乙基苯甲醇
+trans-methyl crotonate	3-氨基巴豆酸甲酯
+peroxidase, isoenzymes	POD同工酶
+1-vinyl-cyclododecanol	1-乙烯基-环十二醇
+2,4,6-trichloroaniline	2,4,6-三氯苯胺
+penicillin G sulfoxide	青霉素G亚砜酸
+lithium iron phosphate	硫酸亚铁锂
+tetradecatrienoic acid	十四碳三烯酸
+Z-9-tetradecenoic acid	顺式-9-十四烯酸
+cis-1,2-dichloroethene	顺-1,2-二氯乙烯
+phenylmercuric acetate	醋酸苯汞
+acetylcholine chloride	氯化乙酰胆碱
+1,3,5-trimethylbenzene	均三甲苯
+2,4,6-trimethyl-octane	2,4,6-三甲基辛烷
+hydrocortisone acetate	醋酸氢化可的松
+monoammonium phosphate	磷酸一铵
+p-allyloxybenzoic acid	对烯丙氧基苯甲酸
+methylsulfonic acidtin	甲基磺酸亚锡
+2-methyl-trans-decalin	2-甲基-反萘烷
+2,4-dichloropyrimidine	2,4-二氯嘧啶
+3,7-dimethyl-3-octanol	3,7-二甲基-3-辛醇
+2,3,5-trimethyl-hexane	2,3,5-三甲基己烷
+indene[1,2,3-cd]pyrene	茚[1,2,3-cd]芘
+polyaluminocarbosilane	聚铝碳硅烷
+ammonium ceric sulfate	硫酸铈铵
+diethyl L-(+)-tartrate	L-(+)-酒石酸二乙酯
+p-fluorinebenzonitrile	对氟苯甲腈
+methyltriacetoxysilane	甲基三乙酰氧基硅烷
+hexanal, 3,3-dimethyl-	3,3-二甲基己醛
+glutathione synthetase	谷胱甘肽合成酶
+citronella isovalerate	异戊酸香茅酯
+2,5,6-trimethyl octane	2,5,6-三甲基辛烷
+2-methyl-6-hepten-1-ol	2-甲基-6-庚烯-1-醇
+2-keto-D-gluconic acid	2-酮基-D-葡萄糖酸
+1,1,3-triethoxypropane	1，1，3-三乙氧基丙烷
+phosphorylethanolamine	磷酸乙醇胺
+sulfonated polysulfone	磺化聚砜
+4-methyl-1-cyclohexene	4-甲基-1-环己烯
+hafnium chloride oxide	氧氯化铪
+N,N-dibutylcarboxamide	N,N-二丁基甲酰胺
+methyl 2-bromobutyrate	2-溴丁酸甲酯
+zinc protoporphyrin IX	锌原卟啉IX
+2,3-diaminonaphthalene	2,3-二氨基萘
+2,6,8-trimethyl-decane	2,6,8-三甲基-癸烷
+chrysophanol glucoside	大黄酚葡萄糖苷
+butyltetradeca sulfite	亚硫酸丁基十四酯
+(5Z)-octa-1,5-dien-3-ol	(5Z)1,5- 辛二烯-3-醇
+poly-8-hydroxyquinoline	聚8-羟基喹啉
+4-methyl-5H-furan-2-one	4-甲基-5H-呋喃-2-酮
+α-amylase, thermostable	高温淀粉酶
+nonanoic acid, 4-methyl	4-甲基壬酸
+(Z)-9-octadecenoic acid	(Z)-9-十八碳烯酸
+1-acetyloxy-2-propanone	1-乙酰基-2-丙酮
+2-chloro-6-nitrotoluene	2-氯-6-硝基甲苯
+diisobutyl butanedioate	二异丁基丁二酸酯
+formamide, N,N-diethyl-	N,N-二乙基甲酰胺
+bisphenol A epoxy resin	双酚A型环氧树脂
+palmatine hydrochloride	盐酸巴马汀
+scutellarin ethyl ester	灯盏乙素乙酯
+sodium heptanesulfonate	庚烷磺酸钠
+Z-resveratrol glucoside	Z-白藜芦醇葡萄糖苷
+ethyl 4-methoxybenzoate	4-甲氧基苯甲酸乙酯
+hydroxypropyl cellulose	羟丙基纤维素
+2-methyl-3-butenyl-2-ol	2-甲基-3-丁烯基-2-醇
+2,5-diisobutylthiophene	2,5-二异丁基噻吩
+methyl methanesulfonate	甲磺酸甲酯
+triadecane,4-cyclohexy-	4-环己基-十三烷
+indole-3-earboxaldehyde	3-吲哚甲醛
+chlorinated paraffin-52	氯化石蜡-52
+B lymphocyte stimulator	B淋巴细胞刺激因子
+buspirone hydrochloride	盐酸丁螺环酮
+polymethylgalacturonase	聚甲基半乳糖醛酸酶
+decylisobutyl phthalate	邻苯二甲酸癸基异丁酯
+2',4'-dihydroxychalcone	2',4'-二羟基查尔酮
+4-cyclohexyl-2-butanone	4-环己基-2-丁酮
+1,2,4-trimethyl benzene	1,2,4-三甲苯
+zirconium tetrachloride	四氯化锆
+pyridine-2-formaldehyde	吡啶-2-甲醛
+methoxy ethylene glycol	乙二醇单甲醚
+2',3'-epoxyanisolactone	黄皮素内酯II
+2-isopropylbenzaldehyde	2-异丙基苯甲醛
+chondroitin polysulfate	多硫酸软骨素
+Dodecyltrimethoxysilane	十二烷基三甲氧基硅烷
+hexafluorinedianhydride	六氟二酐
+(2Z)-2-phenyl-2-butenal	(2Z)-2-苯基-2-丁烯醛
+1,4-butanedioldiacetate	1,4-丁二醇二乙酸酯
+12-octadecadienoic acid	12-十八碳烯酸
+2,3,5-trimethylpyrazine	2,3，5-三甲基吡嗪
+2-methyl-5-nitroaniline	2-甲基-5-硝基苯胺
+methylophiopogonanone B	甲基麦冬黄烷酮B
+oxycodone-acetaminophen	氨酚羟考酮
+3,6-dimethyl-4-octanone	3,6-二甲基-4-辛酮
+2-chloro-4-nitroaniline	2-氯-4-硝基苯胺
+1,2-biscyclohexylethane	1,2-双环己基乙烷
+sodium α-anylsulfonoate	α-烷基磺酸钠
+α-pentyl-γ-butyllactone	α-戊基-γ-丁内酯
+N-methyl-4-piperidinone	N-甲基-4-哌啶酮
+2-ethoxy-3-chlorobutane	2-乙氧基-3-氯丁烷
+dimethyldithiophosphate	二甲基二硫代磷酸酯
+2,4,6-triphenylpyridine	2,4,6-三苯基吡啶
+1-bromo-3-chloropropane	1-溴-3-氯丙烷
+2-methyl-Z-7-hexadecene	2-甲基-Z-7-十六烯
+testosterone undecanote	十一酸睾丸酮
+potassium metabisulfite	焦亚硫酸钾
+14-methyl-palmitic acid	14-甲基-棕榈酸
+Bronze, aluminum nickel	镍铝青铜
+diaminodiphenyl sulfone	二氨基二苯砜
+reactive oxygen species	活性氧
+o-hydroxybenzeneethanol	邻羟基苯乙醇
+propanediolpropyl ether	丙二醇丙醚
+methyl 3-methylbenzoate	3-甲基苯甲酸甲酯
+phenol, 4-(2-propenyl)-	4-(2-丙烯基)苯酚
+9,12,15-octadecatrienal	9,12,15-十八碳三烯醛
+berberine hydrochloride	盐酸小檗碱
+verapamil hydrochloride	盐酸维拉帕米
+2-cyclohexyl-1-Propanol	2-环己基-1-丙醇
+petunidin-3-galactoside	牵牛花色素-3-半乳糖苷
+sodium tripolyphosphate	三聚磷酸钠
+cobalt 2-ethylhexanoate	异辛酸钴
+dihydroartemisinic acid	二氢青蒿酸
+vitexin 2"-O-rhamnoside	牡荆素2"-O-鼠李糖苷
+1H-imidazole, 1-acetyl-	1-乙酰基-1H-咪唑
+2-methyl-6-ethyl-decane	2-甲基-6-乙基-癸烷
+indeno(1,2,3-c,d)pyrene	茚并(1,2,3-c,d)芘
+magnesium methylbromide	甲基溴化镁
+tripterygium glycosides	雷公藤多苷
+type M2-pyruvate kinase	M2丙酮酸激酶
+3,4,5-trimethoxyaniline	3,4,5-三甲氧基苯胺
+2-phenylethyl butanoate	丁酸-2-苯乙酯
+berbamine hydrochloride	盐酸小檗胺
+articaine hydrochloride	盐酸阿替卡因
+tissue transglutaminase	组织型谷氨酰转移酶
+polyferric metasilicate	聚合硅酸铁
+dehydrocheilanthifoline	去氢碎叶紫堇碱
+hydromethyl-clenbuterol	羟甲基克伦特罗
+styrene phosphonic acid	苯乙烯磷酸
+trimethoxy-benzaldehyde	三甲氧基苯甲醛
+free tetraiodothyronine	游离四碘甲状腺原氨酸
+1,1-diethoxy isopentane	1,1-二乙氧基异戊烷
+cyanindin-3-galactoside	矢车菊-3-半乳糖苷
+magnesium, exchangeable	交换性镁
+methyl-4-chlorobutyrate	4-氯丁酸甲酯
+starch branching enzyme	淀粉分支酶
+β-acetyl boswellic acid	β-乙酰乳香酸
+chloromethylethyl ether	氯甲基乙醚
+11-aminoundecanoic acid	11-氨基十一酸
+undecane, 2,8-dimethyl-	2,8-二甲基-十一烷
+tanshinol borneol ester	丹参素冰片酯
+1,3-ditertbutyl benzene	1,3-二叔丁基苯
+diacetoxy-4-gingerdione	二乙酰氧基-4-姜二酮
+2-methyl-4-nitroaniline	2-甲基-4-硝基苯胺
+sulfated polysaccharide	多糖硫酸酯
+2-amino-1,3-propanediol	2-氨基-1,3-丙二醇
+6-hydroxyl chlorzoxazon	6-羟基氯唑沙宗
+4-methyl-2(5H)-furanone	4-甲基-2(5H)-呋喃酮
+c-Jun N-terminal kinase	c－Jun N端激酶
+butylisobutyl phthalate	邻苯二甲酸丁异丁酯
+(-)-epicatechin gallate	(-)-表儿茶素没食子酸酯
+potassium hypophosphite	次磷酸钾
+isopentenyl transferase	异戊烯基转移酶
+1-methylethenylpyrazine	1-甲基乙烯基吡嗪
+eudesma-4(14), 11-diene	4(14),11-二烯-桉叶烷
+butyl 3-methyloctanoate	3-甲基辛酸丁酯
+clonidine hydrochloride	盐酸可乐定
+carvacrol, methyl ether	香芹酚甲醚
+4-methylbenzenepropanol	4-甲基苯丙醇
+2-phenylethyl hexanoate	己酸-2-苯乙酯
+3,6'-disinapoyl sucrose	3, 6'-二芥子酰基蔗糖
+3,3,5-trimethyl-heptane	3,3,5-三甲基庚烷
+terazosin hydrochloride	盐酸特拉唑嗪
+2-propanone, 1-hydroxy-	羟基丙酮
+aminomethylbenzoic acid	氨甲苯酸
+fenthion-oxon-sulfoxide	倍硫磷氧亚砜
+Triphenyl chloromethane	三苯基氯甲烷
+trazodone hydrochloride	盐酸曲唑酮
+p-methoxybenzoylalanine	对甲氧基苯甲酰丙氨酸
+hexyl cinnamic aldehyde	乙基肉桂醛
+propoxycarbazone-sodium	丙苯磺隆
+organic-montmorillonite	有机蒙脱土
+midodrine hydrochloride	盐酸米多君
+3-heptadecen-5-yne, [Z]	3-十七烯-5-炔
+decamethyltetrasiloxane	十甲基四硅氧烷
+2-(ethyleneoxy)-ethanol	2-(乙烯氧基)-乙醇
+glucagon-like peptide 1	胰高糖素样肽
+oleoside dimethyl ester	木犀榄苷二甲酯
+methyl-tert-butyl ether	叔丁基甲基醚
+polymethylvinylsiloxane	聚甲基乙烯基硅氧烷
+trifluoropropanoic acid	三氟丙酸
+2-propanone, 1-methoxy-	1-甲氧基-2-丙酮
+erlotinib hydrochloride	盐酸厄洛替尼
+eslicarbazepine acetate	醋酸艾司利卡西平
+fragile histidine triad	脆性组氨酸三联体
+3,4,5-trimethoxytoluene	3,4,5-三甲氧基甲苯
+spasmolytic polypeptide	解痉多肽
+hexamethylphosphoramide	六甲基磷酰三胺
+3,5-di-tert-butylphenol	3,5-二叔丁基苯酚
+N-propylethylenediamine	N-丙基乙二胺
+purple acid phosphatase	紫色酸性磷酸酶
+3,5-dimethylamphetamine	3,5-二甲基苯丙胺
+6-methyl-5-hepten-2-one	6-甲基-5-庚烯-2-酮
+8-iso-prostaglandin F2a	8-异前列腺素F2a
+betaxolol hydrochloride	盐酸倍他洛尔
+chloroquine diphosphate	二磷酸氯喹
+dimethyl diethoxysilane	二甲基二乙氧基硅烷
+sodium hydrogen sulfide	硫化氢钠
+chlorhexidine diacetate	醋酸洗必泰
+acetoxydihydrocarvacryl	乙酸二氢香芹酯
+5-pentyl-2(5H)-furanone	5-戊基-2(5H)-呋喃酮
+prednisolone 21-acetate	泼尼松龙醋酸酯
+octabromobiphenyl ether	八溴联苯醚
+(-)-caryophyllene oxide	(-)-石竹烯氧化物
+3-carboaminopropylamine	3-甲氨基丙胺
+2-thiopheneacetonitrile	2-噻吩乙腈
+calcium fluorophosphate	氟磷酸钙
+methylophiopogonanone A	甲基麦冬黄烷酮A
+aromadendrene, dehydro-	脱氢香木兰烯
+Blood platelet factor 4	血小板因子4
+3-lauryl-2,5-furandione	3-十二烷基-2,5-呋喃二酮
+2-methylbutyl hexanoate	2-甲基丁基己酸酯
+5-methyl-2(3H)-furanone	5-甲基-2(3H)-呋喃酮
+polymethyl methacrylate	聚丙烯酸乙酯
+propranolol glucuronide	普萘洛尔葡醛酸苷
+3-methyl cyclopentanone	3-甲基环戊酮
+1,2,3-trimethoxybenzene	1,2,3-三甲氧基苯
+1,3,3-trinitroazetidine	1,3,3-三硝基氮杂环丁烷
+cyclopentanone,2-ethyl-	2-乙基-环戊酮
+butyl 2-methylbutanoate	2-甲基丁酸丁酯
+4-isobutyl acetophenone	4-异丁基乙酰苯
+sodium alkane sulfonate	石油磺酸钠
+undecane, 6,6-dimethyl-	6,6-二甲基十一烷
+1-methyl-3-ethylbenzene	1-甲基-3-乙基苯
+2-(methoxymethyl)-furan	2-(甲氧基甲基)-呋喃
+2,4,6-trimethoxytoluene	2,4,6-三甲氧基甲苯
+5-amino-1-ethylpyrazole	5-氨基-1-乙基吡唑
+isobutyl isothiocyanate	异丁基异硫氰酸酯
+lactate dehydrogenase x	乳酸脱氢酶X
+2-aminodiphenyl sulfide	2-氨基二苯硫醚
+p-anisamidobutyric acid	对甲氧基苯甲酰基丁酸
+adenosine monophosphate	一磷酸腺苷
+tertbutylglycerol ether	叔丁基甘油醚
+tris(2-aminoethyl)amine	三(2-氨基乙基)胺
+succinate dehydrogenase	琥珀酸脱氢酶
+indeno[1,2,3-c,d]pyrene	茚并[1,2,3-c,d]芘
+hyperbranched polyester	超支化聚酯
+2,6-dimethyl-4-enanthol	2,6-二甲基-4-庚醇
+3-methyl-6-propylphenol	3-甲基-6-丙基苯酚
+carbon, organic, active	活性有机碳
+2,3-dimethyl-3-pentanol	2,3-二甲基-3-戊醇
+o-methoxy-cinnamic acid	邻甲氧基桂皮酸
+lidocaine hydrochloride	盐酸利多卡因
+acetylferuloyl chloride	乙酰阿魏酰氯
+gluconic acid-δ-lactone	葡萄糖酸-δ-内酯
+3-butenyl isothiocyanate	3-丁烯基异硫氰酸酯
+trimethylphosphine oxide	三甲基氧膦
+psoralen-isobavachalcone	补骨脂乙素
+3-methyl-2-(5H)-furanone	3-甲基-2-(5H)-呋喃酮
+11-keto-β-boswellic acid	11-羰基-β-乳香酸
+dephinidin-3-O-glucoside	花翠素-3-O-葡萄糖苷
+polyvinylpolypyrrolidone	交联聚维酮
+hydrazin dihydrochloride	盐酸联氨
+2-methoxy-4-ethyl-phenol	2-甲氧基-4-乙基-苯酚
+tetraethylidenepentamine	四亚乙基五胺
+titanium aluminium alloy	钛铝合金
+isoaromadendrene epoxide	异香橙烯环氧化物
+dimethylolpropionic acid	双羟甲基丙酸
+2-tertbutylcyclopropanol	2-叔丁基环丙醇
+1-nitro-3-aminoguanidine	1-硝基-3-氨基胍
+hydrazinium nitroformate	硝仿肼
+p-tert-butylbenzaldehyde	对叔丁基苯甲醛
+trans-2-methyl-2-pentene	反-2-甲基-2-戊烯
+2-methoxytetrahydrofuran	2-甲氧基四氢呋喃
+1,8-dimethyl-naphthalene	1,8-二甲基-萘
+1,13-tetradecadien-3-one	1,13-十四碳二烯-3-酮
+2-methyl-propionaldehyde	2-甲基-丙醛
+cobalt azaphthalocyanine	氮杂酞菁钴
+ethyl pentadecanoic acid	十五酸乙酯
+propionic acid hydrazide	丙酰肼
+Z,Z-10,12-hexadecadienal	Z,Z-10,12-十六碳二烯醛
+9,12-dienoctadecoic acid	9,12-二烯十八酸
+2,3-dimethylphenanthrene	2,3-二甲基菲
+hepatocyte growth factor	肝细胞生长因子
+benzo[g,h,i]fluoranthene	苯并[g,h,i]荧蒽
+2-hydroxy-ethylhydrazine	β-羟乙基肼
+3-ethoxy-1,2-propanediol	3-乙氧基-1,2-丙二醇
+4,4-dimethoxy-2-butanone	4,4-二甲氧基-2-丁酮
+oleoside 11-methyl ester	木犀榄苷-11-甲酯
+luteolin-7-O-glucuronide	木犀草素-7-O-葡糖苷酸
+2-methylpropyl mercaptan	2-甲基丙硫醇
+3-methyl-1-butanoic acid	3-甲基-1-丁酸
+4-pentenyl glucosinolate	4-戊烯基硫代葡萄糖苷
+benzyl p-hydroxybenzoate	对羟基苯甲酸苄酯
+erythromycin demethylase	红霉素N-脱甲基酶
+substituted benzaldehyde	取代苯甲醛
+epoxy-α-terpenyl acetate	环氧-α-萜烯基乙酸酯
+coumarin-3-ethyl formate	香豆素-3-甲酸乙酯
+phosphorus pentachloride	五氯化磷
+magnesium, bromoethenyl-	乙烯基溴化镁
+benzenesulfonyl chloride	苯磺酰氯
+1,10-didehydroaristolane	1,10-二去氢土青木香烷
+stigmasta-7,22-dien-3-ol	豆甾-7,22-二烯-3-醇
+quercetin-3-O-rutinoside	槲皮素-3-O-芸香糖苷
+4-methylbenzoyl chloride	4-甲基苯甲酰氯
+cis-3-hexenolisovalerate	顺－3－己烯醇异戊酸酯
+2-(oxo-octadecyl)ethanol	2-(氧代十八烷基)乙醇
+3-cyclohexene-1-propanal	3-环己烯-1-丙醛
+2-mercaptopropionic acid	2-巯基丙酸
+β-adenosine triphosphate	β-三磷酸腺苷
+methylene bisnonylphenol	甲基偶联双壬基酚
+ethyl-2-hydroxy-benzoate	2-羟基-苯甲酸乙酯
+vancomycin hydrochloride	盐酸万古霉素
+3,5-dimethylcyclohexanol	3,5-二甲基环己醇
+dihydromyricetin acetate	二氢杨梅素乙酸酯
+p-chlorobenzenisocyanate	对氯苯异氰酸酯
+2,4-Dimethyl-3-pentanone	2,4-二甲基-3-戊酮
+azelastine hydrochloride	盐酸氮卓斯丁
+indene(1,2,3-cd)perylene	茚并(1,2,3-cd)苝
+2,4-dimethyl-1,3-dioxane	2,4-二甲基-1,3-二氧杂环乙烷
+acetylhexosaminidase, β-	N-乙酰-β-D 氨基葡萄糖苷酶
+1,2-dimethylcycloheptene	1,2-二甲基环庚烯
+2-aminoterephthalic Acid	2-氨基对苯二甲酸
+2,4-toluene diisocyanate	甲苯2，4-二异氰酸酯
+2,4-dichloronitrobenzene	2,4-二氯硝基苯
+1,1-diphenylhexyllithium	1,1-二苯基己基锂
+3-methyl-2-butenoic acid	3-甲基-2-丁烯酸
+isosorbide 5-mononitrate	5-单硝酸异山梨酯
+1,3-dimethyl cyclohexane	1,3-二甲基环己烷
+1,8-dimethyl naphthalene	1,8-二甲基萘
+cefuroxime sodium/axetil	头孢呋辛钠/酯
+hexanoate-3-hexene ester	己酸-3-己烯酯
+ranolazine hydrochloride	盐酸雷诺嗪
+sinomenine hydrochloride	盐酸青藤碱
+5-methyltetrahydrofolate	5-甲基四氢叶酸
+1,2-dipentylcyclopropene	1,2-二戊基环丙烯
+2,4,5-trimethyl thiazole	2,4,5-三甲基噻唑
+2,4-dinitrochlorobenzene	2,4-二硝基氯苯
+sodium monochloroacetate	氯乙酸钠
+24-methylenecycloartanol	24-亚甲基环阿尔廷醇
+2,7-dimethylphenanthrene	2,7-二甲基菲
+2-chloropyridine-N-oxide	2-氯吡啶-N-氧化物
+2-hydroxyisobutyric acid	2-羟基异丁酸
+acylhomoserine lactonase	酰基高丝氨酸内酯酶
+isobutyl chlorocarbonate	氯甲酸异丁酯
+N,N'-carbonyldiimidazole	N,N'-羰基二咪唑
+22,23-dihydrospinasterol	22,23-二氢波甾醇
+2-chlorobenzoyl chloride	邻氯苯甲酰氯
+2-Methyl-n-butylshikonin	2-甲基正丁酰基紫草素
+2-methyl-2,3-pentanediol	2-甲基-2,3-戊二醇
+kaempferol-3-O-glucoside	山奈酚-3-O-葡萄糖苷
+arotinolol hydrochloride	盐酸阿罗洛尔
+D,L-α-glycerol phosphate	D,L-α-磷酸甘油
+Demeton-S-methyl sulfone	磺吸磷
+butanoate-2-hexene ester	丁酸-2-己烯酯
+ethyl chloroacetoacetate	氯乙酰乙酸乙酯
+methylisothiazoleolinone	甲基异噻唑啉酮
+N-hydroxyethylpiperazine	N-羟乙基哌嗪
+chloromethyl polystyrene	氯甲基化聚苯乙烯
+diethylguanidine nitrate	二乙胍硝酸盐
+cytarabine hydrochloride	盐酸阿糖胞苷
+duloxetine hydrochloride	盐酸度洛西汀
+2,6-dimethyl-3-heptanone	2，6-二甲基-3-庚酮
+3-methyl-5-propyl-nonane	3-甲基-5-丙基-壬烷
+2-chloro-3-aminopyridine	2-氯-3-氨基吡啶
+dichloroisocyanuric acid	二氯异氰尿酸
+buflomedil hydrochloride	盐酸丁咯地尔
+5-methyl-2-aminothiazole	5-甲基-2-氨基噻唑
+o-methoxy-cinnamaldehyde	邻-甲氧基肉桂醛
+2,6-dimethyl-4-heptanone	2,6-二甲基-4-庚酮
+hydrocortisone succinate	琥珀酸氢化考的松
+graphitized carbon black	石墨化炭黑
+amantadine hydrochloride	盐酸金刚烷胺
+fluorinebenzeneimidazole	氟苯咪唑
+4,6-di-t-butylresorcinol	4,6-二叔丁基间苯二酚
+dihydromyricetin laurate	二氢杨梅素月桂酸酯
+6-oxa-thio-octenoic acid	6-氧杂-硫代-辛烯酸
+2-propenyl octadecanoate	十八酸-2-丙烯酯
+sodium pentachlorophenol	五氯苯酚钠
+linolenic acid glyceride	亚麻酸甘油酯
+fluorinated polyacrylate	氟化聚丙烯酸酯
+imidazo[1,2-b]pyridazine	咪唑并[1,2-b]哒嗪
+serine acetyltransferase	丝氨酸乙酰转移酶
+benzoic acid, 4-methoxyl	4-甲氧基苯甲酸
+amiodarone hydrochloride	盐酸胺碘酮
+(1-pentylheptyl)-benzene	(1-戊基庚基)-苯
+1-ethyl-4-methoxybenzene	1-乙基-4-甲氧基苯
+D-arabitol dehydrogenase	D-阿拉伯糖醇脱氢酶
+Cis-3-hexene isovalerate	顺-3-己烯异戊酸酯
+physcion-8-β-D-glucoside	大黄素-6-甲醚-8-β-D-葡萄糖苷
+hexane, 2,2,4-trimethyl-	2,2,4-三甲基己烷
+polyethylene glycol-6000	聚乙二醇-6000
+decarboxylase, glutamate	谷氨酸脱羧酶
+1,3-dioxolane-4-methanol	1,3-二氧戊环-4-甲醇
+lurasidone hydrochloride	盐酸鲁拉西酮
+kaemferol-4'-methylether	3,5,7-三羟基-甲醚黄酮
+3,5,5-trimethyl-2-hexene	3,5,5-三甲基-2-己烯
+3-mercaptopropionic acid	3-巯基丙酸
+glutathione peroxidase-1	谷胱甘肽过氧化物酶-1
+3-fluoro-4-chloroaniline	3-氟-4-氯苯胺
+2-Methoxyethyl phthalate	邻苯二甲酸二甲氧乙酯
+decane, 2,2,5-trimethyl-	2,2,5-三甲基癸烷
+N-acylhomoserine lactone	酰基高丝氨酸内酯
+epinastine hydrochloride	盐酸依匹斯汀
+1-methyl-1,2-propanediol	1-苯基-1,2-丙二醇
+3-acetoxy-oleanolic acid	3-乙酰基齐墩果酸
+perfluorododecanoic acid	全氟十二酸
+p-methylbenzoyl chloride	对甲基苯甲酰氯
+(R,R)-(-)-2,3-butanediol	(R,R)-(-)-2,3-丁二醇
+histidinol dehydrogenase	组氨酸脱氢酶
+hydroxyethylsulfoic acid	羟乙基磺酸
+perfluoro-n-butyric acid	全氟丁酸
+1,3-dihydroisobenzofuran	1，3-二氢异苯并呋喃
+3,4-dimethylnitrobenzene	3,4-二甲基硝基苯
+3,5,5-trimethyl-1-hexene	3,5,5-三甲基-1-己烯
+2-pyridinecarboxaldehyde	2-吡啶甲醛
+propanedioldiethyl ester	丙二醇二乙酯
+N-Acetyl-D-Galactosamine	N-乙酰-D-半乳糖胺
+carboxypeptidase U, pro-	凝血酶激活的纤溶抑制物
+flavonoid 3'-hydroxylase	类黄酮3'-羟化酶
+2,4,6-trimethyl-pyridine	2,4,6-三甲基-吡啶
+2-amino-2-methylpropanol	2-氨基-2-甲基丙醇
+2-methyl-3-nitrylaniline	2-甲基-3-硝基苯胺
+celiprolol hydrochloride	盐酸塞利洛尔
+dapoxetine hydrochloride	盐酸达泊西汀
+tetrabromobiphenyl ether	四溴联苯醚
+lactate dehydrogenase-C4	乳酸脱氢酶-C4
+isoeugenol benzyl aether	异丁香酚苄醚
+methyl p-hydroxybenzoate	对羟基苯甲酸甲酯
+apigenin-7-O-glucuronide	芹菜素-7-O-葡萄糖醛酸苷
+2,5-dichloronitrobenzene	2，5-二氯硝基苯
+reductase, anthocyanidin	花青素还原酶
+polymethylphenylsiloxane	聚甲基苯基硅氧烷
+ivabradine hydrochloride	盐酸依伐布雷定
+hexamethenyldiisocyanate	六次甲基二异氰酸酯
+levamisole hydrochloride	盐酸左旋咪唑
+chloromethylmethyl ether	氯甲基甲醚
+(9E)-9-hexadecenoic acid	(9E)-9-十六烯酸
+2-butyl-3-methylpyrazine	2-丁基-3-甲基吡嗪
+2-amino-5-methylpyridine	2-氨基-5-甲基吡啶
+dichloromethyl disulfide	二苄基二硫醚
+polyphenylsilsesquioxane	聚甲基/苯倍半硅氧烷
+methyl dimethylundecoate	二甲基十一酸甲酯
+sodium new houttuyfonate	新鱼腥草素钠
+tertbutyldimethylsilanol	叔丁基二甲基硅烷醇
+octane, 2,2,6-trimethyl-	2,2,6-三甲基辛烷
+butylated hydroxytoluene	二丁基羟基甲苯
+bis(2-furfuryl)disulfide	双(2-糠基)二硫醚
+kaempferol-7-O-glucoside	山奈酚-7-O-葡萄糖苷
+N-trans-feruloyltyramine	N-反式-阿魏酰酪胺
+trans-2-hexenyl butyrate	反-2-己烯基丁酸酯
+bibenzene(a,h)oanthracene	二苯(a,h)并蒽
+3-ethyl-2-formylthiophene	3-乙基-2-甲酰基噻吩
+2-bromoethylene-sulfonate	2-溴乙基磺酸钠
+4-chlorobibenzenemethanol	4-氯二苯甲醇
+N-formyl anthranilic acid	N-醛基氨基苯甲酸
+potassium, slow available	缓效钾
+2,3-dihydroxybenzoic acid	2,3-二羟基苯甲酸
+1-ethenyl-3-methylbenzene	1-乙烯基-3-甲基苯
+naringenin-7-β-rutinoside	柚皮素-7-β-芸香糖苷
+3,5-Dimethoxybenzoic acid	3,5-二甲氧基苯甲酸
+1,5-dicaffeoylquinic acid	1,5-二咖啡酰奎宁酸
+isopentenyl pyrophosphate	异戊烯焦磷酸
+pectic acid, calcium salt	果胶钙
+3,4-dihydroxybenzoic acid	3,4-二羟基苯甲酸
+2,6,10-trimethyl-dodecane	2,6,10-三甲基十二烷
+2,4-dimethyl benzaldehyde	2，4-二甲基苯甲醛
+acetic acid, heptyl ester	乙酸庚酯
+acetic acid, pentyl ester	乙酸戊酯
+1-hepten-6-one, 2-methyl-	2-甲基-1-庚烯-6-酮
+hexahydrofarnesyl acetone	六氢法尼基丙酮
+trifluoromethacrylic acid	三氟甲基丙烯酸
+dibutyl 2-methylsuccinate	2-甲基丁二酸二丁酯
+2-methyl-3-propylpyrazine	2-甲基-3-丙基吡嗪
+Phosphoglycerate kinase 1	磷酸甘油酸激酶1
+trans-2-(2-pentenyl)furan	反-2-(2-戊烯基)呋喃
+6-keto-prostaglandin F 1α	6-酮-前列腺素F1α
+cis-2-methyl-7-octadecene	顺-2-甲基-7-十八烯
+oxaloacetate transaminase	草酰乙酸转氨酶
+brain natriuretic peptide	脑钠肽
+hexachlorocyclopentadiene	六氯环戊二烯
+dimethanol acetalmethanal	二甲醇缩甲醛
+cyclin dependent kinase-2	细胞周期蛋白依赖性激酶2
+beta-phenylethyl butyrate	丁酸-BETA-苯乙酯
+8,9-dihydroperillaldehyde	8,9-二氢紫苏醛
+4,4-diaminodiphenyl ether	4,4-二氨基二苯醚
+12-methyl tridecylic acid	12-甲基十三烷酸
+1-hexyloxy-3-methylhexane	1-己氧基-3-甲基己烷
+1,3-dicaffeoylquinic acid	1,3-二咖啡酰奎宁酸
+norfloxacin hydrochloride	盐酸诺氟沙星
+perfluorohexane sulfonate	全氟己基磺酸
+4-chlorophenylacetic acid	对氯苯乙酸
+1,5-dichloroanthraquinone	1,5-二氯蒽醌
+perospirone hydrochloride	盐酸哌罗匹隆
+methyl 2-methoxy-benzoate	2-甲氧基-苯甲酸甲酯
+methyltetrahydroquinoline	甲基四氢喹啉
+tyrosine aminotransferase	酪氨酸氨基转移酶
+Colesevelam Hydrochloride	盐酸考来维仑
+ethyl-(Z)-4-decenoic acid	乙基-(Z)-4-癸烯酸
+sodium acetate, anhydrous	无水乙酸钠
+Amphoteric polyacrylamide	两性聚丙烯酰胺
+allyl polyethylene glycol	烯丙基聚乙二醇
+3-hexanone, 2,4-dimethyl-	2,4-二甲基-3-己酮
+2-octylcyclopropyloctanal	2-辛基环丙基辛醛
+acetamidine hydrochloride	盐酸乙脒
+trans-9-hexadecenoic acid	反式-9-十六烯酸
+3,4-dihydroxyacetophenone	青心酮
+ethyl 2-butylacetoacetate	2-正丁基乙酰乙酸乙酯
+erythromycin lactobionate	乳糖酸红霉素
+dipropanediolmethyl ether	二丙二醇甲醚
+pentafluorobenzyl bromide	五氟苄基溴
+dronedarone hydrochloride	盐酸决奈达隆
+5'-cytidine monophosphate	5'-胞苷酸
+magnesium chloride, basic	碱式氯化镁
+aloe-emodin-8-O-glucoside	芦荟大黄素-8-O-葡萄糖苷
+ditertbutylp-methylphenol	二叔丁基对甲基苯酚
+crotonic acid vinyl ester	巴豆酸乙烯酯
+polytrinitropolyphenylene	聚三硝基苯撑
+tulobuterol hydrochloride	盐酸妥洛特罗
+2-methyl-5-propylpyrazine	2-甲基-5-丙基吡嗪
+(Z)-14-tetracosenoic acid	(Z)-14-二十四碳烯酸
+cyclin-dependent kinase 1	细胞周期素依赖性激酶1
+cetyl pyridinium chloride	氯代十六烷基吡啶
+soluble neutral invertase	可溶性中性转化酶
+4-methyl-2,3-pentanedione	4-甲基-2,3-戊二酮
+iron manganese zinc oxide	锰锌铁氧体
+diisobutyldimethoxysilane	二异丁基二甲氧基硅烷
+4-imidazolyl benzoic acid	4-咪唑基苯甲酸
+N(2)-L-alanyl-L-glutamine	N(2)-L-丙氨酰-L-谷氨酰胺
+methyl 14-methylpalmitate	14-甲基十六酸甲酯
+trans, trans-muconic acid	反-反式黏糠酸
+ethylenediamine phosphate	磷酸乙二胺
+2,6,11-trimethyl dodecane	2,6,11-三甲基十二烷
+adrenomedullin, 1-20-pro-	肾上腺髓质素N端20肽
+carbon, microbial biomass	微生物量碳
+Cellulase, carboxymethyl-	羧甲基纤维素酶
+di(2-ethylhexyl)phthalate	邻苯二甲酸(2-乙基己基)酯
+porcine insulin precursor	猪胰岛素前体
+methyl 4-methylpentanoate	4-甲基戊酸甲酯
+cyclopentane carbaldehyde	环戊烷甲醛
+4-propyl-3-aminosulfaurea	4-丙基-3-氨基硫脲
+2,6-di-tert-butylpyridine	2,6-二叔丁基吡啶
+butylcyclohexyl phthalate	邻苯二甲酸丁基环己酯
+tropisetron hydrochloride	盐酸托烷司琼
+α-Naphthyl isothiocyanate	α-萘基异硫氰酸盐
+compound sulfamethoxazole	复方磺胺甲唑
+cyclohexenemethanoic acid	环己烯甲酸
+barnidipine hydrochloride	盐酸巴尼地平
+p-nitrophenol-β-glucoside	水杨素
+mono-acetylspiramycin III	单乙酰螺旋霉素III
+dihydrodiol dehydrogenase	二氢二醇脱氢酶
+columbamine hydrochloride	盐酸非洲防己碱
+2,3-dichloropropionitrile	2,3-二氯丙腈
+2-methyl-4-pentenoic acid	2-甲基-4-戊烯酸
+p-methoxybenzoyl chloride	对甲氧基苯甲酰氯
+trichloroisocyanuric acid	三氯异氰尿酸
+propamocarb hydrochloride	霜霉威盐酸盐
+2,2'-dithiosalicylic acid	2,2'-二硫代二苯甲酸
+2-methyl-4-propylthiazole	2-甲基-4-丙基噻唑
+des-γ-carboxy-prothrombin	异常凝血酶原
+1,3-dimethyl cyclopentane	1,3-二甲基环戊烷
+3-methyl-tridecanoic acid	3-甲基十三酸
+3,4-dimethoxyacetophenone	3,4-二甲氧基苯乙酮
+methyl 3-hydroxyoctanoate	3-羟基辛酸甲酯
+2-ethyl-5-propylthiophene	2-乙基-5-丙基噻吩
+2,5-dihydroxybenzaldehyde	2,5-二羟基苯甲醛
+4,6-ditetrabutyl-m-cresol	4,6-二叔丁基间甲酚
+aminopyrine-N-demethylase	氨基比林-N-脱甲基酶
+1-methoxy-3-methylbenzene	1-甲氧基-3-甲基苯
+N,N,O-triacetylhydroxamic	N,N,O-三乙酰基羟胺
+propylene glycol alginate	藻酸丙二醇酯
+manganese acetylacetonate	乙酰丙酮锰
+phosphono carboxylic acid	磷酰基羧酸
+polygonati polysaccharide	黄精多糖
+5,7,4'-trihydroxy-flavone	5,7,4'-三羟基-黄酮
+cholesteryl hemisuccinate	胆固醇琥珀酸酯
+2,4,4-trimethyl-2-pentene	2,4,4-三甲基-2-戊烯
+peonidin-3,5-dihexyloside	芍药素-3,5-二己糖苷
+sodium stearoyl lactylate	硬脂酰乳酸钠
+3,5-dicaffeoylquinic acid	3,5-二咖啡酰基奎宁酸
+α-naphthalene acetic acid	奈乙酸
+1,4-heptadiene, 3-methyl-	3-甲基-1,4-庚二烯
+1-isobutoxy-2-ethylhexane	1-异丁氧基-2-乙基己烷
+4-methyl-2,3-dihydrofuran	4-甲基-2,3-二氢呋喃
+3,4-dimethyl-diadamantane	3,4-二甲基双金刚烷
+cis-15-tetracosenoic acid	顺-15-二十四碳一烯酸
+histone acetyltransferase	组蛋白乙酰化酶
+granular activated carbon	粒状活性炭
+sodium copper chlorophyll	叶绿素铜钠盐
+vortioxetine hydrobromide	氢溴酸沃替西汀
+magnesium aluminosilicate	硅酸镁铝
+n-tetratriacontanoic acid	正三十四烷酸
+Clindamycin hydrochloride	盐酸克林霉素
+1,3-propanediol,2-acetate	1,3-丙二醇二乙酸酯
+2-methoxy-2-methylpropane	2-甲氧基-2-甲基丙烷
+7,10-octadecadienoic acid	7,10-十八碳二烯酸
+imidocarb dihydrochloride	盐酸咪唑苯脲
+1-o-acetylbritannilactone	旋覆花内酯
+10-methyl undecanoic acid	10-甲基十一烷酸
+5,6-cyclic-oxide-β-ionone	5,6-环氧-β-紫罗兰酮
+3-methyl-2-cyclopentenone	3-甲基-2-环戊烯酮
+Stronger neo-minophagen-C	美能
+2,4-dimethyl cyclohexanol	2,4-二甲基环己醇
+formaldehyde sulphoxylate	次硫酸氢钠甲醛
+(Z)-3-hexen-1-ol, acetate	(Z)-乙酸-3-己烯-1-酯
+7-nitrobenzo(a)anthracene	7-硝基苯并(a)蒽
+4-methyl-2-heptyl alcohol	4-甲基-2-庚醇
+zinc dihydrogen phosphate	磷酸二氢锌
+indolyl-3-carboxylic acid	3-吲哚甲酸
+methyl p-toluenesulfonate	对甲苯磺酸甲酯
+2,4-dimethyl-diadamantane	2,4-二甲基双金刚烷
+cis-1,3-dichloropropylene	顺式-1,3-二氯丙烯
+ethyl chloroformyl acetate	氯甲酰乙酸乙酯
+enrofloxacin hydrochloride	盐酸蒽诺沙星
+ligustrazine hydrochloride	盐酸川芎嗪
+butyl cyclohexyl phthalate	邻苯二甲酸丁基，环己基酯
+3-nitryl-1,2-phthalic acid	3-硝基-1,2-邻苯二甲酸
+butanoic acid, hexyl ester	丁酸己酯
+sodium p-styrene sulfonate	对苯乙烯磺酸钠
+sucrose-phosphate synthase	磷酸蔗糖合成酶
+epiberberine hydrochloride	盐酸表小檗碱
+2,3,5,6-tetramethyl phenol	2,3,5,6-四甲基苯酚
+3,4-dimethoxy-benzaldehyde	3，4-二甲基苯甲醛
+5,8,11,14-arachidonic acid	5,8,11,14-花生四烯酸
+2,2,5,5-tetramethyl-hexane	2,2,5,5-四甲基-己烷
+methylphenyl cyclosiloxane	甲基苯基环硅氧烷
+matrix metalloproteinase-7	基质金属蛋白酶-7
+N-(3-methylbutyl)acetamide	N-(3-甲基丁基)乙酰胺
+2-methylthio-benzothiazole	2-甲硫基-苯并噻唑
+1-methyl-2-pyrrolemethanal	1-甲基-2-吡咯甲醛
+3,4,5-trimethyl-4-enanthol	3,4,5-三甲基-4-庚醇
+3'-azido-3'-deoxythymidine	3'-叠氮基-3'-脱氧胸苷
+taurochenodeoxycholic acid	牛磺鹅去氧胆酸
+carbodiimide hydrochloride	碳二亚胺盐酸盐
+ethyl-β-D-fructopyranoside	乙基-β-D-吡喃果糖苷
+alkylbenzene sulfonic acid	烷基苯磺酸
+2-(2-ethoxyethoxy)-ethanol	2-(2-乙氧基乙氧基)乙醇
+11-mercaptoundecanoic acid	11-巯基十一烷酸
+octanoic acid, octyl ester	辛酸辛酯
+L-5-methyltetrahydrofolate	L-5-甲基四氢叶酸
+imipenem/cilastatin sodium	亚胺培南/西司他丁钠
+12-methyl-tridecanoic acid	12-甲基十三酸
+methoxyamine hydrochloride	甲氧基胺盐酸盐
+ammonium tetrafluoroborate	四氟硼酸铵
+mitoxantrone hydrochloride	盐酸米托蒽醌
+cellulose acetate butyrate	醋酸丁酸纤维素
+isobutyl 2-methylbutanoate	2-甲基丁酸异丁酯
+8,9-dehydro-isolongifolene	8,9-脱氢-新异长叶烯
+3,3-dimethyl butyraldehyde	3,3-二甲基丁醛
+ceric sulfate tetrahydrate	四水硫酸铈
+4-hydroxy-1-naphthaldehyde	4-羟基-1-萘甲醛
+14-methyl-8-hexadecyn-1-ol	14-甲基-8-十六炔-1-醇
+Proteinase inhibitor, TFPI	组织因子途径抑制物
+hypoxia inducible factor 1	缺氧诱导因子-1
+matrix metalloproteinase 2	金属基质蛋白酶
+3,5-dihydroxypentylbenzene	3,5-二羟基戊苯
+Rhodamine B isothiocyanate	异硫氰酸罗丹明B
+isopentene ribosidoadenine	异戊烯基腺嘌呤核苷
+β,β'-dimethylacrylshikonin	β,β'-二甲基丙烯酰基紫草素
+1-methoxy-4-methyl-benzene	对甲基苯甲醚
+brevifolin carboxylic acid	短叶苏木酚酸
+glycogen synthase kinase-3	糖原合成酶激酶-3
+erythromycin N-demethylase	红霉素-N-脱甲基酶
+2,3,6-trimethylnaphthalene	2，3，6-三甲基萘
+trans-decahydronaphthalene	反-十氢萘
+2-hydroxyphenylacetic acid	2-羟基苯乙酸
+3,5-diamino-1,2,4-triazole	3,5-二氨基-1,2,4-三唑
+4-methyl-5-ethenylthiazole	4-甲基-5-乙烯基噻唑
+zinc sulfate, heptahydrate	七水硫酸锌
+2-hydroxy-1-naphthaldehyde	2-羟基-1-萘甲醛
+diglycolethyl etheracetate	二乙二醇乙醚乙酸酯
+5,8,11,14-tetracosoic acid	5，8，11，14-二十四酸
+2,2-dimethylolbutyric acid	2,2-二羟甲基丙酸
+beclometasone dipropionate	丙酸倍氯米松
+ornithine aminotransferase	鸟氨酸转化酶
+3-ethyl-3-phenyl-1-pentene	3-乙基-3-苯基-1-戊烯
+3-methyl-4-isopropylphenol	3-甲基-4-异丙基苯酚
+isoprenaline hydrochloride	盐酸异丙肾上腺素
+decanoic acid, decyl ester	癸酸癸酯
+2,2,3,4-tetramethylpentane	2,2,3,4-四甲基戊烷
+4-methyl-2-cyclohexen-1-ol	4-甲基-2-环己烯-1-醇
+choline acetyl-transferase	乙酰基转移酶
+bis(ethoxyethyl) phthalate	邻苯二甲酸(2-乙氧基乙基)酯
+disodium 5'-ribonucleotide	呈味核苷酸二钠
+2,7-diisopropylnaphthalene	2,7-二异丙基萘
+glutamyltranspeptidase, γ-	谷酰转肽酶
+blood-coagulation factor X	凝血因子X
+glycocine deoxycholic acid	甘氨酸脱氧胆酸
+5-hydroxy-7-methoxyflavone	柚木柯因
+2-methyl-3,6-dinitraniline	2-甲基-3,6-二硝基苯胺
+2-(2-methylvinyl)thiophene	2-(2-甲基乙烯基)噻吩
+1,3-diacetyl oxygenpropane	1，3-二乙酰氧丙烷
+Azelaic acid diethyl ester	壬二酸二乙酯
+tetrahydrofuran-2-methanol	四氢呋喃-2-甲醇
+3,4,5,6-tetramethyl octane	3,4,5,6-四甲基辛烷
+Synthase, cystathionine β-	胱硫醚β合酶
+creatinine, clearance rate	肌酐清除率
+1,2,4,5-tetrachlorobenzene	1,2,4,5-四氯苯
+2"-O-rhamnosylicariside II	鼠李糖基淫羊藿次苷II
+intact parathyroid hormone	全段甲状旁腺激素
+trans,trans-2,4-nonadienal	反,反-2,4-壬二烯醛
+N,N-Didesmethylsibutramine	N,N-双去甲基西布曲明
+magnesium hydrogen sulfite	亚硫酸氢镁
+1H-tetrazole-1-acetic acid	四氮唑乙酸
+1-hydroxy-2-naphthoic acid	1-羟基-2-萘酸
+1,2,3-trichlorine-1-phenol	1,2,3-三氯-1-苯酚
+phenylalanine ammonialyase	苯丙氨酸解氨酶
+Z,Z,Z-4,6,9-nonadecatriene	Z,Z,Z-4,6,9-十九碳三烯
+diethyl methyl phosphonite	甲基亚膦酸二乙酯
+butanoic acid, butyl ester	丁酸丁酯
+kynurenic aminotransferase	犬尿氨酸氨基转移酶
+α,α-dimethylbenzyl alcohol	α,α-二甲基苄醇
+cholinesterase, inhibitors	胆碱酯酶抑制剂
+2,3-dihydro-5-methyl furan	2,3-二氢-5-甲基呋喃
+methyl (Z)-9-hexadecenoate	(Z)-9-十六碳烯酸甲酯
+antofloxacin hydrochloride	盐酸安妥沙星
+cerous nitrate hexahydrate	六水合硝酸铈
+2,5-Thiophenedicarboxylate	噻吩-2,5-二甲酸二甲酯
+itraconazole hydrochloride	盐酸伊曲康唑
+sulfachloropyrazine sodium	磺胺氯吡嗪钠
+1-butene, 4-isothiocyanate	异硫氰酸丁烯酯
+3-methoxyphenylacetic acid	3-甲氧基苯乙酸
+kaempferol-3-O-galactoside	山奈酚-3-O-半乳糖苷
+fibroblast growth factor 2	成纤维细胞生长因子2
+isosulfocyanatocyclohexane	异硫氰酸根合环己烷
+N,N-Dimethyloctadecylamine	十八烷基二甲基叔胺
+butyl-4,5-dihydrophthalide	丁基-4,5-二氢苯酞
+4,8-dimethyl-1,7-nonadiene	4,8-二甲基-1,7-壬二烯
+(R)-3,7-dimethyl-6-octenal	(R)-3,7-二甲基-6-辛烯醛
+3,5-difluorinebromobenzene	3,5-二氟溴苯
+daunorubicin hydrochloride	盐酸柔红霉素
+2,3,5,8-tetramethyl decane	2,3,5,8-四甲基癸烷
+leukemia inhibitory factor	白血病抑制因子
+formononetin-7-O-glucoside	芒柄花素-7-O-葡萄糖苷
+kaempferol-3-O-glucuronide	山奈酚-3-O-葡萄糖醛酸苷
+sodium sulfide nonahydrate	九水硫化钠
+trans-2-(2-pentenyl)-furan	反-2-(2-戊烯基)-呋喃
+pectin methylgalacturonase	果胶甲基半乳糖醛酸酶
+palladium trifluoroacetate	三氟乙酸钯
+[R-(R*,R*)]-2,3-butanediol	[R-(R*,R*)]-2,3-丁二醇
+1,2-Benzisothiazolin-3-one	1,2-苯并异噻唑啉-3-酮
+5-methyl-2,4-dinitraniline	5-甲基-2,4-二硝基苯胺
+4,5-dehydro-isolongifolene	4,5-脱氢异长叶烯
+glycochenodeoxycholic acid	甘氨鹅脱氧胆酸
+10,13-octadecadienoic acid	10,13-十八碳二烯酸
+sodium p-toluene sulfonate	对甲基苯磺酸钠
+sulfosalicylic acid sodium	磺基水杨酸钠
+p-methoxyphenethyl alcohol	对甲氧基苯乙醇
+octanedioatemonooylaniline	辛二酸单酰苯胺
+N-guanylurea hydrochloride	盐酸脒基脲
+gondoic acid, methyl ester	贡多酸甲酯
+α-naphthalenesulfonic acid	α-萘磺酸
+azobenzene salicylaldehyde	偶氮苯水杨醛
+diethyl aminopropanedioate	氨基丙二酸二乙酯
+2,4-dinitrophenylhydrazine	2，4-二硝基苯肼
+3,4-dihydroxyphenylacetoxy	3,4-二羟苯乙酸
+5,6-dihydro-2H-pyran-2-one	5,6-二氢-2H-吡喃-2-酮
+3,4-dihydroxy-benzoic acid	3,4-二羟基-苯甲酸
+ethylene diamine dinitrate	乙二胺二硝酸盐
+dehydrodiconiferyl alcohol	去氢双松柏醇
+decanoic acid, ethyl ester	癸酸乙酯
+matrix metalloproteinase-2	基质金属蛋白酶-2
+microbial transglutaminase	微生物转谷氨酰胺酶
+3-chloropropionyl chloride	3-氯丙酰氯
+phenylhexyl isothiocyanate	异硫氰酸苯已酯
+1,2-difluorodichloroethene	1,2-二氟二氯乙烯
+2,2,3,3-tetramethyl-hexane	2,2,3,3-四甲基-己烷
+betamethasone dipropionate	二丙酸倍他米松
+benzenethanal diethylacetal	苯乙醛二乙缩醛
+5,6,7,8-tetrahydroquinoline	5,6,7,8-四氢喹啉
+benzoic acid, 2,3-dimethyl-	2,3-二甲基苯甲酸
+1-ethenyl-4-methoxy-benzene	1-乙烯基-4-甲氧基苯
+cyclopentaneundecanoic acid	环戊烷十一酸
+9-methyl-(Z-)-octadecenoate	9-甲基(Z)-十八碳烯酸酯
+cadmium nitrate hexahydrate	六水合硝酸镉
+blood-coagulation factor Xa	凝血因子Xa
+Oxygenase, steroid 21-mono-	21-羟化酶
+superoxide dismutase, serum	血清超氧化物歧化酶
+polyarylene sulfide sulfone	聚芳硫醚砜
+5-methyl-2-phenyl-2-hexenal	5-甲基-2-苯基-2-己烯醛
+methylene diphosphonic acid	亚甲基二磷酸
+hydromorphine hydrochloride	盐酸氢吗啡酮
+4-tertbutylbenzenepropanone	4-叔丁基苯丙酮
+8-hydroxy-2'-deoxyguanosine	8-羟基脱氧鸟嘌呤
+deoxycorticosterone-acetate	去氧皮质酮
+N,N'-methylenebisacrylamide	N,N'-亚甲基双丙烯酰胺
+Piperacillin and Tazobactam	哌拉西林/他巴唑坦
+titanium tetra-isopropoxide	四异丙醇钛
+matrix metalloproteinase 10	基质金属蛋白酶10
+apigenin-7-O-β-D-lutinoside	芹菜素-7-O-δ-D-芦丁糖苷
+(1,1-dimethylnonyl)-benzene	(1,1-二甲基壬基)-苯
+3-Hydroxy-2-methyl-4-pyrone	麦芽醇
+4-oxyl butylcarboxylic acid	4-氧正戊酸
+carboxymethyl starch sodium	羧甲淀粉钠
+benzathine benzylpenicillin	苄星青霉素
+isobutyric acid allyl ester	异丁酸烯丙酯
+1-ethyl-3,5-dimethylbenzene	1-乙基-3,5-二甲基苯
+α-ethylidene-benzeneethanal	α-亚乙基-苯乙醛
+aminotransferase, aspartate	天冬氨基转移酶
+dihydroflavonol-4-reductase	黄烷酮醇-4-还原酶
+1,2,3-inositol triphosphate	1,2,3-三磷酸肌醇
+dicyclopentadiene diepoxide	二氧化双环戊二烯
+1-methoxy-4-propenylbenzene	1-甲氧基-4-丙烯基苯
+desaturase, acyl coenzyme A	硬酯酰辅酶A去饱和酶
+10,12-pentacosadiynoic acid	10,12-二十五碳二炔酸
+2-methyl-5-methylthio-furan	2-甲基-5-甲硫基呋喃
+benzene, 1-ethenyl-3-ethyl-	1-乙烯基-3-乙基苯
+o-cresol formaldehyde resin	邻甲酚醛树脂
+potassium magnesium sulfate	硫酸钾镁
+oxymetazoline hydrochloride	盐酸羟甲唑啉
+matrix metalloproteinase-10	基质金属蛋白酶-10
+11-Deoxyalisol B 23-acetate	11-去氧-23-乙酰泽泻醇B
+4-formylbenzeneboronic acid	4-甲酰基苯硼酸
+3',5'-dimethoxyacetophenone	3',5'-二甲氧基苯乙酮
+pentaerythritol triacrylate	季戊四醇三丙烯酸酯
+matrix metalloproteinase-14	基质金属蛋白酶-14
+N,N-dimethyltetradecanamine	N,N-二甲基十四烷胺
+sodium copper chlorophyllin	叶绿素铜钠
+ethyl 4-chloro-acetoacetate	4-氯-乙酰乙酸乙酯
+3-methyl-1,1-diethoxybutane	3-甲基-1,1-二乙氧基丁烷
+penicillin G potassium salt	青霉素G钾
+2,6-dimethyl-1,5-heptadiene	2,6-二甲基-1,5-庚二烯
+4-methyl-3-cyclohexen-1-one	4-甲基-3-环己烯-1-酮
+9-methyl-10-pentadecen-1-ol	9-甲基-10-十五烯-1-醇
+oxacycloheptadec-8-en-2-one	氧代环十七碳-8-烯-2-酮
+blood-coagulation factor II	凝血因子II
+potassium antimony tartrate	酒石酸锑钾
+2-methyl-1,4-naphthoquinone	2-甲基-1,4-萘醌
+3,4-O-dicaffeoylquinic acid	3,4-O-二咖啡酰奎尼酸
+4-biphenylamine, 3-methoxy-	3-甲氧基-4-联苯胺
+D-glucosamine hydrochloride	D-氨基葡萄糖盐酸盐
+methylphosphorus dichloride	甲基二氯化磷
+1H-indole-3-carboxylic acid	1H-吲哚-3-羧酸
+carbon, activated, granular	颗粒活性炭
+dichlorotetrafluorineethane	二氯四氟乙烷
+proteinase inhibitor, TIMP1	金属蛋白酶组织抑制因子1
+chloromethyltrichlorosilane	氯甲基三氯硅烷
+diammonium glycyrrihizinate	甘利欣
+2-ethyl-4-methyl-1-pentanol	2-乙基-4-甲基-1-戊醇
+4-tert-butylbenzyl chloride	对叔丁基氯苄
+octenyl succinate anhydride	西米辛烯基琥珀酸酐
+isopropyl 2-methylbutanoate	2-甲基丁酸异丙酯
+chromic nitrate nonahydrate	九水合硝酸铬
+1-chloro-2,6-dinitrobenzene	2,6-二硝基氯苯
+oxybuprocaine hydrochloride	盐酸奥布卡因
+5,11,14-eicosatrienoic acid	5,11,14-二十碳三烯酸
+2,3,6-trimethyl-naphthalene	2,3,6-三甲基-萘
+2,5-dimethyl-2,5-hexanediol	2,5-二甲基-2,5-己二醇
+1,3-O-dicaffeoylquinic acid	1,3-O-二咖啡酰奎宁酸
+1,2-dibromo-3-chloropropane	1,2-二溴-3-氯丙烷
+2-formyloxy-1-methylpyrrole	2-甲酸基-1-甲基吡咯
+3,5-dihydroxybenzyl alcohol	3,5-二羟基苯甲醇
+trifluoromethyl phenylamine	三氟甲基苯胺
+bisabolene cis-Z-cyclooxide	顺-Z-环氧化红没药烯
+crotonylate-1-buten-4-ester	巴豆酸-1-丁烯-4-酯
+2,7-dimethyl-2,6-octyl-1-ol	2,7-二甲基-2,6-亚辛基-1-醇
+2-hydroxy-1,3-propyldiamine	2-羟基-1,3-丙二胺
+polychlorotrifluoroethylene	聚三氟氯乙烯
+α,α-dimethylbenzenemethanol	α,α-二甲基苯甲醇
+manganese dioxide, hydrated	水合二氧化锰
+13-(2-hydroxy)ethoxymatrine	13-(2-羟基)乙氧基苦参碱
+ammonium tetraethylchloride	四乙基氯化铵
+Ampicillin sodium/sulbactam	氨苄西林钠/舒巴坦钠
+nickel chloride hexahydrate	六水氯化镍
+phenazine-1-carboxylic acid	吩嗪-1-羧酸
+1,2,3,4-tetrahydroquinoline	1,2,3,4-四氢喹啉
+3,5-dimethylbenzenemethanol	3,5-二甲基苯甲醇
+quercetin-7-O-β-D-glycoside	槲皮素-7-O-β-D-葡萄糖苷
+5,7,4'-trihydroxy flavanone	5，7，4’-三羟基二氢黄酮
+2,3,5,6-tetrachloropyridine	2,3,5,6-四氯吡啶
+quercetin-7-O-β-D-glucoside	槲皮素-7-O-β-D-葡萄糖苷
+1,2,3-trimethylcyclopentene	1,2,3-三甲基环戊烯
+polybutylene adipate glycol	聚己二酸丁二醇酯二醇
+2-hydroxy-4'-chlorochalcone	2-羟基-4'-氯查耳酮
+4',5,7-trihydroxyisoflavone	4',5,7-三羟基异黄酮
+2-methyltetrahydrothiophene	2-甲基四氢噻吩
+nandrolone phenylpropionate	苯丙酸诺龙
+sulfachlorpyridazine sodium	磺胺氯达嗪钠
+perfluoro-1-decanesulfonate	全氟癸烷磺酸
+2,7-dimethyl-4,5-octanediol	2，7-二甲基-4，5-辛二醇
+bis(2-ethylhexyl) phthalate	邻苯二甲酸二(2-乙基己基)酯
+dipotassium glycyrrhizinate	甘草酸二钾
+(Z)-14-methyl-8-hexadecenal	(Z)-14-甲基-8-十六碳烯醛
+2,5-diethyl tetrahydrofuran	2,5-二乙基四氢呋喃
+4-phosphoric aciderythroose	4-磷酸赤藓糖
+4-propyl-1,6-heptadien-4-ol	4-丙基-1,6-庚二烯-4-醇
+lithium hexafluorophosphate	六氟磷酸锂
+2-methyl-3-phenylthioindole	2-甲基-3-苯硫基吲哚
+butylbiguanide hydrochloride	盐酸丁二胍
+2-furaldehyde diethyl acetal	二乙氧基甲基呋喃
+1-(4-methylphenyl)-1-ethanol	1-(4-甲基苯基)-1-乙醇
+propanoic acid, pentyl ester	丙酸戊酯
+perfluoro-1-pentanesulfonate	全氟戊烷磺酸
+2,4-dimethyl-2,6-heptadienal	2,4-二甲基-2,6-庚二烯醛
+2,3,4,5-tetramethoxy-toluene	2,3,4,5-四甲氧基甲苯
+proteinase inhibitor, TIMP-2	金属蛋白酶组织抑制因子2
+pararosaniline hydrochloride	盐酸副玫瑰苯胺
+valganciclovir hydrochloride	盐酸缬更昔洛韦
+proteinase inhibitor, serine	丝氨酸蛋白酶抑制因子
+folypolyglutamate synthetase	叶酰聚谷氨酸合成酶
+3-methoxymethoxybutyric acid	3-甲氧基甲氧基丁酸
+2-isobutyl-3-methyl pyrazine	2-异丁基-3-甲基吡嗪
+heptamolybdenumoate ammonium	七钼酸铵
+trans-2-olefine heptaldehyde	反-2-庚烯醛
+triose-phosphate isomerase 1	磷酸丙糖异构酶1
+metoclopramide hydrochloride	盐酸甲氧氯普胺
+3,4,5,6-tetrahydroxyxanthone	3,4,5,6-四羟基吨酮
+3-ethyl-2,5-dimethylpyrazine	3-乙基-2，5-甲基吡嗪
+kaempferol-7-O-β-D-glucoside	山奈酚-7-O-beta-D-葡萄糖苷
+2,4-hexadiene, 2,3-dimethyl-	2,3-二甲基-2,4-己二烯
+disulfide, methyl 1-propenyl	1-甲基-丙烯二硫
+4,5-dihydro-2-methylthiazole	4,5-二氢-2-甲基噻唑
+isomerase, protein disulfide	蛋白质二硫化物异构酶
+2,6-pyridinedicarbohydrazide	2,6-吡啶二甲酰肼
+protein tyrosine phosphatase	蛋白酪氨酸磷酸酶
+tert-butylphenylacetonitrile	对叔丁基苯乙腈
+calcium dihydrogen phosphate	磷酸二氢钙
+methyl ferrocenylcarboxylate	二茂铁甲酸甲酯
+1-(2-furylmethyl)-1H-pyrrole	1-(2-呋喃基甲基)-1H-吡咯
+2,6-dimethoxy p-benzoquinone	2,6-二甲氧基对苯醌
+3,3'-di-O-methylellagic acid	3,3'-二甲基鞣花酸
+isobutyric acid, hexyl ester	异丁酸己酯
+poly-ferric-sulfate-silicate	聚硅硫酸铁
+tenofovir dipivoxil fumarate	富马酸替诺福韦双特戊酯
+staphylococcal enterotoxin B	葡萄球菌肠毒素B
+staphylococcal enterotoxin A	葡萄球菌肠毒素A
+cis-1,3-dimethylcyclopentane	顺-1,3-二甲基环戊烷
+datura stramonium agglutinin	曼陀罗凝集素
+ethylene glycol methyl ether	乙二醇乙醚
+Fas-associated phosphatase-1	Fas相关磷酸酯酶-1
+reactive brilliant red K-2BP	活性艳红K-2BP
+1-methyl-4-isopropyl benzene	1-甲基-4-异丙基苯
+human chorionic gonadotropin	人绒毛膜促性腺激素
+quercetin 3-O-α-L-rhamnoside	槲皮素 3-O-α-L-鼠李糖苷
+3'-hydroxy-4'-methyl daidzin	3'-羟基-4'-甲基大豆苷
+4-methyl triaromatic steroid	4-甲基三芳甾烷
+3,4-di-O-caffeoylquinic acid	3,4-二咖啡酰基奎宁酸
+alginate-polylysine-alginate	海藻酸钠-多聚赖氨酸-海藻酸钠
+Proteinase, metallo-, ADAM33	解整合素-金属蛋白酶33
+Lutetium nitrate hexahydrate	六水硝酸镥
+starch, 2-hydroxyethyl ether	羟乙基淀粉40
+5,6,7,8-tetrahydroindolizine	5,6,7,8-四氢氮茚
+5,7-dihydroxy-8-nitrochrysin	8-硝基白杨素
+1,4-Benzenedicarboxylic acid	苯二羧酸
+tripolyglycerol monostearate	三聚甘油酯
+thiopurine methyltransferase	巯嘌呤甲基转移酶
+1-(2-thiophenyl)-1-propanone	1-(2-噻吩基)-1-丙酮
+N,N-dimethylp-benzenediamine	N,N-二甲基对苯二胺
+proteinase inhibitor, TIMP-1	基质金属蛋白酶组织抑制因子1
+polyphosphate ferric sulfate	聚合磷硫酸铁
+perfluorobutanesulfonic acid	全氟丁烷磺酸
+catechol-O-methyltransferase	儿茶酚-O-甲基转移酶
+2-amino-3,5-dinitrothiophene	2-氨基-3,5-二硝基噻吩
+ubiquitin-conjugating enzyme	泛素缀合酶
+2-amino-4-methylbenzoic acid	2-氨基-4-甲基苯甲酸
+2,3,4-trimethoxyacetophenone	2,3,4-三甲氧基苯乙酮
+humoral hypercalcemic factor	体液因子
+cis-1,2-dimethylcyclopentane	顺-1,2-二甲基环戊烷
+15-methoxy-octadecanoic acid	15-甲氧基-十八烷酸
+7,10-methyl octadecadienoate	7,10-十八碳二烯酸甲酯
+cyclohexyl hydrogen peroxide	环己基过氧化氢
+2(5H)-furanone, 5,5-dimethyl	5,5-二甲基-2(5H)-呋喃酮
+insulin-like growth factor 1	胰岛素样生长因子1
+tetrahydrophthalic anhydride	四氢苯酐
+2-butenoic acid methyl ester	2-丁烯酸甲酯
+hydroxyprogesterone caproate	己酸羟孕酮
+ammonium hexafluorophosphate	六氟磷酸铵
+2,6-dichlorophenolindophenol	2,6-二氯靛酚
+4-methyl-2-propyl-1-pentanol	4-甲基-2-丙基-1-戊醇
+2-benzeneethylisothiocyanate	2-苯乙基异硫氰酸酯
+methyl 3,5-dimethoxybenzoate	3,5-二甲氧基苯甲酸甲酯
+piperacillin/clavulanic acid	哌拉西林/克拉维酸
+konjac glucomannan, oxidized	氧化魔芋葡甘露聚糖
+1-ethyl-2-methylcyclopentane	1-乙基-2-甲基环戊烷
+4,5-dimethyl-1,3-benzenediol	4,5-二甲基-1,3-苯二酚
+glutathione S-transferase M1	谷胱甘肽S-转移酶M1
+isomerase, glucose phosphate	葡萄糖磷酸异构酶
+N,N-dimethyl ethylenediamine	N,N-二甲基乙二胺
+glyphosate-isopropylammonium	草甘膦异丙胺盐
+4-hydroxybenzyl methyl ether	对羟基苄基甲基醚
+2,6-dimethyl-4-aminopyridine	2，6-二甲基-4-氨基吡啶
+tetradecanoylphorbol acetate	十四烷酰佛波醋酸酯
+benzyl-2,6-dimethoxybenzoate	2,6-二甲氧基苯甲酸苄酯
+clopidogrel hydrogen sulfate	氯吡格雷硫酸氢盐
+1-methyl-4-isopropyl-benzene	1-甲基-4-异丙基-苯
+2,3,3,4-tetrylmethyl-pentane	2,3,3,4-四甲基-戊烷
+2-hydrazino-2-imidazoleoline	2-联氨基-2-咪唑啉
+3-isobutyl-2-methoxypyrazine	3-异丁基-2-甲氧基吡嗪
+ferric sulfate, heptahydrate	七水硫酸铁
+polyoxyethylated alkylphenol	乳化剂-OP
+ethyl 15-methyl-heptadecoate	15-甲基-十七酸乙酯
+ethoxyresorufin-O-deethylase	乙氧基-9-羟基异吩噁唑酮-邻-去乙基酶
+2-methyl-3,5-diethylpyrazine	2-甲基-3,5-二乙基吡嗪
+lysophosphatidylethanolamine	溶血磷脂酰乙醇胺
+4-(1-isopropyl)-benzaldehyde	4-(1-异丙基)-苯甲醛
+3-O-caffeoyl-D-glucopyranose	3-O-咖啡酰-D-葡萄糖
+bone morphogenetic protein 4	骨形成蛋白4
+3,5-dimethylcyclopentenolone	3,5-二甲基环戊烯醇酮
+4-acetoxy-2-methyl-2-butenal	4-乙酰氧基-2-甲基-2-丁烯-1-醛
+keratinocyte growth factor-2	角质细胞生长因子2
+16-methoxy-octadecanoic acid	16-甲氧基-十八烷酸
+1(7),8(10)-p-piperitene-9-ol	1(7),8(10)-对-薄荷二烯-9-醇
+di(2-methylpropyl) phthalate	邻苯二甲酸二(2-甲基丙基)酯
+2,6,10-trimethyl-tetradecane	2,6,10-三甲基-十四烷
+quercetin-3-O-β-D-rutinoside	槲皮素-3-O-b-D-芸香糖苷
+proteinase inhibitor, TFPI-2	组织因子途径抑制物-2
+cyclooxygenase-2, inhibitors	COX-2抑制剂
+2,4-dimethyl-5-ethylthiazole	2,4-二甲基-5-乙基噻唑
+insulin-like growth factor-2	胰岛素样生长因子-2
+S-allyl-L-cysteine-sulfoxide	S-烯丙基-L-半胱氨酸亚砜
+chloroprocaine hydrochloride	盐酸氯普鲁卡因
+4-hydroxyphenylethyl alcohol	对羟基苯乙醇
+β-hydroxyisovaleryl shikonin	β-羟基异戊酰紫草素
+1-methylimidazole-5-methanal	1-甲基咪唑-5-甲醛
+Caprylic/capric triglyceride	辛酸癸酸三甘油酯
+losartan hydrochlorothiazide	氯沙坦氢氯噻嗪
+8,9-epoxyeicosatrienoic acid	8,9-环氧二十碳四烯酸
+N,N-methylene bis-acrylamide	N,N-丙烯酰胺
+3-methyl-4-nitrobenzoic acid	3-甲基-4-硝基苯甲酸
+2-mercapto-N-methylbenzamide	2-巯基-N-甲基苯甲酰胺
+N,N-dimethyl-4-aminopyridine	N,N-二甲基-4-氨基吡啶
+tissue plasminogen activator	组织纤溶酶原激活剂
+pelargonidin-3,5-diglucoside	天竺葵素-3,5-二葡萄糖苷
+2-allyl-1,3-cyclohexanedione	2-烯丙基-1,3-烯己二酮
+N-hydroxyethylpalmitoylamine	N-羟乙基棕榈酰胺
+α-bromo-4-chloroacetophenone	α-溴代-4-氯苯乙酮
+propenate 2-ethylhexyl ester	丙烯酸 2-乙基己基酯
+cefoperazone/clavulanic acid	头孢哌酮/克拉维酸
+catechol o-methyltransferase	儿茶酚氧位甲基转移酶
+2-hydroxy-1,4-naphthoquinone	2-羟基-1,4-萘醌
+trans-p-hydroxycinnamic acid	反式对羟基肉桂酸
+amitriptyline hydrochloride	盐酸阿米替林
+9-methylbicyclo[3.3.1]nonane	9-甲基二环[3.3.1]壬烷
+gamma-glutamyl transpeptidase	γ谷氨酰转肽酶
+2,6-hexadecyl-1(+)-ascorboate	2,6-十六烷基-1(+)-抗坏血酸酯
+sodium perborate tetrahydrate	四水过硼酸钠
+5-hexyldihydro-2(3H)-furanone	5-己基二氢-2(3H)-呋喃酮
+3-ethyl-2,6-dimethyl pyrazine	3-乙基-2,6-二甲基吡嗪
+3-butyl-4-ethenylcyclopentene	3-丁基-4-乙烯基环戊烯
+phosphatidylinositol-3 kinase	磷脂酰肌醇-3-激酶
+dipropanediolmonomethyl ether	二丙二醇单甲醚
+chorionic gonadotropin, human	人绒毛促性腺激素
+phosphoric acid, concentrated	浓磷酸
+diammonium hydrogen phosphate	磷酸氢二胺
+2-methyl-6-p-cresyl-2-heptene	2-甲基-6-对甲苯基-2-庚烯
+kaempferol-7-O-α-L-rhamnoside	山柰酚-7-O-α-L-鼠李糖苷
+blood-coagulation factor XIII	凝血因子XIII
+granule-bound starch synthase	淀粉粒束缚淀粉合成酶
+tetrahydro-2,5-dimethyl furan	2,5-二甲基四氢呋喃
+N-acetylornithine deacetylase	N-乙酰鸟氨酸脱酰基酶
+sodium diethyldithiocarbamate	二乙基二硫代氨基甲酸钠
+quercetin-3-O-β-D-glucuronide	槲皮素-3-O-β-D-葡萄糖醛酸苷
+1,1-diethoxy-2-methyl-propane	1,1-二乙氧基-2-甲基-丙烷
+cyclotrisiloxane, hexamethyl-	六甲基环状三硅氧烷
+perfluorosulfonic acid, resin	全氟磺酸树脂
+samarium nitrate, hexahydrate	六水硝酸钐
+stigmast-5,22-dien-3β,7α-diol	豆甾-5,22-二烯-3β,7α-二醇
+3-hydroxy-2-butanone, acetate	3-羟基-2-丁酮乙酸酯
+clopidogrel hydrogen sulphate	氯吡格雷二硫酸盐
+trans-1,2-dimethylcyclohexane	反-1,2-二甲基环己烷
+methyl 11,13-dien-eicosanoate	11,13-二烯二十酸甲酯
+E-3,7-dimethyl-2,6-octadienal	E-3,7-二甲基-2,6-辛二烯醛
+di-(2-methylpropyl) phthalate	邻苯二甲酸二(2-甲基)丙酯
+quercetin-3-O-glucopyranoside	槲皮素-3-O-吡喃葡萄糖苷
+potassium magnesium aspartate	门冬氨酸钾镁
+3,3,5-trimethyl cyclohexanone	3,3,5-三甲基环己酮
+2,3,4-trimethoxy-benzaldehyde	2,3,4-三甲氧基苯甲醛
+1-propanol-3-methylthiophenol	1-丙醇-3-甲硫基苯酚
+4-(benzoyloxy)-2H-pyran-3-one	4-(苯甲酸基)-2H-吡喃-3-酮
+silver carboxymethyl chitosan	羧甲基壳聚糖银
+γ-chloropropyltriethoxysilane	γ-氯丙基三乙氧基硅烷
+α-bromo-4-methoxyacetophenone	α-溴代-4-甲氧基苯乙酮
+lithium hydroxide monohydrate	一水合氢氧化锂
+2-acetyl-3,5-dimethylpyrazine	2-乙酰基-3,5-二甲基吡嗪
+4,8-dimethyl-1,3,7-nonatriene	4,8-二甲基-1,3,7-壬三烯
+remifentanil-polycaprolactone	瑞芬太尼聚己内酯
+hexanoate-3-methylbutyl ester	己酸-3-甲基丁酯
+5-butyldihydro-2(3H)-furanone	5-丁基二氢-2（3H）呋喃酮
+2-methyl-6-methylene-2-octene	2-甲基-6-亚甲基-2-辛烯
+benzenethyl 3-methylbutanoate	3-甲基丁酸苯乙酯
+megastigma-4,6(Z),8(E)-triene	4,6(E),8(E)-巨豆三烯
+tridecylic acid, methyl ester	十三烷酸甲酯
+isopropyl-β-D-thiogalactoside	异丙基硫代半乳糖苷
+leukocyte elastase, inhibitor	白细胞弹性蛋白酶抑制剂
+2-methyl-1,3-cyclohexanedione	2-甲基-1，3-环己二酮
+5-hydroxymethyl-2-furaldehyde	5-羟甲基-2-呋喃甲醛
+cinamaldehyde ethylene acetal	肉桂醛缩乙二醇
+4-methyl-3-nitro-benzoic acid	4-甲基-3-硝基-苯甲酸
+3,4,9- trimethyl diadamantane	3,4,9-三甲基双金刚烷
+1-butanol, 2-methyl-, acetate	乙酸-2-甲基丁酯
+hexachlorocyclotriphosphazene	六氯环三磷腈
+1-ethyl-2-methyl-cyclopentane	1-乙基-2-甲基-环戊烷
+1,2,3,4,6-pentagalloylglucose	1,2,3,4,6-五没食子酰葡萄糖
+kaempferol-3-O-α-L-rhamnoside	山奈酚-3-O-α-L-鼠李糖苷
+2,2',5,5'-tetramethylbiphenyl	2,2',5,5'-四甲基联苯
+4-acetyl-1-methyl cyclohexene	4-乙酰基-1-甲基环己烯
+1,3,5-triazine-2,4,6-triamine	1,3,5-三嗪-2,4,6-三胺
+2-methyl-5-isopropyl pyrazine	2-甲基-5-异丙基吡嗪
+alpha-naphthalene acetic acid	alpha-萘乙酸
+2-hydroxy-2-cyclopenten-1-one	2-羟基-2-环戊烯-1-酮
+5-pentyldihydro-2(3H)furanone	5-戊基-二氢-2(3H)呋喃酮
+poly(lactic-co-glycolic acid)	聚(乳酸－共－羟乙酸)
+N-(2-chloroacetyl)pyrrolidine	N-(2-氯乙酰基)四氢吡咯
+2-isopropyl-3-methoxypyrazine	2-异丙基-3-甲氧基吡嗪
+6,8,3',5'-tetramethoxyflavone	九里香酮
+docosanoic acid, methyl ester	山嵛酸甲酯
+fluoridated ammonia molybdate	氟钼酸铵
+N,N-diethyl-3-methylbenzamide	避蚊胺
+acetyl coenzyme A carboxylase	乙酰coA羧化酶
+aluminium nitrate nonahydrate	九水合硝酸铝
+3-methyl-4-oxo-pentanoic acid	3-甲基-4-羰基戊酸
+5-Norbornane-2-carboxaldehyde	5-降冰片烯-2-甲醛
+3,5-diethyl-1,2,4-trithiolane	3,5-二乙基-1,2,4-三硫杂环戊烷
+2,4-dichlorobenzoyl hydrazine	2,4-二氯苯甲酰肼
+tetrabutyl ammonium hydroxide	四丁基氢氧化铵
+europium nitrate, hexahydrate	六水硝酸铕
+cyclohexanol, 3,3,5-trimethyl	3,3,5-三甲基环己醇
+eriodictyol-7-O-α-D-glucoside	圣草酚-7-O-α-D-葡萄糖苷
+2-(octadecylcyclooxy)-ethanol	2-(十八环氧基)-乙醇
+4-methyl-4-vinylbutyrolactone	4-甲基-4-乙烯基丁内酯
+ammonium dihydrogen phosphate	磷酸二氢铵
+octenyl succinic starch ester	辛烯基琥珀酸淀粉酯
+zinc dialkyl-dithio-phosphate	二烷基二硫代磷酸锌
+kaempferol-3-O-β-D-rhamnoside	山奈酚-3-O-β-D-鼠李糖苷
+ethyl 4-chloro-3-oxobutanoate	4-氯乙酰乙酸乙酯
+2,4-dimethyl-dibenzothiophene	2,4-二甲基二苯并噻吩
+neodymium nitrate hexahydrate	六水硝酸钕
+2,2,4-trimethyl-3-penten-1-ol	2,2,4-三甲基-3-戊烯-1-醇
+flavonoid O-methyltransferase	类黄酮O-甲基转移酶
+lead titanium zirconium oxide	锆钛酸铅
+cis-9,12-octadecadienoic acid	顺-9,12-十八碳二烯酸
+cyclobutene, 2-propenylidene-	2-丙烯叉基-环丁烯
+1H-indole, 1-methyl-2-phenyl-	1-甲基-2-苯基-1H-吲哚
+hexanitrohexaazaisowurtzitane	六硝基六氮杂异伍兹烷
+trimethoprim-sulfamethoxazole	复方新诺明
+paradimethylaminobenzaldehyde	对二甲氨基苯甲醛
+pyruvate dehydrogenase kinase	丙酮酸脱氢酶激酶
+1-benzyl-3,5-dimethyl benzene	1-苯甲基-3,5-二甲苯
+mitochondrial creatine kinase	线粒体肌酸激酶
+lirioresinol-B dimethyl ether	里立脂素B二甲醚
+N,N-dimethyl-1-hexadecanamine	N,N-二甲基-1-十六烷胺
+benzenemethanol,α,α-diphenyl-	三苯甲醇
+chromium nitrate, hexahydrate	六水硝酸铬
+thienyl-2,5-dicarboxylic acid	噻吩-2,5-二甲酸
+2-(1-oxo-propyl)-benzoic acid	2-（1-氧代丙基）-苯甲酸
+tricosanic acid, methyl ester	二十三烷酸甲酯
+Sulfamethoxazole trimethoprim	复方磺胺甲氧苄啶
+2,5-dimethyl-7-hydroxychromone	2,5-二甲基-7-羟基-色原酮
+2,7-dimethyl-2,6-octadien-1-ol	2,7-二甲基-2,6-辛二烯-1-醇
+Trypsin inhibitor, Kunitz-type	kunitz型蛋白酶抑制子
+7,10,13-heptadecatrienoic acid	十七碳三烯酸
+butanoic acid, 2-hexenyl ester	丁酸己烯酯
+methyl p-methoxycinnamate, cis	顺式对甲氧基肉桂酸甲酯
+2-isopropyl-5-methyl-1-hexanol	2-异丙基-5-甲基-1-己醇
+cis-2,6-dimethyl-2,6-octadiene	顺式-2,6-二甲基-2,6-辛二烯
+apigenin-7-O-β-D-neospheroside	芹菜素-7-O-β-D-新橙皮糖苷
+3,7-dimethyl-2,6-octadien-1-ol	3，7-二甲基-2，6-辛二烯-1-醇
+2,5-dimethyl-3-pentyl pyrazine	2,5-二甲基-3-戊基吡嗪
+2-hydroxypropyl-β-cyclodextrin	2-羟丙基--β-环糊精
+heptadecanoic acid ethyl ester	十七烷酸乙酯
+methylene diphenyl dicarbamate	二苯甲烷二氨基甲酸甲酯
+phosphogluconate dehydrogenase	磷酸葡萄糖脱氢酶
+9,12,15-triene methyl stearate	9,12,15-三烯十八酸甲酯
+β-hydroxybutyric dehydrogenase	β羟丁酸脱氢酶
+hexamethyl phosphoric triamide	六甲基磷酰胺
+Phosphonic acid, methylenebis-	亚甲基二磷酸盐
+potassium tetrachloroplatinate	氯亚铂酸钾
+octylmethyl-cyclotetrasiloxane	八甲基-环四硅氧烷
+methyl 9,12-octadecanedienoate	9,12-十八烷二烯酸甲酯
+4-hydroxy-3-methoxyphenethanol	4-羟基-3-甲氧基苯乙醇
+ornithine carbamoyltransferase	鸟氨酸氨甲酰转移酶
+indol-3-ylmethyl glucosinolate	吲哚基-3-甲基芥子油苷
+pentanoate-2-methylbutyl ester	戊酸-2-甲基丁酯
+benzoic acid, cyclohexyl ester	苯甲酸环己烯酯
+dexamethasone sodium phosphate	地塞米松磷酸钠
+reactive brilliant orange X-GN	活性艳橙
+tin tetrachloride pentahydrate	五水合四氯化锡
+kaempferol 3-O-β-D-galactoside	山奈酚-3-O-β-D-半乳糖苷
+2,6-dimethyl-1,4-dioxygenolane	2,6-二甲基-1,4-二氧戊环
+2,4-(1,1-dimethylethyl)-phenol	2,4-(1,1-二甲基乙基)-苯酚
+pentadecane, 2,6,10-trimethyl-	2,6,10-三甲基十五烷
+trypsinogen activation peptide	胰蛋白酶原激活肽
+3-(2-methylpropenyl)-1H-indene	3-(2-甲基-丙烯基)-1H-茚
+dihexadecyl hydrogen phosphate	双十六烷基磷酸
+1-isopropyl-4-methylenedicyclo	1-异丙基-4-亚甲基双环
+methyl 14-methyl-hexadecanoate	14-甲基-十六烷酸甲酯
+hydroxypropyl methylpropenoate	甲基丙烯酸羟丙酯
+7-ethyl-10-hydroxycamptothecin	7-乙基-10-羟基喜树碱
+2,5-dimethoxy-2,5-dihydrofuran	2,5-二甲氧基-2,5-二氢呋喃
+trehalose-6-phosphate synthase	6-磷酸海藻糖合成酶
+4-hydroxy-2-methylacetophenone	4-羟基-2-甲基苯乙酮
+2,6-dimethylphenoxyacetic acid	2,6-二甲基苯氧乙酸
+1,3-bis(trimethylsilyl)benzene	1,3-二（三甲基甲硅烷基）苯
+dehydrogenase, acyl coenzyme A	脂酰辅酶A脱氢酶
+α,α,4-trimethyl benzyl alcohol	α,α,4-三甲基苯甲醇
+2,4,6-trichloro-1,3,5-triazine	三氯聚氰
+1,2,4-trimethyl-5-ethylbenzene	1,2,4-三甲基-5-乙基苯
+3,7-dimethyl-1,6-hexadien-3-ol	3,7-二甲基-1,6-己二烯-3-醇
+tetrachloro-p-phthalodinitrile	四氯对苯二甲氰
+lactic dehydrogenase isoenzyme	乳酸脱氢酶同工酶
+3-chloropropyltrimethoxysilane	3-氯丙基三甲氧基硅
+Pentamethyl diethylenetriamine	五甲基二乙烯三胺
+synthetase, γ-glutamylcysteine	γ谷氨酰半胱氨酸合成酶
+formononetin-7-O-β-D-glucoside	芒柄花素-7-O-β-D-葡萄糖苷
+phenylethyl alcohol, 2-hydroxy	2-羟基苯乙醇
+5-pentyl-1,3-dihydroxy-benzene	5-戊基-1,3-苯二酚
+dimethylhexane-1,6-dicarbamate	1,6-六亚甲基二氨基甲酸甲酯
+ferric trichloride hexahydrate	六水合三氯化铁
+methylchloroisothiazoleolinone	甲基氯异噻唑啉酮
+kaempferol-3-O-β-D-glucuronide	山奈酚-3-O-β-D-葡萄糖醛酸苷
+α-calcium sulphate hemihydrate	α-半水硫酸钙
+2,2'-biphenyldicarboxylic acid	2,2'-联苯二羧酸
+heptane, 2,2,4,6,6-pentamethyl	2,2,4,6,6-五甲基庚烷
+thyroid transcription factor-1	甲状腺转录因子-1
+4-hydroxy-2-methylbenzaldehyde	4-羟基-2-甲基苯甲醛
+3-hydroxy-2-methylbenzaldehyde	3-羟基-2-甲基苯甲醛
+magnesium fructose diphosphate	果糖二磷酸镁
+manganese dependent peroxidase	锰依赖过氧化物酶
+2,6-dimethyl-1-nonen-3-yn-5-ol	2,6-二甲基-1-壬烯-3-炔-5-醇
+(3-aminopropyl)triethoxysilane	(3-氨丙基)三乙氧基硅烷
+platelet-derived growth factor	血小板源性生长因子
+2-hydroxy-4-methylacetophenone	2-甲基-4-羟基苯乙酮
+chromium chloride, hexahydrate	六水合氯化铬
+3,5,2',4'-tetrahydroxystilbene	3,5,2',4'-四羟基芪
+sodium carboxymethyl cellulose	羟甲基纤维素钠
+9,12-octadecadien-1-ol, (Z,Z)-	(顺,顺)-9,12-十八碳二烯醇
+Dihydro-5-ethyl-2(3H)-furanone	二氢-5-乙基-2(3H)-呋喃酮
+carboxymethyl chitosan calcium	羧甲基壳聚糖钙
+γ-chloropropyltrimethoxysilane	γ-氯丙基三甲氧基硅烷
+N,O-ditrimethylsilylethanamide	N,O-双三甲基硅基乙酰胺
+N-cyclohexyl-N-ethylhexanamide	N-环己基-N-乙基己酰胺
+5-methyl-2-isopropyl-2-hexenal	5-甲基-2-异丙基-2-己烯醛
+octadecanoic acid, butyl ester	十八酸丁酯
+1,2,3,4-tetramethylnaphthalene	1,2,3,4-四甲基萘
+enepropyl cyclohexylpropanoate	环己基丙酸烯丙酯
+glucopyranosyl-L-ascorbic acid	葡萄糖基抗坏血酸
+heptanoate-1-methylethyl ester	庚酸-1-甲基乙酯
+capric acid, triglycerol ester	癸酸三甘油酯
+potassium dihydrogen phosphate	磷酸二氢钾
+1,54-dibromo-tetrapentacontane	1，54-二溴五十四烷
+acetic acid, 2-phenethyl ester	苯乙醇乙酸酯
+bis(2-n-butoxyethyl) phthalate	邻苯二甲酸二(2-丁氧基乙基)酯
+dipotassium hydrogen phosphate	磷酸氢二钾
+linoleic acid, isopropyl ester	亚油酸异丙酯
+5,6,7,8-tetrahydro-quinoxaline	5,6,7,8-四氢喹噁啉
+2-butyl-4-methyl-1,3-dioxolane	2-丁基-4-甲基-1,3-二氧戊环
+diacylglycerol acyltransferase	二酰基甘油酰基转移酶
+benzyltriethylammonium bromide	苄基三乙基溴化铵
+boron trifluoride ether complex	三氟化硼乙醚络合物
+gastrin-releasing peptide, pro-	胃泌素释放肽前体
+suberoylanilide hydroxamic acid	辛二酰苯胺异羟肟酸
+4-hydroxy-3-methoxyacetophenone	4-羟基-3-甲氧基苯乙酮
+2-hydroxy-2-methylpropiophenone	2-羟基-2-甲基-1-苯基丙酮
+3-amino-2,3-dihydrobenzoic acid	3-氨基-2,3-二氢苯甲酸
+dihydro-5-propyl-2(3H)-furanone	二氢-5-丙基-2(3H)-呋喃酮
+2,4-diphenyl-4-methyl-1-pentene	2,4-二苯基-4-甲基-1-戊烯
+2-methoxy-1-naphthaleneethanone	2-甲氧基-1-萘乙酮
+3,4,5-trihydroxy ethyl benzoate	3,4,5-三羟基苯甲酸乙酯
+6,9-octadecacarbondienate carbo	6,9-十八碳二烯酸甲酯
+aminoglycoside modifying enzyme	氨基糖苷修饰酶
+4'-methoxy-(1,1'-biphenyl)-2-ol	4'-甲氧基-(1,1'-联苯)-2-酚
+4-methyl-2-methylene-1-pentanol	4-甲基-2-亚甲基-1-戊醇
+2(3H)-furanone, 5-butyldihydro-	二氢-5-丁基-2(3H)-呋喃酮/γ辛内酯
+didecyldimethylammonium bromide	癸甲溴铵
+2,3,3',4,4'-pentachlorobiphenyl	2,3,3',4,4'-五氯联苯
+2-hydroxy-4-methoxybenzaldehyde	2-羟基-4-甲氧基苯甲醛
+bis (trichloromethyl) carbonate	双（三氯甲基）碳酸酯
+corticotropin-releasing hormone	促肾上腺皮质激素释放激素
+2,4,6,8-tetrylmethyl-1-undecene	2,4,6,8-四甲基-1-十一碳烯
+acrylonitrile-butadiene polymer	丁腈橡胶
+3-hydroxy-4-methoxybenzaldehyde	3-羟基-4-甲氧基苯甲醛
+kaempferol-3-O-neohesperidoside	山柰酚-3-O-新橙皮糖苷
+sodium formaldehyde sulfoxylate	甲醛次硫酸氢钠
+α-cyano-3-phenoxybenzyl alcohol	α-氰基-3-苯氧基苄醇
+4-trifluorinemethylbenzaldehyde	4-三氟甲基苯甲醛
+5,6,7,3',4'-pentamethoxyflavone	5,6,7,3',4'-五甲氧基黄酮
+2,4-di-tert-butyl-6-nitrophenol	2,4-二叔丁基-6-硝基苯酚
+nitro-tetrazolium chloride blue	氯化硝基四氮唑蓝
+(E)-3,7-dimethyl-2,6-octadienal	(E)-3,7-二甲基-2,6-辛二烯醛
+2,2,4,4,6,8,8-heptamethylnonane	2,2,4,4,6,8,8-七甲基壬烷
+farnesyl pyrophosphate synthase	法呢基焦磷酸合酶
+2-hydroxy-3-methylbutanoic acid	2-羟基-3-甲基丁酸
+growth differentiation factor 9	生长分化因子9
+linear low density polyethylene	线性低密度聚乙烯
+nucleoside diphosphate kinase-A	二磷酸核苷激酶A
+magnesium-aluminum hydrotalcite	镁铝水滑石
+2,3,6-trimethyl-β-cyclodextrins	2,3,6-三甲基-β-环糊精
+2-cyano-4-nitro-6-bromo aniline	2-氰基-4-硝基-6-溴苯胺
+2-hydroxy-4-methoxyacetophenone	2-羟基-4-甲氧基苯乙酮
+decanedioic acid, didecyl ester	癸二酸二癸酯
+benzoic acid, phenylethyl ester	苯甲酸苯乙酯
+benzaldehyde, 3,4,5-trimethoxy-	3,4,5-三甲氧基-苯甲醛
+4-tert-butyl cyclohexyl acetate	4-叔丁基环己基乙酸酯
+Lanthanum chloride heptahydrate	七水氯化镧
+cis-8,11,14-eicosatrienoic acid	顺-8,11,14-二十碳三烯酸
+(6E)-2,6-dimethyl-2,6-octadiene	(6E)-2,6-二甲基-2,6-辛二烯
+3,5-ditertbutyl salicylaldehtde	3,5-二叔丁基水杨醛
+brain natriuretic peptide, pro-	脑钠素原
+monomethoxy polyethylene glycol	单端甲氧基聚乙二醇
+5-fluorouracil-1-yl acetic acid	5-氟尿嘧啶-1-基乙酸
+3-hydroxyl-β-dihydrodamascenone	3-羟基-β-二氢大马酮
+Serine hydroxymethyltransferase	丝氨酸羟甲基转移酶
+2-chloroaniline-5-sulfonic acid	2-氯苯胺-5-磺酸
+phosphopantetheinyl transferase	磷酸泛酰巯基乙胺基转移酶
+2-amino-4,6-dimethyl pyrimidine	2-氨基-4,6-二甲基嘧啶
+chloroacetic acid isoamyl ester	氯乙酸异戊酯
+1-(2-furan)-3-methyl-2-butanone	1-（2-呋喃）-3-甲基-2-丁酮
+4-(1-propenyl)-1-methoxybenzene	4-(1-丙烯基)-1-甲氧基苯
+5-hydroxy-6,7-dimethoxy flavone	5-羟基-6,7-二甲氧基黄酮
+formic acid, phenylmethyl ester	甲酸苯甲酯
+3,5-dimethoxy-4-hydroxycinnamal	3,5-二甲氧基-4-羟基肉桂醛
+dioctyl divinyltriamino glycine	菌毒清
+1-butoxy-2,4-dimethyl-2-pentene	1-丁氧基-2,4-二甲基-2-戊烯
+manganese chloride tetrahydrate	四水合氯化锰
+adenosine triphosphate disodium	三磷酸腺苷二钠
+2,6-di-tert-butyl-p-benzoquinon	2,6-二叔丁基苯醌
+2',3'-O-isopropylideneadenosine	2',3'-O-异亚丙基腺苷
+magnesium sulfate, heptahydrate	七水硫酸镁
+cyclopentasiloxane, decamethyl-	十甲基环戊硅氧烷
+sodium m-nitrobenzene sulfonate	间硝基苯磺酸钠
+bicyclo[4.2.0]octa-1,3,5-triene	二环[4.2.0]辛-1,3,5-三烯
+2-cyclohexene-1-carboxylic acid	2-环己烯-1-羧酸
+4-trifluoromethylnicotinic acid	4-三氟甲基烟酸
+hexadecanoic acid, methyl ester	十六酸甲酯
+2,5-dimethyl-7-hydroxy-chromone	2,5-二甲基-7-羟基色原酮
+2-methoxy-1,3,4-trimethylbenzene	2-甲氧基-1,3,4-三甲基苯
+2,4-difluoro-benzeneboronic acid	2,4-二氟苯硼酸
+6-chloroimidazo[1,2-b]pyridazine	6-氯咪唑并[1,2-b]哒嗪
+4-(4-nitrophenyl)-3-morpholinone	4-(4-硝基苯基)-3-吗啉酮
+mitochondrial respiratory enzyme	线粒体呼吸酶
+eudesma-5,11(13)-dien-8,12-olide	桉烷-5,11(13)-二烯-8,12-内酯
+luteolin 7-O-β-D-glucopyranoside	木犀草素 7-O-β-D-葡萄吡喃糖苷
+benzene, 4-ethenyl-1,2-dimethyl-	1,2-二甲基-4-乙烯基苯
+(E)-3-hexenoic acid, ethyl ester	(E)-3-己烯酸乙酯
+platelet-derived growth factor-A	血小板源性生长因子A
+2-amino-3,4-dimethylbenzoic acid	2-羟基-3,4-二甲基苯甲酸
+11β-hydroxysteroid dehydrogenase	11β-羟类固醇脱氢酶
+cimigenol-3-O-β-D-xylopyranoside	升麻醇木糖苷
+4,4-diphenylmethane diisocyanate	4,4'-二苯基甲烷二异氰酸酯
+4-methoxy-5-hydroxycanthin-6-one	4-甲氧基-5-羟基铁屎米酮
+2,4,6-tris(1-methylethyl)-phenol	2,4,6-三(1-甲基乙基)-苯酚
+2-butenoic acid, 3-hexenyl ester	2-丁烯酸-3-己烯酯
+trans-propenyl propyl trisulfide	反式烯丙基丙基三硫醚
+2-cyclohexen-1-ol, 1-methyl, cis	顺-1-甲基-2-环己烯-1-醇
+metronidazole disodium phosphate	甲硝唑磷酸二钠
+L-pyroglutamic acid, ethyl ester	L-焦谷氨酸乙酯
+acetic acid-1-methylpropyl ester	乙酸-1-甲基丙酯
+9,10-dimethyl-1,2-benzanthracene	二甲基苯并蒽
+3-methoxy-4-hydroxy-benzoic acid	3-甲氧基-4-羟基-苯甲酸
+2,4-di(1,1-dimethylethyl)-phenol	2,4-双(1,1-二甲基乙基)-苯酚
+polymeric aluminum zinc chloride	聚合氯化铝锌
+2-chloro-4-nitropyridine-N-oxide	2-氯-4-硝基吡啶-N-氧化物
+2-methyl-1-butanol acetate ester	2-甲基-1-丁醇醋酸酯
+3-hydroxy-4-methoxy-benzoic acid	3-羟基-4-甲氧基-苯甲酸
+dipropanediol normal butyl ether	二丙二醇正丁醚
+1-methyl-7-isopropylphenanthrene	1-甲基-7-异丙基菲
+2,6-diethyl-4-methylbromobenzene	2,6-二乙基-4-甲基溴苯
+α-melanocyte-stimulating hormone	α-黑色素细胞刺激素
+diethyl ethoxymagnesium malonate	丙二酸二乙酯乙氧基镁
+2-chloro-1,1,1-trifluorineethane	2-氯-1,1,1-三氟乙烷
+2,4-dichlorophenoxybutanoic acid	2,4-二氯苯氧丁酸
+methyl pentachlorophenyl sulfide	甲基五氯苯硫醚
+sodium dodecyl benzene sulfonate	十二烷基苯磺酸钠
+4-ethyl-3,5-dimethyl-1H-pyrazole	4-乙基-3,5-二甲基-1H-吡唑
+2-hydroxy-4-methylpentanoic acid	2-羟基-4-甲基戊酸
+3-vinyl-1,2-dithiacyclohex-4-ene	3-乙烯基-1,2-二硫-4-乙烯环
+3-methoxy-4-hydroxycinnamic acid	3-甲氧基-4-羟基肉桂酸
+secoisolariciresinol diglucoside	亚麻木酚素
+dimethyldephinidin-3-O-glucoside	二甲花翠素-3-O-葡萄糖苷
+phospho tungstic heteropoly acid	磷钨杂多酸
+4-phenyl-3,4-dihydroisoquinoline	4-苯基-3,4-二氢异喹啉
+Disodium phosphate dodecahydrate	十二水磷酸二氢钠
+cis-7,8-epoxy-2-methyloctadecane	顺式-7,8-环氧-2-甲基十八烷
+physcion-8-O-β-D-glucopyranoside	大黄素甲醚-8-O-β-D-葡萄糖苷
+glucosidorum tripterygll totorum	雷公藤多甙
+permanganate potassium composite	高锰酸钾复合物
+2-chloro-4-trifluoromethylphenol	2-氯-4-三氟甲基苯酚
+2-methyl-4-isothiazoleolin-3-one	2-甲基-4-异噻唑啉-3-酮
+methyl(2-methyl-3-furyl)disufide	甲基（2-甲基-3-呋喃基）二硫醚
+roxatidine acetate hydrochloride	盐酸罗沙替丁醋酸酯
+carboxymethyl konjac glucomannan	羧甲基魔芋葡甘聚糖
+3,4-dimethyl-2-cyclopenten-1-one	3,4-二甲基-2-环戊烯-1-酮
+5-hexyl-3,3-dimethylcyclopentene	5-己基-3,3-二甲基环戊烯
+biscyclohexanoneoxaIyldihydraone	铜试剂
+telomerase reverse transcriptase	端粒酶逆转录酶
+2-amino-3,5-dichlorobenzoic acid	2-氨基-3,5-二氯苯甲酸
+2-methyl-5-(1-methylethyl)phenol	2-甲基-5-(1-甲基乙基)苯酚
+methyl 14-methyl-9-pentadecenoate	14-甲基-9-十五烯酸甲酯
+cis-4-(1-methylethyl)cyclohexanol	顺-4-(1-甲基乙基)环己醇
+cross-linked carboxymethyl starch	红薯羧甲基淀粉
+2,2',3,4,4',5'-hexachlorobiphenyl	2,2',3,4,4',5'-六氯联苯
+4-methylbenzene sulfonyl chloride	4-甲基苯磺酰氯
+1-phenyl-3-hydroxy-1,2,4-triazole	苯唑醇
+polyoxyethylene octylphenol ether	辛基酚聚氧乙烯醚
+nicotinamide adenine dinucleotide	烟酰胺腺嘌呤二核苷酸
+5-allyl-1,2,3-trimethyoxy benzene	5-烯丙基-1,2,3-三甲氧基苯
+N,N-dodecyl dimethyl tertiary amine	N,N-十二烷基二甲基叔胺
+3,3-dimethyl-6-methylenecyclohexene	3,3-二甲基-6-亚甲基环己烯
+2,6-dimethyl-6-nitro-2-hepten-4-one	2,6-二甲基-6-硝基-2-庚-4-酮
+4-fluoro-4'-methylbiphenylmethanone	4-氟-4'-甲基二苯甲酮
+[Z,Z]-9,12,15-octadecatrienoic acid	[Z,Z]-9,12,15-十八碳三烯酸
+cis-1-isopropyl-4-methylcyclohexane	顺-1-异丙基-4-甲基环己烷
+thyrotropic hormone, supersensitive	超敏促甲状腺激素
+meso-tetra(4-chlorophenyl)porphyrin	meso-四(4-氯苯基)卟啉
+N,N-dicyclohexyl-4-methyloctanamide	N,N-二环己基-4-甲基辛酰胺
+11,14-Eicosadienoic acid,methyl ester	顺式-11,14-二十碳二烯酸甲酯
+6,11-dimethyl-2,6,10-dodecatrien-1-ol	6,11-二甲基-2,6,10-十二烷三烯-1-醇
+octadecyl trimethyl ammonium chloride	十八烷基三甲基氯化铵
+11,14-eicosadienoic acid methyl ester	11,14-二十碳二烯酸甲酯
+3-methoxy-2,4,5-trifluorobenzoic acid	2,4,5-三氟-3-甲氧基苯甲酸
+2,6-ditertbutyl-4-secbutyl phenol	2，6-二叔丁基-4-仲丁基苯酚
+dodecyltrimethylammonium chloride	十二烷基三甲基氯化铵
+thioredoxin glutathione reductase	硫氧还蛋白谷胱甘肽还原酶
+2,6,10,15-tetramethyl-Pentadecane	2,6,10,15-四甲基十五烷
+N,N-dimethyl dehydroabiethylamine	N,N-二甲基脱氢枞胺
+2-hydroxy-2-methyl-propanoic acid	2-羟基-2-甲基-丙酸
+9,12-octadecadienoic acid, (Z,Z)-	(Z,Z)-9,12-十八二烯酸
+methanoic acid-14-tricosene ester	甲酸-14-二十三烯酯
+cis-9,cis-12-octadecadienoic acid	顺9， 顺12十八碳二烯酸
+9-octadecenoic acid, methyl ester	9-十八碳烯酸甲酯
+propenate-2-hydroxyethoxycarbonyl	丙烯酸-2-羟乙酯
+ethyl 5-nitrobenzofuran-2-formate	5-硝基苯并呋喃-2-甲酸乙酯
+5-norborneolene-2-carboxylic acid	5-降冰片烯-2-羧酸
+alkaline phosphatase, bone, serum	骨特异性碱性磷酸酶
+tetradecamethylcycolheptasiloxane	十四甲基环庚硅氧烷
+saponins, Acanthopanax senticosus	刺五加皂甙
+ethyl 4,4,4-trifluoroacetoacetate	三氟乙酰乙酸乙酯
+S-adenosyl homocysteine hydrolase	S腺苷高半胱氨酸水解酶
+dimethylthiohydroxypropanoic acid	二甲基巯基丙酸
+dichloro-diphenyl-trichloroethane	二氯二苯三氯乙烷
+isopentenyl diphosphate isomerase	IPP异构酶
+3-methyl-1,2,4-trithiacyclohexane	3-甲基-1,2,4-三硫杂环己烷
+4,4'-diphenylmethane diisocyanate	4,4'-二苯甲烷二异氰酸酯
+3,7-dimethyl-1,5,7-octatrien-3-ol	3，7-二甲基-1，5，7-辛三烯-3-醇
+di-(2-ethylhexyl) phosphoric acid	二（2-乙基己基）磷酸
+zirconium oxychloride octahydrate	八水合氯氧化锆
+ethyl 3-methyl-2-hydroxybutanoate	3-甲基-2-羟基丁酸乙酯
+ammonium dibutoxy dithiophosphate	丁铵黑药
+aminoglycosides-modifying enzymes	氨基糖苷类修饰酶
+isolongifolene, 4,5,9,10-dehydro-	4,5,9,10-脱氢-异长叶烯
+osteoclast differentiation factor	破骨细胞分化因子
+2-isopropyl-5-methylcyclohexanone	2-异丙基-5-甲基环己酮
+isorhamnetin-3-O-neohesperidoside	异鼠李素-3-O-新橙皮糖苷
+2-methyl-6-methylene-7-octen-2-ol	2-甲基-6-亚甲基-7-辛烯-2-醇
+3-hydroxy-4-methoxy-phenylethanol	3-羟基-4-甲氧基苯乙醇
+N-acetylglucosaminyltransferase V	N-乙酰氨基葡萄糖转移酶V
+N,N-diisobutyl-3-methylcrotonamide	N,N-二异丁基-3-甲基巴豆酰胺
+docosahexaenoic acid, methyl ester	二十二碳六烯酸甲酯
+2,2',4,4'-tetrabromodiphenyl ether	2,2',4,4'-四溴联苯醚
+4-(2-propenyl)-2,6-dimethoxyphenol	4-(2-丙烯基)-2,6-二甲氧基苯酚
+ampicillin sodium/sulbactam sodium	阿莫西林钠/舒巴坦钠
+octakis(glycol)henkis(lauryl)ether	八(乙二醇)一(十二烷基)醚
+3-methyl-2-thiophenecarboxaldehyde	3-甲基-2-噻吩甲醛
+1,2,3,4,4a,7-hexahydro-naphthalene	1,2,3,4,4a,7-六氢萘
+11-octadecenoic acid, methyl ester	11-十八碳烯酸甲酯
+2-nitro-4-benzenedicarboxylic acid	2-硝基对苯二甲酸
+cyclononasiloxane, octadecamethyl-	十八甲基环壬硅氧烷
+6,10-dimethylundeca-5,9-dien-2-one	6,10-二甲基十一碳-5,9-二烯-2-酮
+Trimethylolpropane trimethacrylate	三羟甲基丙烷三甲基丙烯酸酯
+1-methyl-3-[1-methylethyl]-benzene	1-甲基-3-[1-甲基乙基]-苯
+octadecyltrimethylammonium bromide	十八烷基三甲基溴化铵
+trans-2-hexenoic acid, ethyl ester	反式-2-己烯酸乙酯
+3-ethenyl-1,2-dithia-5-cyclohexene	3-乙烯基-1,2-二硫杂-5-环己烯
+S-adenosylmethionine decarboxylase	S-腺苷甲硫氨酸脱羧酶
+methyl 2-hexylcyclopropyloctanoate	2-己基环丙基辛酸甲酯
+ademetionine 1,4-butanedisulfonate	丁二磺酸腺苷蛋氨酸
+2-pentadecyl-1,3-dioxacycloheptane	2-十五烷基-1,3-二氧杂环庚烷
+7-methyl-Z-tetradecen-1-ol acetate	Z-7-甲基十四烷烯醇乙酸酯
+(E)-2-methoxy-4-(1-propenylphenol)	(E)-2-甲氧基-4-(1-丙烯基苯酚)
+4-ethenyl-1,4-dimethyl-cyclohexene	4-乙烯基-1,4-二甲基-环己烯
+3,5,5-trimethyl-2-cyclohexen-1-one	3,5,5-三甲基-2-环己烯-1-酮
+dodecyl dimethyl ammonium chloride	十二烷基二甲基氯化铵
+2,6,10,14-tetrylmethyl-pentadecane	2，6，10,14-四甲基-十五烷
+butanoic acid, 1-methylhexyl ester	丁酸-1-甲基己酯
+1,2,3,4,5-pentamethyl cyclopentane	1,2,3,4,5-五甲基环戊烷
+butanoic acid, 2-methylbutyl ester	丁酸-2-甲基丁酯
+octanoic acid, 3-methylbutyl ester	辛酸3-甲基丁酯
+(Z)-14-methyl-8-hexadecen-1-acetal	(Z)-14-甲基-8-十六碳烯-1-缩醛
+methyl hexahydrophthalic anhydride	甲基六氢苯酐
+3,5-dimethyl-4-hydroxybenzaldehyde	3,5-二甲基-4-羟基苯甲醛
+2,4-dihydroxy-3-methylacetophenone	2，4-二羟基-3-甲基苯乙酮
+dirhamnoside derivative compound 7	二鼠李糖脂5衍生化合物7
+2,4-diphenyl-4-methyl-2(E)-pentene	2,4-二苯基-4-甲基-2(E)-戊烯
+2,4-dimethyl-1,3-cyclopentanedione	2,4-二甲基-1,3-环戊二酮
+7,4'-dihydroxy-8-methoxyisoflavone	7,4'-二羟基-8-甲氧基异黄酮
+6,10-dimethyl-5,9-undecadien-2-one	6,10-二甲基-5,9-十一二烯-2-酮
+5-ethyl-2-thiophenylmethanoic acid	5-乙基-2-噻吩基甲酸
+2-chloro-6-trifluoromethylpyridine	2-氯-6-三氟甲基吡啶
+maleic anhydride-grafted polythene	聚乙烯接枝马来酸酐
+2-butyl-5-hexyloctahydro-1H-indene	2-丁基-5-己基八氢-1H-茚
+isothiocyanic acid, isobutyl ester	异硫氰酸异丁酯
+sodium 3,5,6-trichloropyridin-2-ol	3,5,6-三氯吡啶-2-醇钠
+2-chloro-5-trifluoromethylpyridine	2-氯-5-三氟甲基吡啶
+1,4-dihydro-1,4-methanonaphthalene	1,4-二氢-1,4-甲桥萘
+5-methyl-2-isopropyl-cyclohexanone	5-甲基-2-异丙基-环己酮
+benzenepropanoic acid, ethyl ester	苯丙酸乙酯
+1,8-dihydroxy-3,7-dimethoxyxanthone	1,8-二羟基-3,7-二甲氧基[口山]酮
+3-hydroxybutanoic acid, ethyl ester	3-羟基丁酸乙酯
+polysaccharides, Hericium erinaceus	猴头多糖
+biphenyl tetrcarboxylic dianhydride	联苯四羧酸二酐
+1-ethyl-3-methylimidazolium acetate	1-乙基-3-甲基咪唑醋酸盐
+kaempferol-7-O-α-L-rhamnopyranoside	山柰酚-7-O-α-L-鼠李吡喃糖苷
+para-hydroxybenzoate chitosan ester	对羟基苯甲酸酯
+cis-11-Eicosenoic acid methyl ester	顺-11-二十碳烯酸甲酯
+polygonatum odoratum polysaccharide	玉竹多糖
+dihydro-3,5-dimethyl-2(3H)-furanone	二氢-3,5-二甲基-2(3H)-呋喃酮
+chitosan, N,N,N-trimethyl, chloride	壳聚糖季铵盐
+erythromycin cyclic 11,12-carbonate	环酯红霉素
+methyl 2-hydroxy-4-methylpentanoate	2-羟基-4-甲基戊酸甲酯
+2,6,10-trimethyl-1,5,9-undecatriene	2,6,10-三甲基-1,5,9-十一碳三烯
+tetradecanoic acid, hexadecyl ester	十四酸十六酯
+(Z,Z,Z)-8,11,14-eicosatrienoic acid	(Z,Z,Z)-8,11,14-二十烷三烯酸
+4-chloro-4'-methylbiphenylmethanone	4-氯-4'-甲基二苯甲酮
+acetic acid(Z)-11-tetradecene ester	醋酸(Z)-11-十四烯酯
+graphite, natural crystalline flake	天然鳞片石墨
+2,4-dichlorothieno[3,2-d]pyrimidine	2,4-二氯噻吩并[3,2-d]嘧啶
+methyl 3,4-dihydroxy-phenyl lactate	丹参素甲酯
+3,4,5-trimethyl-2-cyclopenten-1-one	3,4,5-三甲基-2-环戊烯-1-酮
+L-valine methyl ester hydrochloride	L-缬氨酸甲基酯盐酸盐
+kaempferol-3-O-α-L-rhamnopyranoside	山奈酚-3-O-α-L吡喃鼠李糖苷
+sulfanilyl-5-carbo oxygenpyrimidine	磺胺-5-甲氧嘧啶
+4,4'-dichlorodiphenyldichloroethane	4,4'-滴滴滴
+6,10-dimethyl-5,9-dodecadiene-2-one	6,10-二甲基-5,9-十二碳二烯-2-酮
+5,6-dihydroxy-7,4'-dimethoxyflavone	5,6-二羟基-7,4'-二甲氧基黄酮
+3-ethoxy-3,7-dimethyl-1,6-octadiene	3-乙氧基-3,7-二甲基-1,6-辛二烯
+nitrate ester plasticized polyether	硝酸酯增塑聚醚
+aromatic L-amino acid decarboxylase	芳香族氨基酸脱羧酶
+E-9-tetradecenoic acid, ethyl ester	9-十四烯酸
+2,2',5,5'-tetramethyl-1,1'-biphenyl	2，2'，5，5'-四甲基-1，1'-联苯基
+cis-3,7-dimethyl-2,6-octadiene-1-ol	顺-3,7-二甲基-2,6-辛二烯-1-醇
+1-(1-azepanyl)-2-methyl-1-pentanone	1-(1-氮杂环庚烷基)-2-甲基-1-戊酮
+glutamate oxaloacetate transaminase	谷氨酸草酰醋酸氨基移转酶
+Polyoxyethylene sorbitan trioleates	聚氧乙烯山梨醇酐三油酸酯
+phthalic acid, butyl isobutyl ester	邻苯二甲酸丁基异丁酯
+ethyl 2-hydroxy-3-benzenepropanoate	2-羟基-3-苯丙酸乙酯
+peonidin 3-O-(6-coumaroyl)-glucoside	甲基花青素-3-O-(6-O-对香豆酰)葡萄糖苷
+4,8,13-cyclotetradecatriene-1,3-diol	西柏三烯二醇
+glycerol 1,3-dioleic acid-2-stearate	1,3-二油酸-2-硬脂酸甘油酯
+α,ω-dihydroxyl polydimethyl siloxane	α,ω-二羟基聚二甲基硅氧烷
+triethanolamine polyisobutenemaleate	聚异丁烯马来酸三乙醇胺酯
+ammonium tetradecyltrimethylchloride	十四烷基三甲基氯化铵
+diethylene triamine pentaacetic acid	二乙三胺五乙酸
+5,9-undecadien-2-one, 6,10-dimethyl-	6,10-二甲基-5,9-十一碳二烯-2-酮
+aluminum dihydrogen tripolyphosphate	三聚磷酸二氢铝
+3,5-dihydroxy-4-methoxy-benzoic acid	3,5-二羟基-4-甲氧基苯甲酸
+butyldioateethyl-3-methylbutyl ester	丁二酸乙基-3-甲基丁酯
+polyoxyethylene isosorbide dioleates	聚氧乙烯异山梨醇一油酸酯
+3-cyclohesene-1-isopropanol-4-methyl	萜烯醇
+urokinase-type plasminogen activator	尿激酶型纤溶酶激活物
+ethyl-demethyl-aminothiazolyloximate	去甲氨噻肟酸乙酯
+Vascular endothelial growth factor C	血管内皮生长因子C
+2-methyl-4-chloro-phenoxyacetic acid	2-甲基-4-氯苯氧乙酸
+polyhedral oligomeric silsesquioxane	聚倍半硅氧烷
+2,2',3,4,4',5,5'-heptachlorobiphenyl	2,2',3,4,4',5,5'-七氯联苯
+ammonium pyrrolidine dithiocarbamate	吡咯烷二硫代氨基甲酸铵
+2-methyl-propanoic acid, ethyl ester	2-甲基-丙酸乙酯
+1-butanol, 3-methyl-, propanoic acid	丙酸-3-甲基丁酯
+vascular endothelial growth factor D	血管内皮细胞生长因子D
+N-butyl perfluoro octane sulfonamide	氟磺酰胺
+tripropylene glycol monomethyl ether	三丙二醇单甲基醚
+3,7,11-trimethyl-1,6,10-dodecan-3-ol	3,7,11-三甲基-1,6,10-十二烷-3-醇
+torachrysone-8-O-β-D-glucopyranoside	决明酮-8-O-β-D-吡喃葡萄糖苷
+1-(4-methoxyphenyl)-1-methoxypropane	1-（4甲氧基）1-甲氧丙烷
+3,4-oxo-isopropylidene-shikimic acid	异亚丙基莽草酸
+apoptosis signal-regulating kinase 1	凋亡信号调节激酶1
+5,7,3'-trihydroxy-4'-methoxy-flavone	5,7,3'-三羟基-4'-甲氧基黄酮
+stigmasterol-3-O-β-D-glucopyranoside	豆甾醇-3-O-β-D-吡喃葡萄糖苷
+1,2-dimethoxy-4-(2-propenyl)-benzene	1,2-二甲氧基-4-(2-丙烯基)-苯
+luteinizing hormone-releasing factor	促性腺激素释放激素
+2,4'-dichlorodiphenyltrichloroethane	2,4'-滴滴涕
+polyethylene glycol bisglycidyl ether	聚乙二醇缩水甘油醚
+pentadecane, 2, 6,10, 14-tetramethyl-	四甲基十五烷
+N-terminal B-type natriuretic peptide	N末端B型钠尿肽原
+5-chloro-2-methoxycarbonyl-1-indanone	5-氯-2-甲氧羰基-1-茚酮
+2-methoxy-3-(2-methylpropyl)-pyrazine	2-甲氧基-3-(2-甲基丙基)-吡嗪
+2-amino-5-mercapto-1,3,4-thiadiazole)	2-氨基-5-巯基-1,3,4-噻二唑
+4-hydroxy-3-methoxybenzeneacetic acid	4-羟基-3-甲氧基苯乙酸
+2,4'-dichlorodiphenyldichloroethylene	2,4'-滴滴伊
+thiamphenicol glycinate hydrochloride	盐酸甲砜霉素甘氨酸酯
+1-methoxy-3-indylmethyl glucosinolate	1-甲氧基-3-吲哚甲基芥子油苷
+9-octadecenoic acid (E)-, ethyl ester	(E)-9-十八碳烯酸乙酯
+2,4,5-trimethyl-1,3-dioxacyclopentane	2,4,5-三甲基-1,3-二氧杂环戊烷
+1-hexyl-3-methyl imidazolium chloride	1-己基-3-甲基咪唑氯盐
+2-propenoic acid, 2-phenylethyl ester	2-丙烯酸-2-苯乙基酯
+herpes simplex virus thymidine kinase	单纯疱疹病毒胸苷激酶
+6-amino-9-β-D-ribofuranosyl-9H-purine	6-氨基嘌呤核苷
+4-chloro-4'-fluorinebiphenylmethanone	4-氯-4'-氟二苯甲酮
+extracellular signal-regulated kinase	细胞外信号调节激酶
+benzeneethylolpoly oxygenethene ether	苯乙基酚聚氧乙烯醚
+2-nitro-4-methylsulfonyl benzoic acid	2-硝基-4-甲砜基苯甲酸
+L-galactono-1,4-lactone dehydrogenase	L-半乳糖酸-1，4-内酯脱氢酶
+molybdenum phosphorus hydroxide oxide	磷钼酸
+3,5-dihydroxy-2-methyl-4H-pyran-4-one	3,5-二羟基-2-甲基-4H-吡喃-4-酮
+3-methylbutanoate-3-methylbutyl ester	3-甲基丁酸-3-甲基丁酯
+E-1-(4'-hydroxyphenyl)-but-1-en-3-one	反式-1-(4'-羟基苯基)-丁-1-烯-3-酮
+polyoxyethylene sorbitan tetraoleates	聚氧乙烯山梨醇酐四油酸酯
+1,3,6-octatriene, 3,7-dimethyl-, (Z)-	(Z)-3,7-二甲基-1,3,6-十八烷三烯
+1-butyl-3-methylimidazolium hydroxide	1-丁基-3-甲基咪唑氢氧化物
+4-hydroxy-2,5-dimethyl-3(2H)-furanone	4-羟基-2,5-二甲基-3(2H)呋喃酮
+5-acetoxymethyl-2-furancarboxaldehyde	5-乙酰氧基甲基-2-呋喃甲醛
+p,p'-dichlorodiphenyldichloroethylene	p,p'-滴滴伊
+4-methyl-24-ethyl triaromatic steroid	4-甲基-24-乙基三芳甾烷
+3-ethyl-2-hydroxy-2-cyclopenten-1-one	3-乙基-2-羟基-2-环戊烯-1-酮
+2-methylpropanoate-2-benzenethyl ester	2-甲基丙酸-2-苯乙酯
+(R)-(-)-(Z)-14-methyl-8-hexadecen-1-ol	(R)-(-)-(Z)-14-甲基-十六烯-1-醇
+(E)-2,6-dimethyl-2,6-undecadien-10-one	(E)-2,6-二甲基-2,6-十一碳二烯-10-酮
+butanoic acid, 2-methyl-, propyl ester	2-甲基丁酸丙酯
+maleic anhydride grafted polypropylene	聚丙烯接枝马来酸酐
+2,4,4,7-tetrylmethyl-5,7-octadien-3-ol	2,4,4,7-四甲基-5,7-辛二烯-3-醇
+5-chloro-2-methyl-4-isothiazolin-3-one	5-氯-2-甲基-4-异噻唑啉-3-酮
+2,5-octadec-adiynoic acid methyl ester	2,5-十八碳二炔酸甲酯
+1,3,3-trimethyl-2-methyleneindoleoline	1,3,3-三甲基-2-亚甲基吲哚啉
+3,7,11,15-Tetramethyl-2-hexadecen-1-ol	3,7,11,15-四甲基-2-十六烯-1-醇
+betaine-homocysteine methyltransferase	高半胱氨酸甜菜碱甲基转移酶
+Cholesterol side-chain cleavage enzyme	胆固醇侧链裂解酶
+vinyl chloride-acrylonitrile copolymer	氯乙烯-丙烯腈共聚物
+adipic acid, bis(2-methylpropyl) ester	己二酸二-（2-甲基)丙酯
+11,14-eicosadienoic acid, methyl ester	11,14-二烯二十酸甲酯
+5-oxotetrahydrofuran-2-carboxylic acid	5-氧代四氢呋喃-2-羧酸
+5-methyl-2-(1-methylethyl)cyclohexanol	5-甲基-2-(1-甲基乙基)环己醇
+1,2-dihydro-1,4,6-trimethylnaphthalene	1,2-二氢-1,4,6-三甲基萘
+(E)-6,10-dimethyl-5,9-undecadien-2-one	(E)-6,10-二甲基-5,9,十一烷二烯-2-酮
+2-methyl-5,6,7,8-tetrahydroquinoxaline	2-甲基-5,6,7,8-四氢喹喔啉
+1-naphthaleneacetic acid, methyl ester	α-萘乙酸甲酯
+1-methylethyl-4-methyl-3-cyclopentenol	1-甲基乙基-4-甲基-3-环戊烯醇
+hexanoic acid, 3-hydroxy-, ethyl ester	3-羟基己酸乙酯
+1,1,5-trimethyl-1,2-dihydronaphthalene	1,1,5-三甲基-1,2-二氢萘
+(Z,Z)-octadecadienoic acid ethyl ester	(Z,Z)-9,12-十八碳二烯酸乙酯
+butanoic acid, 3-hydroxy-, ethyl ester	3-羟基-丁酸乙酯
+6,9-octadecadiynoic acid, methyl ester	6,9-十八碳二炔酸甲酯
+9-octadecenoic acid (Z)-, methyl ester	(Z)-9-十八烯酸甲酯
+methyl-5-(1-methylethenyl)-cyclohexene	1-甲基-5-(1-甲基乙烯基)-环己烯
+2-phenylbenzimidazole-5-sulphonic acid	苯基苯并咪唑磺酸
+5-(2-bromoethyl)-2,3-dihydrobenzofuran	5-(2-溴乙基)-2,3-二氢苯并呋喃
+5,9-octadecadienoic acid, methyl ester	5,9-十八碳二烯酸甲酯
+human telomerase reverse transcriptase	人端粒酶逆转录酶
+ethyl 1-hydroxycyclopentadienylformate	1-羟基环戊基甲酸乙酯
+(E,Z)-2,4-decadienoic acid, ethyl ester	(E,Z)-2,4-癸二烯酸乙酯
+2-hydroxyl-3-methyl-2-cyclopenten-1-one	2-羟基-3-甲基-2-环戊烯酮
+cyclopropanenonanoic acid, methyl ester	环丙基壬酸甲酯
+5,7,3'-trihydroxy-6,4'-dimethoxyflavone	5,7,3'-三羟基-6,4'-二甲氧基黄酮
+dammar-20(22)E,24-diene-3β,6α,12β-triol	达玛-20(22)E,24-二烯-3β,6α,12β-三醇
+7,10-octadecadienoic acid, methyl ester	7,10-十八烷二烯酸甲酯
+phthalic acid, bis(2-ethoxy)ethyl ester	邻苯二甲酸二(2-乙氧基)乙酯
+1-(4-methoxyphenyl)-1-carbopropyl ether	1-(4-甲氧基苯基)-1-甲丙醚
+copolymer, vinyl chloride-vinyl acetate	氯乙烯-醋酸乙烯
+cyclopentane, 1-ethyl-3-methyl-, trans-	反-1-乙基-3-甲基环戊烷
+molybdovanadophosphoric heteropoly acid	磷钼钒杂多酸
+4-methoxyindol-3-ylmethyl glucosinolate	4-甲氧吲哚甲基硫苷
+9-octadecenoic acid, methyl ester, (Z)-	(Z)-9-十八碳酸甲酯
+2-acetenyl-2-butenoic acid, ethyl ester	2-乙炔基-2-丁烯酸乙酯
+2-methyl-6-methylene-3,7-octadiene-2-ol	2-甲基-6-亚甲基-3,7-辛二烯-2-醇
+phthalic acidylbutyl-2-ethylhexyl ester	邻苯二甲酸丁基-2-乙基己基酯
+2-cyano-3-amino-3-phenylancryic acetate	氰烯菌酯
+methyl-(2-hydroxy-3-ethoxy-benzyl)ether	(2-羟基-3-乙氧基-苯甲基)甲基醚
+5-methyl-2-(1-methylethyl)-cyclohexanol	5-甲基-2-(1-甲基乙基)-环己醇
+3,7,11,15-tetrylmethyl-1-hexadecen-3-ol	3,7,11,15-四甲基-1-十六碳烯-3-醇
+2,3,7,8-tetrachlorodibenzo-para-dioxine	2,3,7,8-四氯二苯并-对-二噁英
+Sodium phosphate tribasic dodecahydrate	十二水磷酸三钠
+3-methyl-butanoate-3-methyl-butyl ester	3-甲基-丁酸-3-甲基-丁酯
+1,2,3-trimethoxy-5-(2-propenyl)-benzene	1,2,3-三甲氧基-5-(2-丙烯基)-苯
+9-hexadecenoic acid, methyl ester, (Z)-	(Z)-9-十六烯酸甲酯
+Phosphoribosyltransferase, nicotinamide	尼克酰胺磷酸核糖转移酶
+isomerase, deoxyribonucleate topo-, IIa	拓扑异构酶IIa
+trans-5-methyl-2-isopropyl-2-hexen-1-al	反式-5-甲基-2-异丙基-2-己烯-1-醛
+11β-hydroxysteroid dehydrogenase type 1	11β-羟基类固醇脱氢酶
+2,6-bis(1,1-dimethylethyl)-4-methyl-phenol	2,6-双(1,1-二甲基乙基)-4-甲基苯酚
+2-O-alpha-D-glucopyranosyl-L-ascorbic acid	维生素C糖苷
+1,6-dimethyl-4-(1-methylethyl)-naphthalene	1,6-二甲基-4-(1-甲基乙基)-萘
+ethylenediamine tetraacetic acid disodium salt	EDTA二钠
+2-methyl-2-(3-methyl-1-vinyl-2-butenyl)oxirane	2-甲基-2-(3-甲基-1-乙烯基-2-丁烯基)环氧乙烷
+3,6-dimethoxy-9-(2-phenylethynyl)-fluoren-9-ol	3,6-二甲氧基-9-(2-苯基乙炔基)-芴-9-醇
+kaempferol-3,7-di-O-β-D-glucopyranoside	山柰酚-3,7-二-O-β-D-吡喃葡萄糖苷
+dehydrogenase, glyceraldehyde phosphate	三磷酸甘油醛脱氢酶
+N-butyl-N-ethyl-2,2-dimethylpropanamide	N-丁基-N-乙基-2,2-二甲基丙酰胺
+7-hexadecenoic acid, methyl ester, (Z)-	(Z)-7-十六碳烯酸甲酯
+6'-O-β-D-glucopyranosyl gentiopicroside	6'-O-β-D-吡喃葡萄糖基-龙胆苦甙
+gonadotrophin releasing hormone agonist	促性腺激素释放激素激动剂
+1,5,5-trimethyl-3-methylene-cyclohexene	1,5,5-三甲基-3-亚甲基-环己烯
+2-methyl-3-(1-methylethyl)-cyclohexanol	2-甲基-3-(1-甲基乙基)-环己醇
+9,12-hexadecadienoic acid, methyl ester	9,12-十六碳二烯酸甲酯
+heparin-binding epidermal growth factor	肝素结合表皮生长因子
+1,1-dichloro-1,2,2,2-tetrafluorineethane	1,1-二氯-1,2,2,2-四氟乙烷
+1(2,6-dihydroxy-4-methoxyphenyl)ethanone	1(2,6-二羟基-4-甲氧苯基)乙酮
+ticarcillin sodium-potassium clavulanate	替卡西林钠-克拉维酸钾
+α,α,4-trimethyl-3-cyclohexene-1-methanol	α,α,4-三甲基-3-环己烯-1-甲醇
+3,5-di-tert-butyl-4-hydroxy-acetophenone	3，5-二叔丁基-4-羟基苯乙酮
+1-chloroethyl-3-methylimidazole chloride	氯化1-氯乙基-3-甲基咪唑
+butyl alcohol mixed with 2-ethyl hexanol	丁辛醇
+2-propenoic acid, 3-phenyl-, ethyl ester	3-苯基-2-丙烯酸乙酯
+1-(+)-ascorbic acid, 2,6-dihexadecanoate	1-(+)-抗坏血酸-2,6-棕榈酯
+N-(2,4-dinitrophenyl)pyridinium chloride	氯化N-(2,4-二硝基苯基)吡啶
+dimethylaminoethyl ginkgolide B mesylate	甲磺酸胺银杏内酯B
+octadecyldimethylbenzylammonium chloride	十八烷基二甲基苄基氯化铵
+1,5,9-cycoldodecatriene, 1,5,9-trimethyl	1,5,9-三甲基-1,5,9-环十二碳三烯
+1-(1,4-dimethyl-3-cyclohexenyl)-ethanone	1-(1,4-二甲基-3-环己烯)-乙酮
+hydrolase, guanosine triphosphate cyclo-	三磷酸鸟苷环化水解酶
+ammonium magnesium phosphate hexahydrate	六水磷酸铵镁
+2,2,4-trimethylpentanediolisobutyl ester	2,2,4-三甲基戊二醇异丁酯
+7-difluoromethyl-5,4'-dimethoxygenistein	7-二氟亚甲基-5,4'-二甲氧基金雀异黄素
+2-ethyl-4-hydroxy-5-methyl-3(2H)furanone	2-乙基-4-羟基-5-甲基-3(2H)-呋喃酮
+3-chloro-2,2-dimethyl propionyl chloride	3-氯-2，2-二甲基丙酰氯
+3,7,7-trimethyl-bicyclo[4.1.0]hept-2-ene	3,7,7-三甲基-二环[4.1.0]庚-2-烯
+cis-3,4',5-trimethoxy-3'-hydroxystilbene	顺-3,4',5-三甲氧基-3'-羟基芪
+8,9-dehydro-9-formyl-cycloisolongifolene	8,9-脱氢-9-甲酰-环异长叶烯
+5,7-dihydroxy-3,3',4'-trimethoxy flavone	5,7-二羟基-3,3',4'-三甲氧基黄酮
+2-methyl-5-(1-methylethenyl)cyclohexanol	2-甲基-5-(1-甲基乙烯基)环己醇
+carbonyl cyanide m-chlorophenylhydrazone	碳酰氰间氯苯腙
+tetracosamethylcyclododecasiliconoxidane	二十四甲基环十二硅氧烷
+polyhexamethyleneguanidine hydrochloride	聚六亚甲基胍基盐酸盐
+1,1-diethylhexane(hexanal diethylacetal)	1,1-二乙基己烷(己醛二乙缩醛)
+cyclohexanone 1,2-propylene glycol ketal	环己酮1,2-丙二醇缩酮
+2-isopropenyl-5-methyl-4-hexenyl acetate	2-异丙烯基-5-甲基-4-己烯基乙酸
+4,4'-diaminostilbene-2,2'-disulfonic acid	4,4'-二氨基二苯乙烯-2,2'-双磺酸
+2,4,7-trihydroxy-9,10-dihydrophenanthrene	2，4，7-三羟基-9，10-二氢菲
+1,6,10-dodecatrien-3-ol, 3,7,11-trimethyl	3,7,11-三甲基-1,6,10-环十二碳三烯
+1,7,7-trimethyl-dicyclo[2.2.1]2-heptanone	1,7,7-三甲基双环[2.2.1]-2-庚酮
+15-methyl-hexadecanoic acid, methyl ester	15-甲基-棕榈酸甲酯
+2-benzothiazolesulfenamide, N-cyclohexyl-	N-环己基-2-苯并噻唑次磺酰胺
+1-(4'-sulfophenyl)-3-carboxy-5-pyrazolone	1-(4'-磺酸基苯基)-3-羧基-5-吡唑啉酮
+cyclohexene, 4-methyl-1-(1-methylethenyl)	4-甲基-1-(1-甲基乙烯基)-环己烯
+5-chloromethyl-1,3-benzodioxacyclopentene	5-氯甲基-1,3-苯并二氧杂环戊烯
+disodium ethylenediamine tetraacetic acid	乙二胺四乙酸钠
+1,6-dimethyl-4-(1-carboethyl)-naphthalene	1,6-二甲基-4-(1-甲乙基)-萘
+4-amino-3,5-bis(4-pyridyl)-1,2,4-triazole	4-氨基-3,5-二(4-吡啶基)-1,2,4-三唑
+α,4-dimethyl-3-cyclohexene-1-Acetaldehyde	α,4-二甲基-3-环己烯基-1-乙醛
+4-amino-3,5-dichloro-2,6-difluoropyridine	4-氨基-3,5-二氯-2,6-二氟吡啶
+isomerase, deoxyribonucleate topo-, II, a	DNA拓扑异构酶IIa
+acetamide, 2-chloro-N,N-di-2-propen-1-yl-	草毒死
+2-acrylamido-2-methylpropanesulfonic acid	2-丙烯酰胺胺基-2-甲基丙磺酸
+6-(2-butenyl)-1,5,5-trimethyl-cyclohexene	6-(2-丁烯基)-1,5,5-三甲基-环己烯
+11,13-dimethyl-12-tetradecen-1-yl acetate	11,13-二甲基-12-十四碳烯-1-醇乙酸酯
+2,6,6-trimethyl-2,4-cycloheptadiene-1-one	2,6,6-三甲基-2,4-环庚二烯-1-酮
+(3E,5E)-2,6-dimethyl-1,3,5,7-octatetraene	(3E,5E)-2,6-二甲基-1，3，5，7-辛四烯
+4,5-di-O-caffeoylquinic acid methyl ester	4,5-二咖啡酰奎宁酸甲酯
+dodecyl dimethyl benzyl ammonium chloride	十二烷基苄基二甲基氯化铵
+polyhexamethylene guanidine hydrochloride	盐酸聚六亚甲基双胍
+5-methyl-2-(1-methylethenyl)-cyclohexanol	5-甲基-2-(1-甲基乙烯基)-环己醇
+Z-tetrahydro-6-(2-pentenyl)-2H-pyran-2-one	Z-四氢-6-(2-戊烯基)-2H-吡喃-2-酮
+3-(4-chlorophenyl) propyl methanesulfonate	3-(4-氯苯基)丙基甲磺酸酯
+1,3,3-trimethyl-dicyclo[2.2.1]heptan-2-one	1,3,3-三甲基-双环[2.2.1]庚烷-2-酮
+3β-hydroxy-5α,6α-epoxy-7-megastigmen-9-one	3β-羟基-5α,6α-环氧-7-大柱香波龙烯-9-酮
+butanedioic acid, hydroxyl-, diethyl ester	苹果酸二乙酯
+1,3-benzodioxole,4-methoxy-6-(2-propenyl)-	4-甲氧基-6-（2-丙烯基）1，3-苯并间二氧杂环戊烯
+sodium methylene bis-naphthalene sulfonate	亚甲基双萘磺酸盐
+propanoic acid, 2,2-dimethyl-, butyl ester	2,2-二甲基丙酸丁酯
+4,4'-diamino stilbene-2,2'-disulfonic acid	4,4'-二氨基二苯乙烯-2,2'-二磺酸
+Heptafluorobutanoic acid, heptadecyl ester	七氟丁酸十七烷基酯
+chloramphenicol and salicyic acid tincture	氯柳酊
+bicyclo[4.1.0]hept-3-ene, 3,7,7-trimethyl-	3，7，7-三甲基-二环[4.1.0]庚-3-烯
+11,14,17-eicosatrienoic acid, methyl ester	11，14，17-二十碳三烯酸甲酯
+adenine diphosphoglucose pyrophosphorylase	ADP葡萄糖焦磷酸化酶
+17-methoxyl-7-hydroxyl-benzofuran chalcone	17-甲氧基-7-羟基-苯并呋喃查尔酮
+1,4-cyclohexadiene-1,2-dicarboic anhydride	1,4-环己二烯-1,2-二甲酸酐
+1,3-di(3-aminopropyl)tetramethyldisiloxane	1,3-双(3-氨基丙基)四甲基二硅氧烷
+polyoxyethylene lauryl ether sodium sulfate	脂肪醇聚氧乙烯醚硫酸盐
+1,8-dihydroxy-3-methyl-9,10-anthracenedione	1,8-二羟基-3-甲基-9,10-蒽二酮
+hydrogenated acrylonitrile-butadiene rubber	氢化丁腈橡胶
+1-phenyl-4-(2-cyano-2-phenylethenyl)benzene	1-苯基-4-(2-氰基-2-苯基乙烯基)苯
+hexadecanoic acid, 15-methyl-, methyl ester	15-甲基棕榈酸甲酯
+2,6,10-trimethyl-2,6,9,11-dodecyl tetraenal	2，6，10-三甲基-2，6，9，11-十二烷四烯醛
+2,3-epoxypropyl trimethyl ammonium chloride	2,3-环氧丙基三甲基氯化铵
+(S)-α,α,4-trimethyl-3-cyclohexen-1-methanol	(S)-α,α,4-三甲基-3-环己烯-1-甲醇
+Cyanidin-3-feruloyl-sophoroside-5-glucoside	矢车菊-3-阿魏酰-槐糖苷-5-葡萄糖苷
+2,2',3,3',4,4',5,5',6,6'-decachlorobiphenyl	2,2',3,3',4,4',5,5',6,6'-十氯联苯
+1-(1,5-dimethyl-4-hexylene)-4-methylbenzene	1-(1,5-二甲基-4-己烯)-4-甲基苯
+5,7,2',5'-tetrahydroxy-8,6'-dimethoxyflavone	5,7,2',5'-四羟基-8,6'-二甲氧基黄酮
+1-(3-methyl-2-butenoxy)-4-(1-propene)benzene	1-(3-甲基-2-丁烯氧基)-4-(1-丙烯基)苯
+5-isopropyl-2-mehtylbicyclo[3.1.0]hexan-2-ol	二环[3.1.0]-2-甲基-5-异丙基-2-羟基己烷
+tetrasodium ethylenediamine tetraacetic acid	乙二胺四乙酸四钠
+1,3,4-trimethyl-3-cyclohexene carboxaldehyde	1,3,4-三甲基-3-环己烯甲醛
+procollagen type I amino-terminal propeptide	I型前胶原氨基端前肽
+(S)-1-methyl-4-(1-methylethenyl)-cyclohexene	(S)-1-甲基-4-异丙稀基-1-环己烯
+2H-Pyran-4-ol, tetrahydro-3-pentyl-, acetate	茉莉吡喃
+6,6-dimethyl-5-methylene-1,3-cyclopentadiene	6,6-二甲基-5-亚甲基-1,3-环戊二烯
+uridinediphosphate glucose pyrophosphorylase	尿苷二磷酸葡萄糖焦磷酸化酶
+disodium calcium ethylenediaminetetraacetate	依地酸二钠钙
+2-methyl-5-isopropyl-bicyclo[3.1.0]-2-hexene	2-甲基-5-异丙基-二环[3.1.0]-2-己烯
+N-isobutyl-(2E,4Z,8Z,10E)-dodecatetraenamide	(2E,4Z,8Z,10E)-异丁基十二碳四烯酰胺
+7-hydroxy-3-(1,1-dimethylpropenyl-2)coumarin	7-羟基-3-（1，1-二甲基丙-2-烯基）香豆素
+trans-3-methyl-6-isopropyl-2-cyclohexen-1-ol	反-3-甲基-6-异丙基-2-环己烯-1-醇
+acryloyloxyethyl trimethyl ammonium chloride	丙烯酰氧乙基三甲基氯化铵
+2-propenoic acid, homopolymer, ammonium salt	聚丙烯酸铵
+2,3-epoxy propyl trimethyl ammonium chloride	2,3-环氧丙基三甲基氧化铵
+uridine 5-diphosphate glucuronosyltransferase	尿苷二磷酸葡醛酸转移酶
+3-difluoromethoxy-2,4,5-trifluorobenzoic acid	3-二氟甲氧基-2,4,5-三氟苯甲酸
+1,1-dimethyl-3-methylene-2-ethenylcyclohexane	1,1-二甲基-3-亚甲基-2-乙烯基环己烷
+1,4,7-cycloundecatriene, 1,5,9,9-tetramethyl-	1,5,9,9-四甲基-1,4,7-环十一烷三烯
+butanoic acid, 2-methyl-, 2-phenylethyl ester	2-甲基丁酸-2-苯乙酯
+1-ethyl-3-methylimidazolium tetrafluoroborate	1-乙基-3-甲基咪唑四氟硼酸盐
+Butanoic acid, 3-methyl-, 2-methylbutyl ester	3-甲基-丁酸, 2-甲基丁酯
+1-methyl-4-(1-methylethyl)-1,4-cyclohexadiene	1-甲基-4-(1-甲基乙基)-1,4-环己二烯
+sodium methylene dimethylnaphthalenesulfonate	亚甲基双甲基萘磺酸钠
+naphthalene, 1,2,3,4-tetrahydro-5,6-dimethyl-	5,6-二甲基-1,2,3,4-四氢化萘
+butanoic acid, 2-methyl-, 2-methylbutyl ester	2-甲基-丁酸-2-甲基丁酯
+1-butyl-3-methylimidazolium tetrafluoroborate	1-丁基-3-甲基咪唑四氟硼酸盐
+1,3,5,7,9-pentaethylcyclopentylsiliconoxidane	1,3,5,7,9-五乙基环戊硅氧烷
+2-diethylamino-6-methyl-4-hydroxyl pyrimidine	2-二乙基氨基-6-甲基-4-羟基嘧啶
+α-methyl-α-(4-methyl-3-pentenyl)epoxymethanol	α-甲基-α-(4-甲基-3-戊烯基)环氧甲醇
+4-methyl-1-(1-methylethyl-3-cyclohexene-1-ol)	4-甲基-1-(1-甲乙基-3-环己烯-1-醇)
+3-methylene-1,1-dimethyl-2-ethenylcyclohexane	3-亚甲基-1,1-二甲基-2-乙烯基环己烷
+1,6-dimethyl-4-isopropyltetrahydronaphthalene	1,6-二甲基-4-异丙基四氢萘
+N,N-dimethyl-N-dodecyl benzylaminium chloride	十二烷基二甲基苄基氯化铵
+2,6,6-trimethyl-2-cyclohexene-1-carboxaldehyde	2,6,6-三甲基-2-环己烯-1-羧醛
+1,2,3,4-cyclobutanetetracarboxylic dianhydride	1,2,3,4-环丁烷四酸二酐
+Proteinase, endothelin precursor-processing, 1	内皮素转化酶
+acyl-coenzyme A: cholesterol acyltransferase-1	酰基辅酶A:胆固醇酰基转移酶1
+epoxypropyl dodecyl dimethyl ammonium chloride	环氧丙基十二烷基二甲基氯化铵
+6-methyl-5-(1-methylethyl)-5-heptene-3-yn-2-ol	6-甲基-5-(1-甲基乙基)-5-庚烯-3-炔-2-醇
+2-ethenyl-1,1-dimethyl-3-methylene-cyclohexane	2-乙烯基-1,1-二甲基-3-亚甲基-环己烷
+5,6-dihydrocyclopenta[C]-1,2-dithiole-3-thione	5,6-二氢环戊烯并1,2-二硫杂环戊烯-3-硫酮
+N,N-bis(2-methylpropyl)-3-phenyl-2-propenamide	N,N-二(2-甲基丙基)-3-苯基-2-丙烯酰胺
+methylcyanidin 3-O-(6-O-p-coumaroyl) glucoside	甲基花青素3-O-(6-O-对香豆酰)葡萄糖苷
+tissue inhibitor of matrix metalloproteinase-2	基质金属蛋白酶抑制剂-2
+blood-coagulation factor VIII, von Willebrand'	血友病因子
+propyl 10-hydroxy-11-morpholin-4-yl-undecanoate	10-羟基-11-吗啉-4-基-十一烷酸丙酯
+2-methyl-5-(1-methylethenyl)-2-cyclohexen-1-one	2-甲基-5-(1-甲基乙烯基)-2-环己烯-1-酮
+hydroxypropyl methylcellulose acetate succinate	醋酸羟丙基甲基纤维素琥珀酸酯
+2,2'-methylenedikis(4-methyl-6-tertbutylphenol)	2,2'-亚甲基双(4-甲基-6-叔丁基苯酚)
+1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine	1-甲基-4-苯基-1, 2, 3, 6-四氢吡啶
+4-(1-methylethyl)-1-cyclohexen-1-carboxaldehyde	4-(1-甲基乙基)-1-环己烯-1-醛
+4,7-di(4-hexylthiophene)-2,1,3-benzothiadiazole	4,7-二(4-己基噻吩)-2,1,3-苯并噻二唑
+6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-methanol	6,6-二甲基二环[3.1.1]庚-2-烯-2-甲醇
+2,6-octadien-1-ol, 3,7-dimethyl-, acetate, (Z)-	(Z)-乙酸3,7-二甲基-2,6-辛二烯酯
+1,6-octadien-3-ol,3,7-dimethyl-,2-aminobenzoate	2-氨基苯甲酸-3,7-二甲基-1,6-辛二烯-3-酯
+1-methyl-4-(1-methylethylidene)-1,4-cyclohexene	1-甲基-4-(1-甲基亚乙基)环已烯
+(1R)-1,7,7-trimethyl-bicyclo[2.2.1]heptan-2-one	(1R)-1,7,7-三甲基-二环[2.2.1]庚-2-酮
+platelet-derived endothelial cell growth factor	血小板衍化内皮细胞生长因子
+blood-coagulation factor VIII, von Willebrand's	血管性血友病因子
+methyl 2-amino-4-carbosulfonylcarbamoylbenzoate	2-氨基-4-甲磺酰基氨基甲基苯甲酸甲酯
+butanoic acid, 2-hydroxy-3-methyl-, ethyl ester	2-羟基-3-甲基-丁酸乙酯
+3-cyclopentene-1-acetaldehyde, 2,2,3-trimethyl-	2,2,3-三甲基环戊-3-烯-1-乙醛
+1-methyl-1-vinyl-2,4-di(methylvinyl)cyclohexane	1-甲基-1-乙烯基-2,4-二(甲基乙烯基)环己烷
+4-hydroxy-2(5)-ethyl-5(2)-methyl-3(2H)-furanone	4-羟基-2(5)-乙基-5(2)-甲基-3(2H)-呋喃酮
+synthase, 1-aminocyclopropane-1-carboxylic acid	ACC合酶
